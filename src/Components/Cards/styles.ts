@@ -1,12 +1,12 @@
 import styled from "styled-components"
 
 export const Container = styled.div`
-  display: flex;
+  margin-top: 1.4rem;
+  display: grid;
+  width: 100vw;
+  grid-template-columns: repeat(4, 300px);
+  justify-items:center;
   justify-content: center;
-  align-items: center;
-  max-width: 1200px;
-  flex-wrap: wrap;
-  padding: 40px 0;
 `
 export const Box = styled.div`
   height: 360px; /* What??? */
@@ -39,13 +39,15 @@ export const A = styled.a`
   display: inline-block;
   padding: 8px 20px;
   background: #ebf5fc;
-  margin-top: 15px;
   border-radius: 20px;
   color: #777;
   text-decoration: none;
   font-weight: 700;
   box-shadow: 0 10px 20px rgba(0,0,0, 0.2);
   margin-bottom: 0.5rem;
+  transition: 0.9s;
+  outline: none;
+  cursor: pointer;
 `
 export const H3 = styled.h3`
   font-size: 1.2em;
@@ -59,6 +61,7 @@ export const P = styled.p`
   font-size: 1em;
   font-weight: 300;
   color: #777;
+  margin-bottom: 0.5rem;
   z-index: 1;
   transition: 0.7s;
 `
@@ -84,24 +87,23 @@ export const Card = styled.div`
   border-radius: 15px;
   margin: 15px; 
 
-&:hover {
-  ${Box} {
-    transform: scale(1.25); //translateY(-50px);
-    box-shadow: 0 10px 40px rgba(0,0,0,0.2);
-    //background: linear-gradient(45deg, #fda085, #D7FFFE)
-  }
-  ${H2} {
-    //color: rgba(0, 0, 0, 0.1);
-  }
-  ${A} {
-    background: #70e000;
-    color: #FFF;
-  }
-  ${H3} {
-    //color: #FFF;
-  }
-  ${P} {
-    //color: #FFF;
-  }
+  &:hover {
+    ${Box} {
+      transform: scale(1.25); //translateY(-50px);
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+      //background: linear-gradient(45deg, #accbee, #D7FFFE)
+    }
+    ${H2} {
+      //color: rgba(0, 0, 0, 0.1);
+    }
+    ${A} {
+      background: #96e6a1;
+    }
+    ${H3} {
+      //color: #FFF;
+    }
+    ${P} {
+      //color: #FFF;
+    }
 }
 `

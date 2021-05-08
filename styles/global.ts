@@ -8,10 +8,4 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
   }
-  body {
-    display: flex;
-    justify-content: center;
-    min-height: 100vh;
-    background: #ebf5fc;
-  }
 `;

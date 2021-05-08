@@ -517,7 +517,7 @@
       "subject": "Refrigerador, geladeira",
       "model": "BRM39EB, BRM39ER, BRM39EK, BRM42EK, BRM42ER,  BRM38EB",
       "cost": "160,00",
-      "title": "Placa Athena, Placa Atena"
+      "title": "Placa Athena, Placa Atena, placa geladeira"
   },
   {
       "name": "Controle Athena Bivolt",
@@ -527,7 +527,7 @@
       "subject": "Refrigerador, geladeira",
       "model": "BRB39AB, CRB36AB, CRB36AC, CRB36AK, CRB39AB, CRM45AB",
       "cost": "160,00",
-      "title": "Placa athena, Placa Atena"
+      "title": "Placa athena, Placa Atena, placa geladeira"
   },
   {
       "name": "Controle Eletrônico 220V",
@@ -537,7 +537,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM45A, CRM47F, CRM49A, CRM30D, CRM33D, CRM34F, BRM36D, CRM44D, BRM36E, BRU49B, BRM36E, BRJ49B",
       "cost": "220,00",
-      "title": "controle eletronico, placa eletronica"
+      "title": "controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Controle Eletrônico Bivolt",
@@ -547,7 +547,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "BRM50N, BRK50N, BRM48N, BRM47G, BRW50N, BRW50N",
       "cost": "320,00",
-      "title": "controle eletronico, placa eletronica"
+      "title": "controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Placa Controle 220V Kirchoff",
@@ -557,7 +557,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM50AB, CRM50AR",
       "cost": "240,00",
-      "title": "controle eletronico, placa eletronica"
+      "title": "controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Controle Eletrônico Bivolt Mind",
@@ -567,7 +567,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "BRM49B, BRM49BR, BRM47BR, BRM47BB, BRQ47BB",
       "cost": "340,00",
-      "title": "eletronico"
+      "title": "eletronico, placa geladeira"
   },
   {
       "name": "Controle Eletrônico Bivolt Fides",
@@ -577,7 +577,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM51AK, CRM51AB, CRM55AB, CRM55AK",
       "cost": "340,00",
-      "title": "controle eletronico, placa eletronica"
+      "title": "controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Placa Controle Athena",
@@ -587,7 +587,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRD49AB, CRB46AB, CRD37EB, CRD45EB",
       "cost": "160,00",
-      "title": "placa athena, placa atena, controle eletronico, placa eletronica"
+      "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Controle Eletrônico Athena",
@@ -597,7 +597,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM52AK, CRM52AB, CRM55AB, CRM51AK, CRM51AB, CRM55AK",
       "cost": "200,00",
-      "title": "placa athena, placa atena, controle eletronico, placa eletronica"
+      "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Placa Controle Hércules",
@@ -607,7 +607,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM37EB",
       "cost": "160,00",
-      "title": "placa hercules, controle hercules, controle eletronico, placa eletronica"
+      "title": "placa hercules, controle hercules, controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Placa Controle Hércules",
@@ -617,7 +617,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM34GB, CRM33ER, CRM33EB",
       "cost": "160,00",
-      "title": "placa hercules, controle hercules, controle eletronico, placa eletronica"
+      "title": "placa hercules, controle hercules, controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Placa Controle Bivolt Fides",
@@ -637,7 +637,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "BRM48NR, BRM48NB, BRM50NR, BRM50NB, BRK50NG, BRK50NB",
       "cost": "360,00",
-      "title": "rede elétrica, rede eletrica, controle eletronico, placa eletronica, controle eletrônico"
+      "title": "rede elétrica, rede eletrica, controle eletronico, placa eletronica, controle eletrônico, placa geladeira"
   },
   {
       "name": "Placa Controle Athena",
@@ -647,7 +647,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "BRM39EB, RBM42EB, BRM38EB",
       "cost": "160,00",
-      "title": "placa athena, placa atena, controle eletronico, placa eletronica"
+      "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Placa Controle Athena Indi",
@@ -657,7 +657,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM54BK, CRM54BB, CRM45BB",
       "cost": "160,00",
-      "title": "placa athena, placa atena, controle eletronico, placa eletronica"
+      "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
   },
   {
       "name": "Placa Controle e Console",
@@ -667,7 +667,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM42NB, CRM43HB, CRM43NB, CRM43ZB",
       "cost": "150,00",
-      "title": ""
+      "title": "placa geladeira"
   },
   {
       "name": "Placa Controle e Console",
@@ -677,7 +677,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRM42N, CRM43Z, CRM42H, CRM35N, CRM43H, CRM43N, ",
       "cost": "150,00",
-      "title": ""
+      "title": "placa geladeira"
   },
   {
       "name": "Termostato",
@@ -1408,6 +1408,16 @@
       "model": "Cabo flexível",
       "cost": "8,00",
       "title": "Fio 6, Fio 6 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
+  },
+  {
+      "name": "Placa Eletrônica LT12F Bivolt",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201326",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT12f",
+      "cost": "200,00",
+      "title": "potencia"
   }  
 ]
 
