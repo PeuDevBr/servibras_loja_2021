@@ -42,15 +42,15 @@ export default function Cards({ products, search, setSearch }) {
                 <H3>{card.name}</H3>
                 <P>{card.code}</P>
                 <P>R$ {card.cost}</P>
-                <A>Verificar</A>
-                {/* onClick={handleOpenCardModal}
+                <A href={`https://api.whatsapp.com/send?1=pt_BR&phone=558299802-2266&text=Tenho interesse na peça: ${card.code} - ${card.name}`} className="button" target="_blank">Verificar</A>
+                
                 <Modal
                   isOpen={isCardModalOpen}
                   onRequestClose={handleCloseCardModal}
                 >
                   <h2>{card.name}</h2>
                 </Modal>
-                */}
+                
               </Content>
             </Box>
           </Card>
