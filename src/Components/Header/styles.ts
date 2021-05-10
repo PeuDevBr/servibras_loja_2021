@@ -1,8 +1,21 @@
 import styled from "styled-components"
 
 export const Container = styled.div`
-  height: 120px; /* What??? */
-  margin-top: 1rem;
+  background: #fff;
+  position: fixed;
+  top: 0;
+  z-index: 99; 
+  width:100%;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+`
+
+export const Content = styled.div`
+  width: 100vw;
+  max-width: 1440px;
+  height: 100px; /* What??? */
+  margin-top: 0.2rem;
   margin-bottom: -0.5rem;
   top: 20px;
   left: 20px;
@@ -15,9 +28,10 @@ export const Container = styled.div`
   justify-content: space-around;
   align-items: center;
   transition: 0.7s;
+  
 `
 export const Heading = styled.h2`
-  font-size: 3rem;
+  font-size: 2rem;
   color: #fff;
   border: 2px solid white;
   border-radius: 0.5rem;

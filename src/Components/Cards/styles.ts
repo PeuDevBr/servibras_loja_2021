@@ -1,12 +1,12 @@
 import styled from "styled-components"
 
 export const Container = styled.div`
-  margin-top: 1.4rem;
   display: grid;
   width: 100vw;
   grid-template-columns: repeat(4, 300px);
   justify-items:center;
   justify-content: center;
+  margin-top: 120px;
 `
 export const Box = styled.div`
   height: 360px; /* What??? */

@@ -5,7 +5,7 @@
       "code": "W10446925",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "BWL11AB, CWC10AB, BWB11AB, CWG11AB, CWL75A, CWL10B, BWC11AB, BWC10A, BWC09AB, BWC08A, BWC07A, BWL09BB, BWB08A, BWB09AB",
+      "model": "BWB11ABBNA,BWL11ABBNA,BWL11AR,BWK11ABBNA,CWG11AB,CWK12ABBNA,CWL10B,CWL75A,CWK11AB,CWC10AB,BWC11AB,BWC09AB,BWC10BB,BWC07A,BWC08A,BWC10A,BWB09AB,BWL09BBBNA,BWB08A,BWB08AB",
       "cost": "180,00",
       "title": "potencia"
   },
@@ -45,7 +45,7 @@
       "code": "W10201539",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "CWL10A, CWL08B, CWL08A, BWC06A, BWL11A, BWB11AB, BWC11AB, BWC10A, BWC10BB, CWL75A, BWS11AB, BWJ11AB, CWL10B, BWL09A, BWK11AB, BWL07A",
+      "model": "CWL08C,CWC24A,CWL08A,CWL08B,CWL10A,BWL11AR,BWC06A,BWB11ABBNA,BWL11ABBNA,BWC11AB,BWC10A,BWC10BB,BWJ11ABBNA,BWS11ABBNA,CWL10B,CWL75A,BWL09A,BWL07A,BWK11ABBNA",
       "cost": "38,00",
       "title": "Valvula Dupla 220V"
   },
@@ -55,7 +55,7 @@
       "code": "W10518617",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "BWC10BB, BWL09A, CWH12AB, BWC10A, BWC10B, BWL11A, BWG11A, CWL08B, CWL10B, CWL75A, BWH09B",
+      "model": "CWH12ABBNA,BWC10BB,BWM08A,BWT09A,BWC07A,BWF08A,BWF08B,BWF09A,BWQ22D,BWQ24B,BWT08A,BWT08C,BWT09AB,BWX09A,XWH08A,BWM08AB,BWB22B,BWB22A,BWF24A,BWG10A,BWH08B,BWH09A,BWM06A,BWQ06A,BWQ07A,BWQ22C,CWE06A,CWE06B,BWC10A,BWC06A,BWL07A,BWL09A,CWL08C,CWC24A,CWL08A,CWL08B,CWL10A,CWL10B,CWL75A,BWQ22B,BWQ24A,BWF22A,BWL11AR,BWH09B,BWT09B,BWH09BB,BWX09B,BWT09BB,CWC22B,CWC22A,BWH15ABBNA,BWS15ABBNA,BWK15ABBNA,BWN15AKBNA,CWE15ABBNA,CWL16ABBNA,CWE10ABBNA,CWE11ABBNA,CWG12ABBNA,CWK12ABBNA,BWB08A,CWG11AB,BWB09AB,BWB08AB,BWS09ABBNA,BWJ11ABBNA,BWL11ABBNA,BWS11ABBNA,BWJ09ABBNA,BWP11A9,CWB08ABBNA,CWC08ABBNA,CWE08ABBNA,CWE09AB,CWH11BBBNA,CWH11ABBNA,CWB09ABBNA,BWG11ABBNA,BWG12AB,BWH11AB,BWG11ARBNA,BWH12ABBNA,BWQ12ABBNA,BWU11AB,BWT12ABBNA,BWU11AE,BWK11ABBNA,CWK11AB,CWC10AB,BWL09BBBNA,BWC09AB,BWC08A,BWR12A9BNA,BWB11ABBNA,BWR12ABBNA,BWK12A9BNA,BWK12ABBNA,BWC11AB,",
       "cost": "65,00",
       "title": ""
   },
@@ -70,7 +70,7 @@
       "title": ""
   },
   {
-      "name": "Capacitor 15UF 220V",
+      "name": "Capacitor 15µF 220V",
       "avatar": "https://th.bing.com/th/id/OIP.bM9uujHCv4aWNOzX1D63kwHaHa?w=188&h=188&c=7&o=5&pid=1.7",
       "code": "W10527820",
       "brand": "Brastemp/Consul",
@@ -470,7 +470,7 @@
       "title": ""
   },
   {
-      "name": "Capacitor 0,75uF 220V",
+      "name": "Capacitor 0,75µF 220V",
       "avatar": "data:image/jpeg;base64,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",
       "code": "W10563678",
       "brand": "Brastemp/Consul",
@@ -480,7 +480,7 @@
       "title": ""
   },
   {
-      "name": "Capacitor 0,80uF 220V",
+      "name": "Capacitor 0,80µF 220V",
       "avatar": "data:image/jpeg;base64,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",
       "code": "326051079",
       "brand": "Brastemp/Consul",
@@ -490,7 +490,7 @@
       "title": ""
   },
   {
-      "name": "Capacitor 0,85uF 220V",
+      "name": "Capacitor 0,85µF 220V",
       "avatar": "data:image/jpeg;base64,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",
       "code": "W10160037",
       "brand": "Brastemp/Consul",
@@ -500,7 +500,7 @@
       "title": ""
   },
   {
-      "name": "Capacitor 0,90uF 220V",
+      "name": "Capacitor 0,90µF 220V",
       "avatar": "data:image/jpeg;base64,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",
       "code": "W10160038",
       "brand": "Brastemp/Consul",
@@ -1410,7 +1410,7 @@
       "title": "Fio 6, Fio 6 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
   },
   {
-      "name": "Placa Eletrônica LT12F Bivolt",
+      "name": "Placa Eletrônica LT12F",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
       "code": "70201326",
       "brand": "Electrolux",
@@ -1418,6 +1418,1786 @@
       "model": "LT12f",
       "cost": "200,00",
       "title": "potencia"
-  }  
+  },
+  {
+      "name": "Placa Eletrônica LT60",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64800651",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT60",
+      "cost": "150,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LBU15",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200963",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LBU15",
+      "cost": "220,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT12Q",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201455",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT12Q",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Fonte LBU15",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201835",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LBU15",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LEC12",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202049",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LEC12",
+      "cost": "220,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTD06",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202985",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTD06",
+      "cost": "240,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LAC11",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99035115",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LAC11",
+      "cost": "180,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTC15",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200649",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTC15",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTE09",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202145",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTE09",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTE12 (SEM RABICHO)",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202905",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTE12",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTE12 (COM RABICHO)",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A97937901",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTE12",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LAC13",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99035116",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LAC13",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LAC12",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99035119",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LAC12",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTA15 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200040",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTA15",
+      "cost": "450,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTC12 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200647",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTC12",
+      "cost": "180,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTE07 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202144",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTE07",
+      "cost": "140,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT12B ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99035101",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT12B",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LAC16 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99035117",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LAC16",
+      "cost": "180,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT13B ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99035138",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT13B",
+      "cost": "130,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTE06 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502027",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTE06",
+      "cost": "160,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTE08 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200433",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTE08",
+      "cost": "170,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTC10 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201296",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTC10",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT13B ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99035102",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT13B",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTD09 ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202657",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTF09",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Pressostato 4 Níveis ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500213",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "40,00",
+      "title": "niveis, nivel, nível"
+  },
+  {
+      "name": "Unidade Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500292",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "placa interface, placa display"
+  },
+  {
+      "name": "Placa Interface Irene",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502207",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "90,00",
+      "title": "placa display, unidade interface"
+  },
+  {
+      "name": "Placa Interface LBU15",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200964",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LBU15",
+      "cost": "200,00",
+      "title": "placa display, unidade interface"
+  },
+  {
+      "name": "Placa Eletrônica LTC07",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200562",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTC07",
+      "cost": "180,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT11F",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201675",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT11F",
+      "cost": "220,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT15F",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201676",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LBULT15F15",
+      "cost": "180,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTD11",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202916",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTD11",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTD15",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70203330",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTD15",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT10B",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70203415",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT10B",
+      "cost": "180,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTD13",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70203307",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTD13",
+      "cost": "200,00",
+      "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Kit Trasmissão",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "51041813",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "400,00",
+      "title": "mecanismo, transmissao, mecanica"
+  },
+  {
+      "name": "Conjunto Mecanismo",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "60200501",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "280,00",
+      "title": "mecanismo, transmissao, mecanica"
+  },
+  {
+      "name": "Placa Controle LSE12",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "PRPSSW2D3G",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LSE12",
+      "cost": "350,00",
+      "title": "potencia, eletronico, potência, eletrônica"
+  },
+  {
+      "name": "Válvula Dupla 220v",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64287504",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "55,00",
+      "title": "valvula, valvula de entrada, válvula de entrada, vlavula entrada"
+  },
+  {
+      "name": "Válvula Tripla 220v",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64287507",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "130,00",
+      "title": "valvula, valvula de entrada, válvula de entrada, vlavula entrada"
+  },
+  {
+      "name": "Válvula Dupla 220v",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64287510",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "valvula, valvula de entrada, válvula de entrada, vlavula entrada"
+  },
+  {
+      "name": "Válvula Dupla 220v",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64287533",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "valvula, valvula de entrada, válvula de entrada, vlavula entrada"
+  },
+  {
+      "name": "Eletrobomba de Drenagem 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64503057",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "bomba drenagem, bomba de drenagem"
+  },
+  {
+      "name": "Válvula Dupla 220v",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99084602A",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "valvula, valvula de entrada, válvula de entrada, valvula entrada, válvula entrada"
+  },
+  {
+      "name": "Válvula Dupla 220v",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99089302",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "55,00",
+      "title": "valvula, valvula de entrada, válvula de entrada, valvula entrada, válvula entrada"
+  },
+  {
+      "name": "Gaxeta Porta do Freezer",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A03625401",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": "borracha do freezer"
+  },
+  {
+      "name": "Gaxeta Porta do Refrigerador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A03625402",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "140,00",
+      "title": "borracha da geladeira"
+  },
+  {
+      "name": "Chave Seletora",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "256039000042",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": ""
+  },
+  {
+      "name": "Capacitor 14µF 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64188839",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "22,00",
+      "title": ""
+  },
+  {
+      "name": "Chave Seletora Fixa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64484593",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "80,00",
+      "title": ""
+  },
+  {
+      "name": "Chave Seletora Monitorizada",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64491600",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "90,00",
+      "title": ""
+  },
+  {
+      "name": "Atuador de Freio Sankyo 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64491712",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "70,00",
+      "title": "atuador freio"
+  },
+  {
+      "name": "Pressostato 4 Níveis",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500307",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "35,00",
+      "title": "pressostato 4 niveis"
+  },
+  {
+      "name": "Atuador de Freio Leili 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500826",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "70,00",
+      "title": "atuador feio"
+  },
+  {
+      "name": "Sensor de Pressão Presostato Linear",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502725",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": "pressostato linear"
+  },
+  {
+      "name": "Pressostato 4 Níveis",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502726",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "22,00",
+      "title": "pressostato 4 niveis"
+  },
+  {
+      "name": "Atuador de Freio 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500662",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "65,00",
+      "title": "atuador freio"
+  },
+  {
+      "name": "Pressostato Eletrônico",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64800263",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "80,00",
+      "title": "pressostato eletronico"
+  },
+  {
+      "name": "Pressostato 4 Níveis",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67496251",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": "pressostato 4 niveis"
+  },
+  {
+      "name": "Placa Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500857",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "85,00",
+      "title": "placa display"
+  },
+  {
+      "name": "Painel Eletrônico Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "6450252",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "180,00",
+      "title": "painel eletronico, placa interface, placa display"
+  },
+  {
+      "name": "Kit Placa Sensor DF50",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70001456",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "DF50",
+      "cost": "280,00",
+      "title": "kit df50, kit placa df50, kit placa ventilador"
+  },
+  {
+      "name": "Painel Eletrônico Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502351",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "DF50",
+      "cost": "170,00",
+      "title": "Placa Interface, placa display, painel eletronico"
+  },
+  {
+      "name": "Painel Eletrônico Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64800224",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "120,00",
+      "title": "placa interface, painel eletronico, placa display"
+  },
+  {
+      "name": "Placa Potência",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202436",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "160,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  },
+  {
+      "name": "Placa Potência",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202437",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "180,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  },
+  {
+      "name": "Placa Potência",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A02021005",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "180,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência Olinda DF47/50",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500437",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df50, df47",
+      "cost": "110,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502201",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "220,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64800634",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "80,00",
+      "title": "painel eletrônico, painel eletronico, placa display"
+  } ,
+  {
+      "name": "Placa Potência DF80/80X",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64800637",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df80, df80x",
+      "cost": "200,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência DF46",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200537",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df46",
+      "cost": "100,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência RFE38",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200714",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "rfe38",
+      "cost": "110,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência RFE39",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202612",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "RFE39",
+      "cost": "100,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência DFN39/39X",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202973",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "DFN39, DFN39X",
+      "cost": "110,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Interface Martina",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A10089001",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "50,00",
+      "title": "placa display"
+  },
+  {
+      "name": "Placa Potência Olinda DF47/50",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200521",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df47/50",
+      "cost": "120,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  },
+  {
+      "name": "Caixa Controle DC49X",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70292464",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "DC49X",
+      "cost": "200,00",
+      "title": "placa potencia, controle eletrônico, controle eletronico"
+  },
+  {
+      "name": "Placa Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500135",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "ltc10, ltc15, ltc12, lt12f, lt15f, lt11f",
+      "cost": "90,00",
+      "title": "placa display"
+  },
+  {
+      "name": "Placa Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500189",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "lte09",
+      "cost": "40,00",
+      "title": "placa display"
+  },
+  {
+      "name": "Placa Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64503063",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "lac13",
+      "cost": "80,00",
+      "title": "placa display"
+  },
+  {
+      "name": "Placa Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64503081",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "80,00,00",
+      "title": "placa display"
+  },
+  {
+      "name": "Caixa Controle DF46",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200522",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df46",
+      "cost": "130,00",
+      "title": "placa potencia, placa potência, controle eletrônico, controle eletronico"
+  },
+  {
+      "name": "Placa Potência Inverssora LSI09",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "PRPSSWLF",
+      "brand": "Electrolux",
+      "subject": "lava e seca, lavadora, secadora",
+      "model": "LSI09",
+      "cost": "600,00",
+      "title": "placa potencia, placa inversora"
+  },
+  {
+      "name": "Resistência Evaporador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502674",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "150,00",
+      "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
+  } ,
+  {
+      "name": "Resistência Evaporador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502746",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "90,00",
+      "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
+  } ,
+  {
+      "name": "Resistência da Calha 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64684457",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "65,00",
+      "title": "resistencia"
+  } ,
+  {
+      "name": "Resistência Evaporador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64684670",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
+  } ,
+  {
+      "name": "Placa Eletrônica",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64594063",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "150,00",
+      "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64800638",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "200,00",
+      "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência DF36/36X",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201095",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df36, df36x",
+      "cost": "120,00",
+      "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência DF42/42X",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201381",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df42, df42x",
+      "cost": "120,00",
+      "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência DI80X",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A02607601",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "di80x",
+      "cost": "250,00",
+      "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
+  } ,
+  {
+      "name": "Placa Potência DF44",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A09083214A",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df44",
+      "cost": "150,00",
+      "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
+  },
+  {
+      "name": "Motor Ventilador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64376967",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "df36",
+      "cost": "100,00",
+      "title": ""
+  } ,
+  {
+      "name": " Rede Motor Ventilador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64594024",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": ""
+  } ,
+  {
+      "name": "Rede Sensor Ventilador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201290",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": "motor ventilador"
+  } ,
+  {
+      "name": "Rede Sensor Ventilador 6 Vias 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201412",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": "motor ventilador"
+  } ,
+  {
+      "name": "Rede Sensor Ventilador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70292361",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": "motor ventilador"
+  } ,
+  {
+      "name": "Rede Sensor Ventilador 8 Vias 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70294645",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "150,00",
+      "title": "motor ventilador"
+  } ,
+  {
+      "name": "Rede Sensor Ventilador 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70295123",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "110,00",
+      "title": "motor ventilador"
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "21011700400002",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "40,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "256099000353",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "60,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64778618",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "50,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato T55-0912C",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64778622",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "70,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64778672",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "60,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato Baixo Ruído",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64778675",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": "termostato baixo ruido"
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64786945",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "100,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64786901",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "70,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64786914",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "60,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64786926",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "80,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64786932",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "80,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64786934",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "60,00",
+      "title": ""
+  } ,
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A05441301",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "45,00",
+      "title": ""
+  },
+  {
+      "name": "Termostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A05546201",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "70,00",
+      "title": ""
+  },
+  {
+      "name": "Dobradiça Com Mola",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62900695",
+      "brand": "Electrolux",
+      "subject": "freezer",
+      "model": "",
+      "cost": "70,00",
+      "title": "dobradica mola, dobradiça mola, dobradica com mola"
+  },
+  {
+      "name": "Cabo Elétrico 10A",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500290",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador, freezer",
+      "model": "",
+      "cost": "20,00",
+      "title": "cabo eletrico, tomada, cabo alimentacao, cabo alimentação"
+  },
+  {
+      "name": "Kit Ventilação Coifa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "80000509",
+      "brand": "Electrolux",
+      "subject": "coifa, depurador, sugar",
+      "model": "",
+      "cost": "200,00",
+      "title": "kt coifa, kit duparador, kit sugar, instalação coifa, instalação depurador"
+  },
+  {
+      "name": "Cubo do Cesto",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65400082",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "suporte do cesto, suporte cesto, cubo cesto"
+  },
+  {
+      "name": "Mangueira de Drenagem",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A02080805",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "25,00",
+      "title": "mangueira drenagem, mangueira saída, mangueira de saída, mangueira saida, mangueira de saida"
+  },
+  {
+      "name": "Transmissão Completa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "60017222",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "380,00",
+      "title": "mecanismo, mecanica, transmissao, mecânica"
+  },
+  {
+      "name": "Trasmissão Completa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70201828",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "450,00",
+      "title": "mecanismo, mecanica, transmissao, mecânica"
+  },
+  {
+      "name": "Capacitor 0,85µF 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64188869",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "",
+      "cost": "45,00",
+      "title": ""
+  },
+  {
+      "name": "Membrana Painel MEF41",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64501801",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mef41",
+      "cost": "50,00",
+      "title": ""
+  },
+  {
+      "name": "Fusível Cerâmica 10A 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502175",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "",
+      "cost": "15,00",
+      "title": "fusivel de vidro, fusivel vidro"
+  },
+  {
+      "name": "Magnetron 900W 220V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64980189",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "",
+      "cost": "180,00",
+      "title": ""
+  },
+  {
+      "name": "Membranda Painel MEF28",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67400254",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mef28",
+      "cost": "40,00",
+      "title": ""
+  },
+  {
+      "name": "Tampa de Mica",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67700030",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "",
+      "cost": "15,00",
+      "title": ""
+  },
+  {
+      "name": "Membrana Painel MEF33",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "69580892",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mef33",
+      "cost": "35,00",
+      "title": ""
+  },
+  {
+      "name": "Membrana Painel MEF41",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "69580894",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mef41",
+      "cost": "40,00",
+      "title": ""
+  },
+  {
+      "name": "Membrana Painel ME18S",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "69580898",
+      "brand": "Electrolux",
+      "subject": "Microondas",
+      "model": "me18s",
+      "cost": "22",
+      "title": ""
+  },
+  {
+      "name": "Base do Prato Giratório",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "69999741",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "",
+      "cost": "15,00",
+      "title": "suporte do prato"
+  },
+  {
+      "name": "Placa Controle MG41R",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70000738",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mg41r",
+      "cost": "100,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface MG41R",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70000740",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "MG41R",
+      "cost": "80,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Controle MEF41 Bivolt",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70002531",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mef41",
+      "cost": "120,00",
+      "title": ""
+  },
+  {
+      "name": "Membrana Painel MEF33 (Similar)",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "920501",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mef33",
+      "cost": "55,00",
+      "title": ""
+  },
+  {
+      "name": "Membrana Painel MEF41 (Similar)",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "920502",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "",
+      "cost": "55,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Controle MEF41",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A05104401",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "mef41",
+      "cost": "130,00",
+      "title": ""
+  },
+  {
+      "name": "Membrana Painel MEO42",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A06414801",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "MEO42",
+      "cost": "45,00",
+      "title": ""
+  },
+  {
+      "name": "Kit Fusível Térmico",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64188736",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "27,00",
+      "title": "fusivel termico, fusível termico, fusivel térmico"
+  },
+  {
+      "name": "Sensor Degelo Fúsivel 4 Vias",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64501590",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "70,00",
+      "title": ""
+  },
+  {
+      "name": "Rede Multiflow",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502196",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "20,00",
+      "title": ""
+  },
+  {
+      "name": "Kit Sensor temperatura",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70000949",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "25,00",
+      "title": "sensor temperatura"
+  },
+  {
+      "name": "Kit Fusível Térmico",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202837",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "50,00",
+      "title": "fusivel termico, fusível termico, fusivel térmico"
+  },
+  {
+      "name": "Rede Sensor Degelo",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70288465",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "60,00",
+      "title": "fusivel termico, fusível termico, fusivel térmico"
+  },
+  {
+      "name": "Rede Bimital",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70291132",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "50,00",
+      "title": ""
+  },
+  {
+      "name": "Rede Sensor Degelo",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70294643",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "60,00",
+      "title": "fusivel termico, fusível termico, fusivel térmico"
+  },
+  {
+      "name": "Rede Sensor Degelo",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70295125",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "65,00",
+      "title": "fusivel termico, fusível termico, fusivel térmico"
+  },
+  {
+      "name": "Bucha da Dobradiça Porta",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "07710101",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "2,00",
+      "title": "bucha da porta"
+  },
+  {
+      "name": "Dobradiça Intermediária",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62545864",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": "dobradiça da porta, dobradiça porta"
+  },
+  {
+      "name": "Interruptor Duplo",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64484557",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "30,00",
+      "title": "interruptor da porta, interruptor da lampada, interruptor da lâmpada, interruptor lampada, interruptor lâmpada"
+  },
+  {
+      "name": "Interruptor da Porta",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64491713",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": "interruptor da porta, interruptor da lampada, interruptor da lâmpada, interruptor lampada, interruptor lâmpada"
+  },
+  {
+      "name": "Dobradiça Intermediária",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65158599",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "20,00",
+      "title": "dobradiça da porta, dobradiça porta"
+  },
+  {
+      "name": "Suporte do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67403305",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": ""
+  },
+  {
+      "name": "Suporte do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67404026",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": ""
+  },
+  {
+      "name": "Suporte do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67405516",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00,00",
+      "title": ""
+  },
+  {
+      "name": "Auto Close Door",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67493070",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "12,00",
+      "title": "bucha da porta, bucha dobradiça, bucha da dobradiça, bucha porta"
+  },
+  {
+      "name": "Hélice Ventilador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67493234",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "18,00",
+      "title": "helice"
+  },
+  {
+      "name": "Suporte do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67496080",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": ""
+  },
+  {
+      "name": "Suporte do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67496214",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "10,00",
+      "title": ""
+  },
+  {
+      "name": "Emblema Electrolux",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "69580676",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": "nome electrolux, adesivo electrolux"
+  },
+  {
+      "name": "Complemento com Pino",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "72000458",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "20,00",
+      "title": "pino dobradiça, pino da dobradiça, pino da porta, pino porta"
+  },
+  {
+      "name": "Suporte do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A07412401",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": ""
+  },
+  {
+      "name": "Suporte do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A07412402",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": ""
+  },
+  {
+      "name": "Botão do Forno",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "226039002418",
+      "brand": "Electrolux",
+      "subject": "fogão, forno, fogao",
+      "model": "",
+      "cost": "15,00",
+      "title": "manipulo"
+  },
+  {
+      "name": "Usina Acendedor",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "305591702",
+      "brand": "Electrolux",
+      "subject": "fogão, fogaol forno",
+      "model": "",
+      "cost": "100,00",
+      "title": ""
+  },
+  {
+      "name": "Manipulo Super",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "60200350",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "12,00",
+      "title": "botao, botão"
+  },
+  {
+      "name": "Coroa Queimador Tripla Chama",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "60200548",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "60,00",
+      "title": ""
+  },
+  {
+      "name": "Coroa Queimador SR",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62546039",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "24,00",
+      "title": ""
+  },
+  {
+      "name": "Coroa Queimador Rápido MR",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62546040",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "40,00",
+      "title": ""
+  },
+  {
+      "name": "Capa Esmaltada Queimador Auxiliar",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62603889",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "30,00",
+      "title": ""
+  },
+  {
+      "name": "Capa Esmaltada Central Trila Chama",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62603890",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "16,00",
+      "title": ""
+  },
+  {
+      "name": "Capa Esmaltada Externa Tripla Chama",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62603891",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "60,00",
+      "title": ""
+  },
+  {
+      "name": "Capa Queimador SR",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62645863",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "30,00",
+      "title": ""
+  },
+  {
+      "name": "Capa Queimador Rápido",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62645865",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "30,00",
+      "title": ""
+  },
+  {
+      "name": "Vela Ignição Mesa 540MM",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64188853",
+      "brand": "Electrolux",
+      "subject": "forno, fogao, fogão",
+      "model": "",
+      "cost": "22,00",
+      "title": ""
+  },
+  {
+      "name": "Usina 7 Saídas",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64980269",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "30,00",
+      "title": "usina 7 saidas"
+  },
+  {
+      "name": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "12,00",
+      "title": ""
+  }       
 ]
 
