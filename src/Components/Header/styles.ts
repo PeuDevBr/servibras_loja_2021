@@ -30,12 +30,14 @@ export const Content = styled.div`
   transition: 0.7s;
   
 `
-export const Heading = styled.h2`
+export const Heading = styled.a`
   font-size: 2rem;
   color: #fff;
   border: 2px solid white;
   border-radius: 0.5rem;
   padding: 0.8rem;
+  cursor: pointer;
+  text-decoration: none;
 `
 
 export const SearchContainer = styled.form`

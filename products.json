@@ -2030,14 +2030,24 @@
       "title": "painel eletronico, placa interface, placa display"
   },
   {
-      "name": "Kit Placa Sensor DF50",
+      "name": "Kit Placa Sensor DF47/50",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
       "code": "70001456",
       "brand": "Electrolux",
       "subject": "geladeira, refrigerador",
-      "model": "DF50",
+      "model": "DF50, df47",
       "cost": "280,00",
       "title": "kit df50, kit placa df50, kit placa ventilador"
+  },
+  {
+      "name": "Kit Placa Sensor DF46/49",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70001454",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "DF46, df49",
+      "cost": "250,00",
+      "title": "kit df49, kit placa df49, kit placa ventilador"
   },
   {
       "name": "Painel Eletrônico Interface",
