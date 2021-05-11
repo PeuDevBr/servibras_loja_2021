@@ -6,6 +6,7 @@ import { scrollToTop } from "../functions/scrollToTop";
 
 export default function Home() {
   const [search, setSearch] = useState("");
+  const productos = products.sort()
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -15,8 +16,8 @@ export default function Home() {
   }
   return (
     <>
-      <Header handleSubmit={(e) => handleSubmit(e)} />
-      <Cards products={products} search={search} setSearch={setSearch}/>
+      <Header setSearch={setSearch} handleSubmit={(e) => handleSubmit(e)}  />
+      <Cards products={productos} search={search} setSearch={setSearch}/>
     </>
   );
 }

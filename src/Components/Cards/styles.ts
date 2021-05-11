@@ -44,15 +44,16 @@ export const A = styled.a`
   text-decoration: none;
   font-weight: 700;
   box-shadow: 0 10px 20px rgba(0,0,0, 0.2);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
+  margin-top: 0.3rem;
   transition: 0.9s;
   outline: none;
   cursor: pointer;
 `
 export const H3 = styled.h3`
-  font-size: 1.2em;
+  font-size: 1em;
   color: #777;
-  min-height: 3.2rem;
+  min-height: 3rem;
   z-index: 1;
   transition: 0.7s;
 `
@@ -61,7 +62,7 @@ export const P = styled.p`
   font-size: 1em;
   font-weight: 300;
   color: #777;
-  margin-bottom: 0.5rem;
+  margin-top: 0.25rem;
   z-index: 1;
   transition: 0.7s;
 `
@@ -71,8 +72,8 @@ export const Content = styled.div`
   text-align: center;
 `
 export const Image = styled.img`
-  height: 13rem;
-  width: 13rem;
+  height: 12rem;
+  width: 12rem;
   
 `
 

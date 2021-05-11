@@ -337,7 +337,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWG11A, BWH11A",
       "cost": "30,00",
-      "title": ""
+      "title": "base dobradica, base da dobradica, base da dobradiça"
   },
   {
       "name": "Correia Sincronizada",
@@ -2340,6 +2340,16 @@
       "title": "placa eletronica, placa potencia, placa potência, controle eletrônico, controle eletronico"
   } ,
   {
+      "name": "Placa Interface DFN39",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70202974",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "dfn39",
+      "cost": "100,00",
+      "title": "placa display"
+  },
+  {
       "name": "Placa Potência DF42/42X",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
       "code": "70201381",
@@ -2927,7 +2937,7 @@
       "subject": "refrigerador, geladeira",
       "model": "",
       "cost": "15,00",
-      "title": "dobradiça da porta, dobradiça porta"
+      "title": "dobradiça da porta, dobradiça porta, dobradica"
   },
   {
       "name": "Interruptor Duplo",
@@ -2957,7 +2967,7 @@
       "subject": "refrigerador, geladeira",
       "model": "",
       "cost": "20,00",
-      "title": "dobradiça da porta, dobradiça porta"
+      "title": "dobradiça da porta, dobradiça porta, dobradica"
   },
   {
       "name": "Suporte do Puxador",
@@ -3194,20 +3204,470 @@
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
       "code": "64980269",
       "brand": "Electrolux",
-      "subject": "refrigerador, geladeira",
+      "subject": "forno, fogao, fogão",
       "model": "",
       "cost": "30,00",
       "title": "usina 7 saidas"
   },
   {
-      "name": "",
+      "name": "Kit Instalação Cooktop",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
-      "code": "",
+      "code": "80000491",
+      "brand": "Electrolux",
+      "subject": "fogão, fogao, forno, cooktop",
+      "model": "",
+      "cost": "140,00",
+      "title": "mangueira, registro, kit mangueira"
+  },
+  {
+      "name": "Manipulo Mesa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99331701",
+      "brand": "Electrolux",
+      "subject": "fogão, fogao, forno, cooktop",
+      "model": "",
+      "cost": "10,00",
+      "title": "botão, botao"
+  },
+  {
+      "name": "Sensor Temperatura Unidade Interna",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "12122433",
+      "brand": "Electrolux",
+      "subject": "ar condicionado, condicionador de ar, split, condicionador ar",
+      "model": "",
+      "cost": "25,00",
+      "title": ""
+  },
+  {
+      "name": "Controle Remoto",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "550A2103",
+      "brand": "Electrolux",
+      "subject": "ar condicionado, condicionador de ar, split, condicionador ar",
+      "model": "",
+      "cost": "200,00",
+      "title": ""
+  },
+  {
+      "name": "Bomba de Água",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "109200096089",
+      "brand": "Electrolux",
+      "subject": "climatizador",
+      "model": "",
+      "cost": "65,00",
+      "title": ""
+  },
+  {
+      "name": "Filtro Purificador PAPPCA40",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "15663200A01261",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "",
+      "cost": "160,00",
+      "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador"
+  },
+  {
+      "name": "Adaptador Purificador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "306649900081",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "PE11B, PE11X",
+      "cost": "50,00",
+      "title": "adaptador torneira, adaptador mangueira, conectror, adaptador da torneira, adaptador da mangueira, conexão"
+  },
+  {
+      "name": "Filtro Purificador PAPPCA20",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "80000703",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "PE10B, PE10X",
+      "cost": "110,00",
+      "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador"
+  },
+  {
+      "name": "Conector Rápido",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A12432601",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "",
+      "cost": "20,00",
+      "title": "conexão, adaptador, mangueira"
+  },
+  {
+      "name": "Tubo do Purificador 2 Metros ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A12432801",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "",
+      "cost": "15,00",
+      "title": "mangueira"
+  },
+  {
+      "name": "Microinterruptor",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "306623000026",
+      "brand": "Electrolux",
+      "subject": "purificador, climatizador",
+      "model": "",
+      "cost": "17,00",
+      "title": "microchave"
+  },
+  {
+      "name": "Braço Co-Injetado",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "60016900",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "braco, braço injetado, braço co injetado"
+  },
+  {
+      "name": "Chaveta Cubo Cesto",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65400634",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "15,00",
+      "title": "cunha"
+  },
+  {
+      "name": "Engaste Catraca",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "62602411",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "40,00",
+      "title": ""
+  },
+  {
+      "name": "Dispositivo Trava da Tampa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64287508",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "80,00",
+      "title": "trava tampa"
+  },
+  {
+      "name": "Dispositivo Trava da Tampa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500306",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "75,00",
+      "title": "trava tampa"
+  },
+  {
+      "name": "Rolamento Catraca",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65277803",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "45,00",
+      "title": ""
+  },
+  {
+      "name": "Rolamento Chavetado",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65277811",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "45,00",
+      "title": ""
+  },
+  {
+      "name": "Retentor do Tanque",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65400924",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "30,00",
+      "title": ""
+  },
+  {
+      "name": "Retentor do Tanque",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65477810",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "30,00",
+      "title": ""
+  },
+  {
+      "name": "Retentor Eixo Agitador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65477818",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "10,00",
+      "title": ""
+  },
+  {
+      "name": "Correia",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "65976541",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "25,00",
+      "title": ""
+  },
+  {
+      "name": "Correia Elástica Poly-V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67400522",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "35,00",
+      "title": ""
+  },
+  {
+      "name": "Correia V",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67400918",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "40,00",
+      "title": ""
+  },
+  {
+      "name": "Mangueira do Pressostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67402186",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "15,00",
+      "title": "tubo pressostato, mangueira pressostato"
+  },
+  {
+      "name": "Pé Nivelador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67403075",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "5,00",
+      "title": ""
+  },
+  {
+      "name": "Mangueira do Pressostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67403461",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "15,00",
+      "title": "mangueira pressostato, tubo pressostato, tubo do pressostato"
+  },
+  {
+      "name": "Pé Nivelador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67490030",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "7,00",
+      "title": ""
+  },
+  {
+      "name": "Engaste Termoatuador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67492431",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "8,00",
+      "title": ""
+  },
+  {
+      "name": "Mangueira do Pressostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67590259",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "10,00",
+      "title": "mangueira pressostato, tubo pressostato, tubo do pressostato"
+  },
+  {
+      "name": "Mangueira do Pressostato",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67590293",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": "mangueira pressostato, tubo pressostato, tubo do pressostato"
+  },
+  {
+      "name": "Mola Horizontal",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "72002208",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "32,00",
+      "title": "mola do cesto, mola do tanque, mola tirante"
+  },
+  {
+      "name": "Pino da Dodradiça",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "77492294",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "2,00",
+      "title": ""
+  },
+  {
+      "name": "Botão Chave Seletora",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "77492382",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "15",
+      "title": "botao, manipulo"
+  },
+  {
+      "name": "Pé Nivelador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A99014001",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "8,00",
+      "title": ""
+  },
+  {
+      "name": "Filtro 12G",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "6020011I",
       "brand": "Electrolux",
       "subject": "refrigerador, geladeira",
       "model": "",
+      "cost": "15,00",
+      "title": "filtro secador"
+  },
+  {
+      "name": "Timer Degelo",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64484484",
+      "brand": "Electrolux",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "85,00",
+      "title": "timer eletronico, timer eletrônico"
+  },
+  {
+      "name": "Interruptor da Tampa",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64484494",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "15,00",
+      "title": "chave"
+  },
+  {
+      "name": "Interruptor Secundário",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64484556",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "10,00",
+      "title": "chave"
+  },
+  {
+      "name": "Interruptor",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64484564",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "10,00",
+      "title": "chave"
+  },
+  {
+      "name": "Interruptor",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64491700",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "5,00",
+      "title": "interruptor porta, interruptor da porta, interruptor lampada, interruptor luz"
+  },
+  {
+      "name": "Corpo do Puxador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67491368",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": ""
+  },
+  {
+      "name": "Rodizio",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67491569",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
       "cost": "12,00",
       "title": ""
-  }       
+  },
+  {
+      "name": "Pé Estabilizador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "67491779",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "5,00",
+      "title": ""
+  },
+  {
+      "name": "Suporte Fixo Evaporador",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "77492172",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "20,00",
+      "title": "suporte congelador, suporta da porta"
+  },
+  {
+      "name": "Dobradiça Inferior Direita",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "A05440301",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "60,00",
+      "title": "dobradiça da porta, dobradiça porta, dobradica porta, dobradica da porta"
+  }      
 ]
 

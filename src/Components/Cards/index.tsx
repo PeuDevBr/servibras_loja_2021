@@ -37,7 +37,8 @@ export default function Cards({ products, search, setSearch }) {
           <Card key={card.code}>
             <Box>
               <Content>
-                <Image src={`/images/consul/${card.code}.png`} />
+                <P>{card.brand}</P>
+                <Image src={`/images/parts/${card.code}.png`} />
 
                 <H3>{card.name}</H3>
                 <P>{card.code}</P>
