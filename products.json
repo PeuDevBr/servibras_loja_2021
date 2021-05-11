@@ -1660,46 +1660,6 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Pressostato 4 Níveis ",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
-      "code": "64500213",
-      "brand": "Electrolux",
-      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
-      "cost": "40,00",
-      "title": "niveis, nivel, nível"
-  },
-  {
-      "name": "Unidade Interface",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
-      "code": "64500292",
-      "brand": "Electrolux",
-      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
-      "cost": "60,00",
-      "title": "placa interface, placa display"
-  },
-  {
-      "name": "Placa Interface Irene",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
-      "code": "64502207",
-      "brand": "Electrolux",
-      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
-      "cost": "90,00",
-      "title": "placa display, unidade interface"
-  },
-  {
-      "name": "Placa Interface LBU15",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
-      "code": "70200964",
-      "brand": "Electrolux",
-      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "LBU15",
-      "cost": "200,00",
-      "title": "placa display, unidade interface"
-  },
-  {
       "name": "Placa Eletrônica LTC07",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
       "code": "70200562",
@@ -1768,6 +1728,46 @@
       "model": "LTD13",
       "cost": "200,00",
       "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Pressostato 4 Níveis ",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500213",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "40,00",
+      "title": "niveis, nivel, nível"
+  },
+  {
+      "name": "Unidade Interface",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64500292",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "60,00",
+      "title": "placa interface, placa display"
+  },
+  {
+      "name": "Placa Interface Irene",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "64502207",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "90,00",
+      "title": "placa display, unidade interface"
+  },
+  {
+      "name": "Placa Interface LBU15",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
+      "code": "70200964",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LBU15",
+      "cost": "200,00",
+      "title": "placa display, unidade interface"
   },
   {
       "name": "Kit Trasmissão",
