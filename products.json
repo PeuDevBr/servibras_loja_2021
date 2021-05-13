@@ -420,6 +420,717 @@
       "title": ""
   },
   {
+      "name": "Impeller",
+      "code": "326050970",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": "agitador"
+  },
+  {
+      "name": "Soquete Integrado",
+      "code": "W10286851",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "30,00",
+      "title": "soquete lampada, soquete lâmpada, suporte lampada, suporte lâmpada"
+  },
+  {
+      "name": "Eletrobomba 127V",
+      "code": "W10849469",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": ""
+  },
+  {
+      "name": "Rolamento do Motor",
+      "code": "M24080",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "12,00",
+      "title": "rolamento motor"
+  },
+  {
+      "name": "Emblema Consul",
+      "code": "W10557330",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "10,00",
+      "title": "adesivo consul, nome consul"
+  },
+  {
+      "name": "Correia",
+      "code": "000360480",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": ""
+  },
+  {
+      "name": "Polia Movida",
+      "code": "326064069",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": ""
+  },
+  {
+      "name": "Válvula Dupla",
+      "code": "326065358",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "35,00",
+      "title": "valdula dupla, valdula de entrada, válvula de entrada"
+  },
+  {
+      "name": "Polia - KB",
+      "code": "w10181250",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": ""
+  },
+  {
+      "name": "Correia Poli V",
+      "code": "W10470951",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": ""
+  },
+  {
+      "name": "Polia Poli V",
+      "code": "W10606115",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "20,00",
+      "title": ""
+  },
+  {
+      "name": "Pressostato 2 Níveis",
+      "code": "000223069",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "30,00",
+      "title": "pressostato 2 niveis, pressostato 2 nivel"
+  },
+  {
+      "name": "Pressostato 3 Níveis",
+      "code": "326005762",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "35,00",
+      "title": "pressostato 3 niveis, pressostato 3 nivel"
+  },
+  {
+      "name": "Pressostato 3 Níveis",
+      "code": "326013887",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "35,00",
+      "title": "pressostato 3 niveis, pressostato 3 nivel"
+  },
+  {
+      "name": "Pressostato 4 Níveis",
+      "code": "326028183",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "45,00",
+      "title": "pressostato 4 niveis, pressostato 4 nivel"
+  },
+  {
+      "name": "Pressostato 1 Nível",
+      "code": "326057395",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "25,00",
+      "title": "pressostato 1 niveis, pressostato 1 nivel"
+  },
+  {
+      "name": "Pressostato 4 Níveis (W10581537)",
+      "code": "W10343278",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "25,00",
+      "title": "pressostato 4 niveis, pressostato 4 nivel"
+  },
+  {
+      "name": "Pressostato 2 Níveis",
+      "code": "W10617044",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "45,00",
+      "title": "pressostato 2 niveis, pressostato 2 nivel"
+  },
+  {
+      "name": "Pressostato 4 Níveis",
+      "code": "W10619463",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": "pressostato 4 niveis, pressostato 4 nivel"
+  },
+  {
+      "name": "Pressostato 4 Níveis",
+      "code": "W10721910",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "45,00",
+      "title": "pressostato 4 niveis, pressostato 4 nivel"
+  },
+  {
+      "name": "Pressostato 3 Níveis",
+      "code": "W10737624",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "55,00",
+      "title": "pressostato 3 niveis, pressostato 3 nivel"
+  },
+  {
+      "name": "Pressostato",
+      "code": "W11197973",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": ""
+  },
+  {
+      "name": "Pressostato 4 Níveis",
+      "code": "W10581537",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": "pressostato 4 niveis, pressostato 4 nivel"
+  },
+  {
+      "name": "Tirante Reduzido",
+      "code": "326000047",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "2,50",
+      "title": ""
+  },
+  {
+      "name": "Microchave",
+      "code": "326014085",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "22,00",
+      "title": ""
+  },
+  {
+      "name": "Conj. Arrastador",
+      "code": "326019274",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "35,00",
+      "title": ""
+  },
+  {
+      "name": "Roletes do Agitador",
+      "code": "326050583",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "5,00",
+      "title": ""
+  },
+  {
+      "name": "Timer Eletromecanico Minuteira",
+      "code": "326064355",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "30,00",
+      "title": "timer tanquinho"
+  },
+  {
+      "name": "Interruptor da Tampa",
+      "code": "000136565",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "10,00",
+      "title": "microchave, micro chave"
+  },
+  {
+      "name": "Interruptor da Tampa",
+      "code": "000321750",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "6,00",
+      "title": "microchave, micro chave"
+  },
+  {
+      "name": "Interruptor da Tampa",
+      "code": "326019620",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "15,00",
+      "title": "microchave, micro chave"
+  },
+  {
+      "name": "Válvula Dupla 220V",
+      "code": "W10467330",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "70,00",
+      "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
+  },
+  {
+    "name": "Válvula Dupla 220V",
+    "code": "W10714366",
+    "brand": "Brastemp/Consul",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "",
+    "cost": "80,00",
+    "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
+},
+  {
+      "name": "Válvula Dupla Agrupada 220V",
+      "code": "W11245250",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
+},
+  {
+      "name": "Suporte do Cesto Usinado",
+      "code": "326060074",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": ""
+  },
+  {
+      "name": "Suporte do Cesto Redondo",
+      "code": "W10329947",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": ""
+  },
+  {
+      "name": "Prato Giratório",
+      "code": "W10160090",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "90,00",
+      "title": "prato do microondas, prato microondas, prato giratorio"
+  },
+  {
+      "name": "Solenoide",
+      "code": "326064104",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "30,00",
+      "title": ""
+  },
+  {
+      "name": "Trava da Tampa",
+      "code": "326066045",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "30,00",
+      "title": "trava tampa, trava da porta"
+  },
+  {
+      "name": "Reed Switch",
+      "code": "W10246430",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "40,00",
+      "title": "microchave, micro chave, micro-chave, sensor magnetico, sensor da tampa"
+  },
+  {
+      "name": "Sensor Magnético",
+      "code": "W10315004",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "25,00",
+      "title": "reed, switch, microchave, micro chave, micro-chave, sensor magnetico, sensor da tampa"
+  },
+  {
+      "name": "Teclado Membrana",
+      "code": "W10325885",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "85,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Eletrônica",
+      "code": "W10331263",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "120,00",
+      "title": "placa eletronica"
+  },
+  {
+      "name": "Sensor Reed Switch",
+      "code": "W10343282",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "50,00",
+      "title": "reed, switch, microchave, micro chave, micro-chave, sensor magnetico, sensor da tampa"
+  },
+  {
+      "name": "Teclado Membrana",
+      "code": "W10488004",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "bms26",
+      "cost": "40,00",
+      "title": ""
+  },
+  {
+      "name": "Trava da Tampa",
+      "code": "W10829873",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "140,00",
+      "title": ""
+  },
+  {
+      "name": "Roldana Prato Giratório",
+      "code": "326051060",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "25,00",
+      "title": "suporte do prato, suporte prato"
+  },
+  {
+      "name": "Roldana Prato Giratório",
+      "code": "W10313522",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "25,00",
+      "title": "suporte do prato, suporte prato"
+  },
+  {
+      "name": "Roldana Prato Giratório",
+      "code": "W10563579",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "25,00",
+      "title": "suporte do prato, suporte prato"
+  },
+  {
+      "name": "Armador de Freio",
+      "code": "004260260",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "12,00",
+      "title": ""
+  },
+  {
+      "name": "Banda de Freio",
+      "code": "326000208",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "18,00",
+      "title": ""
+  },
+  {
+      "name": "Fusível 8A 220V",
+      "code": "326051082",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "20,00",
+      "title": "fusivel"
+  },
+  {
+      "name": "Diodo Duplo",
+      "code": "326063782",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "30,00",
+      "title": ""
+  },
+  {
+      "name": "Fusível 12A 220V",
+      "code": "326064232",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "20,00",
+      "title": "fusivel"
+  },
+  {
+      "name": "Painel Decorativo BWL11",
+      "code": "326064461",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "bwl11ab",
+      "cost": "30,00",
+      "title": "adesivo decorativo"
+  },
+  {
+      "name": "Conjunto Mancal",
+      "code": "326067099",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "50,00",
+      "title": "mecanismo"
+  },
+  {
+      "name": "Mica",
+      "code": "W10160091",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "25,00",
+      "title": ""
+  },
+  {
+      "name": "Painel Decorativo BWL09",
+      "code": "W10247043",
+      "brand": "Brastemp/Consul",
+      "subject": "maquina de lavar, máquina de lavar, lavadora",
+      "model": "bwl09ab",
+      "cost": "50,00",
+      "title": "adesivo decorativo"
+  },
+  {
+      "name": "Microchave",
+      "code": "W10413313",
+      "brand": "Brastemp/Consul",
+      "subject": "climatizador",
+      "model": "",
+      "cost": "20,00",
+      "title": "interruptor"
+  },
+  {
+    "name": "Base da Dodradiça",
+    "code": "W10471600",
+    "brand": "Brastemp/Consul",
+    "subject": "máquina de lavar, lavadora, maquina de lavar",
+    "model": "bwg11ar",
+    "cost": "25,00",
+    "title": "base da dobradica"
+  },
+  {
+      "name": "Placa Interruptor",
+      "code": "W10705128",
+      "brand": "Brastemp/Consul",
+      "subject": "climatizador",
+      "model": "",
+      "cost": "25,00",
+      "title": "microchave"
+  },
+  {
+      "name": "Atuador de Freio 220V",
+      "code": "W10747291",
+      "brand": "Brastemp/Consul",
+      "subject": "maquina de lavar, máquina de lavar, lavadora",
+      "model": "",
+      "cost": "60,00",
+      "title": ""
+  },
+  {
+      "name": "Painel Decorativo",
+      "code": "W10752134",
+      "brand": "Brastemp/Consul",
+      "subject": "maquina de lavar, máquina de lavar, lavadora",
+      "model": "bwk11",
+      "cost": "60,00",
+      "title": "adesivo decorativo"
+  },
+  {
+      "name": "Mangueira de Drenagem",
+      "code": "326064034",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "",
+      "cost": "22,00",
+      "title": "Mangueira de Saída, mangueira de saida"
+  },
+  {
+      "name": "Compressor Rotativo 9.000 Btus",
+      "code": "326053935",
+      "brand": "Brastemp/Consul",
+      "subject": "split, condicionador de ar, ar condicionado",
+      "model": "",
+      "cost": "550,00",
+      "title": "motor"
+  },
+  {
+      "name": "Compressor Rotativo 7.000 Btus",
+      "code": "326061762",
+      "brand": "Brastemp/Consul",
+      "subject": "split, condicionador de ar, ar condicionado",
+      "model": "",
+      "cost": "420,00",
+      "title": "motor"
+  },
+  {
+      "name": "Compressor Rotativo 12.000 Btus",
+      "code": "326050102",
+      "brand": "Brastemp/Consul",
+      "subject": "split, condicionador de ar, ar condicionado",
+      "model": "",
+      "cost": "600,00",
+      "title": "motor"
+  },
+  {
+      "name": "Fusível 8A 220V",
+      "code": "W10619261",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "15,00",
+      "title": "fusivel"
+  },
+  {
+      "name": "Magnetron",
+      "code": "326064221",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "200,00",
+      "title": "fusvel"
+  },
+  {
+      "name": "Porta Lâmpada - BJB",
+      "code": "W10188458",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "20,00",
+      "title": "porta lampada, soquete da lampada, soquete lampada, soquete da lâmpada, soquete lâmpada"
+  },
+  {
+      "name": "Capacitor 0,80µF 220V",
+      "code": "W10313478",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "45,00",
+      "title": ""
+  },
+  {
+      "name": "Motor Síncrono",
+      "code": "W10414529",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "40,00",
+      "title": "motor do prato"
+  },
+  {
+      "name": "Magnetron",
+      "code": "W10563584",
+      "brand": "Brastemp/Consul",
+      "subject": "microondas",
+      "model": "",
+      "cost": "220,00",
+      "title": ""
+  },
+  {
+      "name": "Impeller 6Kg",
+      "code": "326063553",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora, tanquinho, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "35,00",
+      "title": "agitador, batedor"
+  },
+  {
+      "name": "Pé Nivelador",
+      "code": "W10658798",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora, maquina de lavar, máquina de lavar",
+      "model": "",
+      "cost": "8,00",
+      "title": "pe nvelador, pe da maquina, pé da máquina"
+  },
+  {
+      "name": "Interruptor de Luz",
+      "code": "326051258",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "25,00",
+      "title": "interruptor da porta, interruptor geladeira, interruptor da geladeira"
+  },
+  {
+      "name": "Motor Ventilador",
+      "code": "W10168510",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "100,00",
+      "title": ""
+  },
+  {
+      "name": "Interruptor Pendular",
+      "code": "W10308761",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "15,00",
+      "title": ""
+  },
+  {
+      "name": "Bucha da Dobradiça",
+      "code": "151646000",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "2,00",
+      "title": "bucha da porta"
+  },
+  {
       "name": "Suporte do Cesto",
       "avatar": "data:image/jpeg;base64,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",
       "code": "W10647948",
@@ -457,7 +1168,7 @@
       "subject": "Microondas",
       "model": "CMS45A, BMS45C, BMG45A, BMS45A, BMF45A, BMT45A, BMH45A, CMA30A, CMW30A, BMA30A, BMX40A, CMS40A, BMS35A, BMX35A",
       "cost": "22,00",
-      "title": ""
+      "title": "fusivel"
   },
   {
       "name": "Membrana Eletrônica",
@@ -2022,10 +2733,10 @@
   {
       "name": "Painel Eletrônico Interface",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge1gm2pBZhU7xK85Cu7VTKaeaHsp-kavzskO3MDCGrNp9SoRizVIvThf_Xg&usqp=CAc",
-      "code": "6450252",
+      "code": "64502352",
       "brand": "Electrolux",
       "subject": "geladeira, refrigerador",
-      "model": "",
+      "model": "df80, df80x",
       "cost": "180,00",
       "title": "painel eletronico, placa interface, placa display"
   },
