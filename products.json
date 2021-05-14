@@ -801,7 +801,7 @@
       "name": "Placa Eletrônica",
       "code": "W10331263",
       "brand": "Brastemp/Consul",
-      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "subject": "microondas",
       "model": "",
       "cost": "120,00",
       "title": "placa eletronica"
@@ -909,7 +909,7 @@
       "name": "Painel Decorativo BWL11",
       "code": "326064461",
       "brand": "Brastemp/Consul",
-      "subject": "microondas",
+      "subject": "lavadora, maquina de lavar, máquina de lavar",
       "model": "bwl11ab",
       "cost": "30,00",
       "title": "adesivo decorativo"
@@ -1032,7 +1032,7 @@
       "title": "fusivel"
   },
   {
-      "name": "Magnetron",
+      "name": "Magnetron 220V",
       "code": "326064221",
       "brand": "Brastemp/Consul",
       "subject": "microondas",
@@ -1068,7 +1068,7 @@
       "title": "motor do prato"
   },
   {
-      "name": "Magnetron",
+      "name": "Magnetron 220V",
       "code": "W10563584",
       "brand": "Brastemp/Consul",
       "subject": "microondas",
@@ -1107,7 +1107,7 @@
       "name": "Motor Ventilador",
       "code": "W10168510",
       "brand": "Brastemp/Consul",
-      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "subject": "refrigerador, geladeira",
       "model": "",
       "cost": "100,00",
       "title": ""
@@ -1129,6 +1129,384 @@
       "model": "",
       "cost": "2,00",
       "title": "bucha da porta"
+  },
+  {
+      "name": "Timer Eletrônico 220V",
+      "code": "326057394",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "130,00",
+      "title": "timer lavadora, timer consul, timer eletronico"
+  },
+  {
+      "name": "Placa Potência Laplace 127V",
+      "code": "W10446927",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, lavadora, maquina de lavar",
+      "model": "bwc10ab, bwl11ab, bwc10a, bwl11a",
+      "cost": "160,00",
+      "title": "placa potencia, placa consul, placa eletronica, placa eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico Involucro 127V",
+      "code": "W10818971",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "350,00",
+      "title": "controle eletronico, placa potencia, placa potência"
+  },
+  {
+      "name": "Placa Interface Mega",
+      "code": "W11302144",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "180,00",
+      "title": "placa display"
+  },
+  {
+      "name": "Placa Potência Amazon Titan 220V",
+      "code": "W11400731",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "350,00",
+      "title": "placa potencia, placa controle, placa eletronica, placa eletrônica"
+  },
+  {
+      "name": "Controle Reversão Strokes Bivolt",
+      "code": "W10670148",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "160,00",
+      "title": "placa potencia, placa potência, placa controle"
+  },
+  {
+      "name": "Placa Sabre Bulldog 220V",
+      "code": "W10709306",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "300,00",
+      "title": "placa potência, placa potencia, placa controle"
+  },
+  {
+      "name": "Placa Potência e Rede Elétrica Sup.",
+      "code": "W11251568",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "430,00",
+      "title": "placa potencia, placa controle, placa eletronica, placa eletrônica"
+  },
+  {
+      "name": "Controle Eletrônico Envolucro 220V",
+      "code": "W10797831",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora",
+      "model": "",
+      "cost": "300,00",
+      "title": "placa potencia, placa controle, placa eletronica, placa eletrônica"
+  },
+  {
+      "name": "Pé Estabilizador Cinza",
+      "code": "326004342",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "8,00",
+      "title": "pé nivelador, pe nivelador, pe geladeira, pe da geladeira"
+  },
+  {
+      "name": "Pino da Dobradiça",
+      "code": "326023355",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": "pino dobradiça, dino dobradica, pino da dobradica"
+  },
+  {
+      "name": "Interruptor da Lavadora",
+      "code": "326024921",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora, maquina de lavar, máquina de lavar",
+      "model": "",
+      "cost": "8,00",
+      "title": ""
+  },
+  {
+      "name": "Dobradiça Intermediária",
+      "code": "326027198",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "cost": "20,00",
+      "title": "dobradica, dobradiça porta, dobradiça da porta, dobradica porta, dobradica da porta"
+  },
+  {
+      "name": "Suporte Condensador",
+      "code": "326032778",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "10,00",
+      "title": ""
+  },
+  {
+      "name": "Pé Nivelador",
+      "code": "326037073",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "8,00",
+      "title": "pé da geladeira, pe geladeira, pe nivelador"
+  },
+  {
+      "name": "Manípulo Branco",
+      "code": "326064778",
+      "brand": "Brastemp/Consul",
+      "subject": "fogão, forno, fogao",
+      "model": "",
+      "cost": "6,00",
+      "title": "manipulo, botão, botao"
+  },
+  {
+      "name": "Manípulo Cinza",
+      "code": "W10205302",
+      "brand": "Brastemp/Consul",
+      "subject": "fogão, forno, fogao",
+      "model": "",
+      "cost": "10,00",
+      "title": "manipulo, botão, botao"
+  },
+  {
+      "name": "Dobradiça Intermediária",
+      "code": "W10237733",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "",
+      "cost": "25,00",
+      "title": "dobradica"
+  },
+  {
+      "name": "Polia Motora",
+      "code": "W10245146",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora de roupas",
+      "model": "",
+      "cost": "15,00",
+      "title": "polia do motor"
+  },
+  {
+      "name": "Pino da Dobradiça da Tampa",
+      "code": "W10518564",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora de roupas",
+      "model": "bwg11ab, bwg11ar",
+      "cost": "8,00",
+      "title": "pino da tampa. pino da dobradica, pino dobradica, pino dobradiça, pino tampa"
+  },
+  {
+      "name": "Rodízio",
+      "code": "W10520370",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "10,00",
+      "title": "rodizio, rodisio, rodízio"
+  },
+  {
+      "name": "Dobradiça Intermediária",
+      "code": "W10632360",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "15,00",
+      "title": "dobradica intermediaria, dobradica da porta, dobradiça da porta"
+  },
+  {
+      "name": "Filtro de Fiapos",
+      "code": "326050306",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora de roupas",
+      "model": "",
+      "cost": "20,00",
+      "title": "filtro plabo, filtro cesto, filtro do cesto"
+  },
+  {
+      "name": "Mola da Dobradiça",
+      "code": "004257642",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "4,00",
+      "title": "molda da tampa, mola tampa, mola da dobradica, mola dobradiça, mola dobradica"
+  },
+  {
+      "name": "Pino da Dobradiça",
+      "code": "004257669",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "",
+      "cost": "4,00",
+      "title": "pino da tampa, pino tampa, pino dobradiça, pino dobradica, pono da dobradica"
+  },
+  {
+      "name": "Chave Seletora",
+      "code": "326001354",
+      "brand": "Brastemp/Consul",
+      "subject": "cooktop, fogao, fogão",
+      "model": "",
+      "cost": "8,00",
+      "title": "chave rotativa"
+  },
+  {
+      "name": "Dobradiça Inferior",
+      "code": "326025071",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "20,00",
+      "title": "dobradiça da porta, dobradica da porta, dobradiça porta, dobradica inferior"
+  },
+  {
+      "name": "Chave Seletora 3 Posições",
+      "code": "326030802",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, lavadora de roupas, maquina de lavar",
+      "model": "",
+      "cost": "326030802",
+      "title": "chave rotativa"
+  },
+  {
+      "name": "Interruptor da Lâmpada Branco",
+      "code": "326035389",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "20,00",
+      "title": "interruptor da porta"
+  },
+  {
+      "name": "Bucha da Porta",
+      "code": "326037534",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "5,00",
+      "title": "bucha dobradiça, bucha da dobradiça"
+  },
+  {
+      "name": "Bucha Batente da Porta",
+      "code": "326037536",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "5,00",
+      "title": "bucha da porta, bucha da dobradiça"
+  },
+  {
+      "name": "Botão do Termostato",
+      "code": "326044251",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "10,00",
+      "title": "botao termostato, botao do termostato, botão termostato"
+  },
+  {
+      "name": "Chave Seletora 16 Posições",
+      "code": "326057069",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "45,00",
+      "title": "chave rotativa"
+  },
+  {
+      "name": "Pino da Dobradiça",
+      "code": "W10279766",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "5,00",
+      "title": "pino da tampa"
+  },
+  {
+      "name": "Pino da Dobradiça",
+      "code": "W10319831",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, máquina de lavar, maquina de lavar",
+      "model": "",
+      "cost": "7,00",
+      "title": "pino da tampa"
+  },
+  {
+      "name": "Filtro Fiapos",
+      "code": "W10338877",
+      "brand": "Brastemp/Consul",
+      "subject": "maquina de lavar, lavadora de roupas, máquina de lavar",
+      "model": "",
+      "cost": "8,00",
+      "title": ""
+  },
+  {
+      "name": "Interruptor Duplo Branco",
+      "code": "W10471975",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "cost": "30,00",
+      "title": "interruptor da porta, interruptor da lâmpada, interruptor da lampada"
+  },
+  {
+      "name": "Placa Potência 220V",
+      "code": "W10447054",
+      "brand": "Brastemp/Consul",
+      "subject": "maquina de lavar, máquina de lavar, lavadora de roupas",
+      "model": "bwu11ae, bwu11ab",
+      "cost": "",
+      "title": "placa potencia"
+  },
+  {
+      "name": "Placa Interface Bivolt",
+      "code": "W10706117",
+      "brand": "Brastemp/Consul",
+      "subject": "maquina de lavar, máquina de lavar, lavadora de roupas",
+      "model": "bwh11ab",
+      "cost": "400,00",
+      "title": "console"
+  },
+  {
+      "name": "Placa Interface Edison Bivolt",
+      "code": "W10755942",
+      "brand": "Brastemp/Consul",
+      "subject": "maquina de lavar, máquina de lavar, lavadora de roupas",
+      "model": "bwk11ab",
+      "cost": "470,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Potência 220V",
+      "code": "W10833373",
+      "brand": "Brastemp/Consul",
+      "subject": "máquina de lavar, maquina de lavar, lavadora de roupas",
+      "model": "bwh11ab, bwg12ab",
+      "cost": "430,00",
+      "title": "placa potencia, placa de potencia, placa de potência"
+  },
+  {
+      "name": "Placa Interface (Microchave) Bivolt",
+      "code": "W10301604",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "bwl11ab, bwl11ar",
+      "cost": "400,00",
+      "title": ""
   },
   {
       "name": "Suporte do Cesto",
@@ -2518,6 +2896,15 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "",
       "cost": "55,00",
+      "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
+  },
+  {
+      "name": "Válvula Dupla 220v",
+      "code": "70300022",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "70,00",
       "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
   },
   {
