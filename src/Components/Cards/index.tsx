@@ -1,9 +1,20 @@
 import { useState } from "react";
 import Modal from "react-modal";
 import { A, P, Container, Card, Box, Content, H3, Image } from "./styles";
+ 
+type CardsProps = {
+  products : {
+    name: string,
+    code: string,
+    brand: string,
+    subject: string,
+    model: string,
+    cost: number,
+    title: string
+  }
+}
 
-
-export default function Cards({ products, search, setSearch }) {
+export default function Cards({ products, search}) {
   const [isCardModalOpen, setIsCardModalOpen] = useState(false);
 
   function handleOpenCardModal() {
@@ -15,7 +26,6 @@ export default function Cards({ products, search, setSearch }) {
   }
 
   let cardList = [];
-  setSearch(search.toUpperCase());
 
   for (var slice in products) {
     if (
