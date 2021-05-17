@@ -243,15 +243,6 @@
       "title": "Valvula Simples 220V"
   },
   {
-      "name": "Placa Interface Bivolt",
-      "code": "W10711361",
-      "brand": "Brastemp/Consul",
-      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": " BWS15ABB, BWS15ABA",
-      "cost": "400,00",
-      "title": ""
-  },
-  {
       "name": "Motor Ventilador 220V",
       "code": "W10310999",
       "brand": "Brastemp/Consul",
@@ -1464,6 +1455,105 @@
       "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
       "model": "bwl11ab, bwl11ar",
       "cost": "400,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface Bivolt High",
+      "code": "W10463579",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "bwu11ab",
+      "cost": "370,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface Bivolt",
+      "code": "W10711361",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "bws15abana, bws15abbna",
+      "cost": "400,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Potência 220V",
+      "code": "W11161217",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "bwh15abbna, bwk15abbna, BWN15AKBNA, BWS15ABBNA",
+      "cost": "400,00",
+      "title": "placa potencia"
+  },
+  {
+      "name": "Placa Interface Bivolt Edison",
+      "code": "W10308925",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "BWL09BBANA, BWL09BBBNA",
+      "cost": "280,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface Bivolt",
+      "code": "W10711360",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "BWK15ABANA, BWK15ABBNA",
+      "cost": "380,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Potência",
+      "code": "W10899325",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "BWH15ABBNA, BWK15ABBNA, BWN15AKBNA, BWS15ABBNA",
+      "cost": "320,00",
+      "title": "placa potencia"
+  },
+  {
+      "name": "Placa Interface Valazquez Low Foucault",
+      "code": "326046010",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "bwf08b",
+      "cost": "110,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface Bivolt Foucault",
+      "code": "326050619",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "BWC08A, BWC07A",
+      "cost": "220,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface Bivolt Euler",
+      "code": "W10626365",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "CWG11AB, CWK12ABANA, CWK12ABBNA, CWC10AB, CWK11AB",
+      "cost": "160,00",
+      "title": ""
+  },
+  {
+      "name": "Válvula 3 Vias 220V",
+      "code": "004258665",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "BWL11AR, BWT09B, BWT09BB, BWM08A, BWH09B, BWB22B, BWB22A, BWF08A, BWF24A, BWM08AB",
+      "cost": "50,00",
+      "title": "válvula de entrada 3 vias, valvula 3 vias, valvula de entrada 3 vias, válvula 3 saídas, valvula 3 saidas"
+  },
+  {
+      "name": "Placa Interface Bivolt Hodur",
+      "code": "W10605804",
+      "brand": "Brastemp/Consul",
+      "subject": "lavadora de roupas, maquina de lavar, máquina de lavar",
+      "model": "WC09AB, BWC08A, BWC07A",
+      "cost": "220,00",
       "title": ""
   },
   {
@@ -2948,7 +3038,7 @@
       "brand": "Dugold",
       "subject": "multimarcas, split",
       "model": "",
-      "cost": "35,00",
+      "cost": "40,00",
       "title": ""
   },
   {
