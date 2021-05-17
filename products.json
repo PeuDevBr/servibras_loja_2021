@@ -3042,6 +3042,105 @@
       "title": ""
   },
   {
+      "name": "Kit Placa BWG10 Bivolt - 326046011 326053963 (Similar)",
+      "code": "7220013",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "BWG10",
+      "cost": "180,00",
+      "title": "placa potencia, placa potência, placa interface, 326046011, 326053963"
+  },
+  {
+      "name": "Placa Interface BWK11AB - w10755942 (Similar)",
+      "code": "7220030",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "BWK11AB",
+      "cost": "215,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface BWL11 - W10356413 W10301604 326064442 (Similar)",
+      "code": "7220058",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "BWL11",
+      "cost": "215,00",
+      "title": "W10356413, W10301604, 326064442"
+  },
+  {
+      "name": "Kit Placa BWL11 - W10356413 W10301604 326064442 (Similar)",
+      "code": "7220060",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl11",
+      "cost": "280,00",
+      "title": "placa potencia, placa interface, placa potência"
+  },
+  {
+      "name": "Kit Placa BWL09 - W10308925 W10356418 W10540663 (Similar)",
+      "code": "7220064",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl09",
+      "cost": "280,00",
+      "title": "placa potencia, placa interface, placa potência"
+  },
+  {
+      "name": "Placa Potência Bivolt - W10446925 (Similar)",
+      "code": "7220080",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwc10, bwl09, bwl11",
+      "cost": "150,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Placa Interface BWC10/11 - W10605809 (Similar)",
+      "code": "7220082",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwc10, bwc11",
+      "cost": "150,00",
+      "title": ""
+  },
+  {
+      "name": "Kit Placa BWL11 - W10356413 (Similar)",
+      "code": "7220202",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl11",
+      "cost": "280,00",
+      "title": ""
+  },
+  {
+      "name": "Kit Placa CWC10 Facilit - W10626365 (Similar)",
+      "code": "7220210",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "cwc10",
+      "cost": "220,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Kit Placa CWL10B CWL75A - W10344774 326057062 (Similar)",
+      "code": "7220211",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "CWL10B, CWL75A",
+      "cost": "190,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Kit Placa BWC10/11 - W10605809 (Similar)",
+      "code": "7220212",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwc10, bwc11",
+      "cost": "215,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
       "name": "Placa Eletrônica LT12F",
       "code": "70201326",
       "brand": "Electrolux",
