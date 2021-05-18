@@ -1557,6 +1557,186 @@
       "title": ""
   },
   {
+      "name": "Complemento Tubo Centifugação",
+      "code": "W11299794",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "",
+      "cost": "70,00",
+      "title": "mecanismo"
+  },
+  {
+      "name": "Placa Controle Hércules 220V",
+      "code": "W10269365",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "CRM47FB, CRM49AB, CRM45ABBNA, BRJ49BB, BRU49BX",
+      "cost": "150,00",
+      "title": "placa hercules, controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle H3B Bivolt",
+      "code": "W10632492",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "CRM50AR, CRM50AB",
+      "cost": "180,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle Athena Bivolt",
+      "code": "W10678922",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "CRM54BKANA, CRM54BKBNA, CRM54BBANA, CRM54BBBNA, CRM45BBANA, CRM45BBBNA",
+      "cost": "140,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle Explorer Athena Bivolt",
+      "code": "W11163349",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "CRD49AK, CRD49ABANA, CRD49ABBNA, CRD46AB, CRD36GBANA, CRD36GBBNA, CRD37ZBANA, CRD37EBANA, CRD37EBBNA, ",
+      "cost": "150,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico 220V",
+      "code": "326059371",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "CRM35AB, CRM35BB, BRU49BB, CRM38A, CRM38BB, BRM35AB, BRM35BB, BRM41AB, BRM41BB, BRM35BR, ",
+      "cost": "240,00",
+      "title": "controle eletronico"
+  },
+  {
+      "name": "Controle Eletrônico Mid 220V",
+      "code": "326063222",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRM40ES, BRM40D, BRM40EB, BRM44D, BRM44ER, BRM44EB, BRM47AR, BRM47AB, BRM48D, BRM48DX, BRM49E, LRM40D, LRM48D, PRM40D, PRM48D, ",
+      "cost": "240,00",
+      "title": "controle eletronico"
+  },
+  {
+      "name": "Controle Eletrônico Kirchhoff 220V",
+      "code": "W10619170",
+      "brand": "Brastemp/Consul",
+      "subject": "freezer",
+      "model": "BVR28HBBNA, BVR28HRBNA, BVR28GBBNA, BVR28GRBNA, ",
+      "cost": "320,00",
+      "title": "controle eletronico"
+  },
+  {
+      "name": "Caixa Controle CHA31",
+      "code": "W11132065",
+      "brand": "Brastemp/Consul",
+      "subject": "freezer",
+      "model": "CHA31EBANA, CHA31EBBNA",
+      "cost": "160,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle Avengers Low Bivolt",
+      "code": "W11352536",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRM44HBANA, BRM44HBBNA, BRM44HKANA, BRM44HKBNA, ",
+      "cost": "150,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico High Bivolt",
+      "code": "326060105",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRY48DR, BRE51NR, BRE51NP, BRK50NG, BRK50NM, BRW50NRV, BRK50ND, BRK50NP, BRM50NX, BRQ47BB, BRW50NGV, BRW50NBVNA, BRW50NDV, BRW50NMV, BRW50NPVNA, BRE51NB, BRE51ND, BRE51NG, BRE51NM, BRE49BR, BRY48DB",
+      "cost": "170,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico High Bivolt",
+      "code": "326061172",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRE49BE, BRE49CE, BRE49BB, BRR49BE, BRR49BR, BRX49BX, BRZ49BB, BRZ49BR, BRE49BR, ",
+      "cost": "430,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle Thevenin Bivolt",
+      "code": "W10170131",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRX50AR, BRX50BR, BRX50CR",
+      "cost": "300,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico High Bivolt",
+      "code": "W10314626",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRW50NBVNA, BRW50NPVNA",
+      "cost": "170,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle Apolo Bivolt",
+      "code": "W10364075",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRE51NR, BRE51NX, BRE51NP, BRE51NB, BRE51ND, BRE51NG, BRE51NM, ",
+      "cost": "500,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico Fides BRE",
+      "code": "W10517614",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRE50NJANA, BRE50NJBNA, BRE50NPANA, BRE50NPBNA, BRE50NX1NA, BRE50NX2NA, BRE50NDANA, BRE50NDBNA, BRE50NRANA, BRE50NRBNA, BRE50NEANA, BRE50NEBNA, BRE50NBANA, BRE50NBBNA, ",
+      "cost": "180,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle Athena Premium",
+      "code": "W11240384",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRM54HKANA, BRM54HKBNA, BRM54HBANA, BRM54HBBNA, ",
+      "cost": "150,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Placa Controle C/ Rede Elet. BRE",
+      "code": "W10591605",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRE50NJANA, BRE50NJBNA, BRE50NPANA, BRE50NPBNA, BRE50NX1NA, BRE50NX2NA, BRE51NR, BRE51NP, BRE51NX, BRE50NDANA, BRE50NDBNA, BRE50NRANA, BRE50NRBNA, BRE51NB, BRE51ND, BRE51NG, BRE51NM, BRE50NEANA, BRE50NEBNA, BRE50NBANA, BRE50NBBNA, ",
+      "cost": "420,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico Athena",
+      "code": "W10780260",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "CRM51ABANA, CRM51AKANA, CRM52ABBNA, CRM52AKBNA, CRM51ABBNA, CRM51AKBNA, CRM51ZB, CRM52ABANA, CRM52AKANA, CRM55AKBNA, CRM55ABANA, CRM55ABBNA, CRM55AKANA, ",
+      "cost": "180,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
+      "name": "Controle Eletrônico Theseus Storm",
+      "code": "W11051514",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRN80AKBNA, BRV80AKANA, BRO81ARANA, BRO81ARBNA, BRV80AKBNA, GRO80AB, BRN80AKANA, BRO80AEANA, BRO80AKANA, BRO80AEBNA, BRO80AKBNA, BRO80ABANA, BRO80ABBNA, ",
+      "cost": "360,00",
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
       "name": "Suporte do Cesto",
       "code": "W10647948",
       "brand": "Brastemp/Consul",
@@ -1707,15 +1887,6 @@
       "subject": "Refrigerador, geladeira,",
       "model": "CRD49AB, CRB46AB, CRD37EB, CRD45EB",
       "cost": "160,00",
-      "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
-  },
-  {
-      "name": "Controle Eletrônico Athena",
-      "code": "W10780260",
-      "brand": "Brastemp/Consul",
-      "subject": "Refrigerador, geladeira,",
-      "model": "CRM52AK, CRM52AB, CRM55AB, CRM51AK, CRM51AB, CRM55AK",
-      "cost": "180,00",
       "title": "placa athena, placa atena, controle eletronico, placa eletronica, placa geladeira"
   },
   {
@@ -1884,10 +2055,10 @@
       "name": "Termostato Bimetal",
       "code": "326006453",
       "brand": "Brastemp/Consul",
-      "subject": "Refrigerador, geladeira, mecanização",
+      "subject": "Refrigerador, geladeira",
       "model": "BRM34A, BRM43B, BRM33A, BRM44B, CRM37A, CRM42A, BRG43A, CRM38B, BRM35A, BRM37B, BRG44A",
       "cost": "30,00",
-      "title": "fusivel bimetal"
+      "title": "fusivel bimetal, mecanização, mecanizaçao, mecanizacao"
   },
   {
       "name": "Recipiente Evaporação",
@@ -2215,7 +2386,7 @@
   },
   {
       "name": "Tubulação de cobre 3/16 ",
-      "code": "13266",
+      "code": "100211983",
       "brand": "Eluma",
       "subject": "Split",
       "model": "Tubo flexível",
@@ -2224,7 +2395,7 @@
   },
   {
       "name": "Tubulação de cobre 1/4 ",
-      "code": "13267",
+      "code": "100213250",
       "brand": "Eluma",
       "subject": "Split",
       "model": "Tubo flexível",
@@ -2233,7 +2404,7 @@
   },
   {
       "name": "Tubulação de cobre 5/16 ",
-      "code": "13268",
+      "code": "100213251",
       "brand": "Eluma",
       "subject": "Split",
       "model": "Tubo flexível",
@@ -2242,7 +2413,7 @@
   },
   {
       "name": "Tubulação de cobre 3/8 ",
-      "code": "13269",
+      "code": "100213252",
       "brand": "Eluma",
       "subject": "Split",
       "model": "Tubo flexível",
@@ -2251,7 +2422,7 @@
   },
   {
       "name": "Tubulação de cobre 1/2 ",
-      "code": "13270",
+      "code": "100213253",
       "brand": "Eluma",
       "subject": "Split",
       "model": "Tubo flexível",
@@ -2260,7 +2431,7 @@
   },
   {
       "name": "Tubulação de cobre 5/8 ",
-      "code": "13272",
+      "code": "100213254",
       "brand": "Eluma",
       "subject": "Split",
       "model": "Tubo flexível",
@@ -2269,7 +2440,7 @@
   },
   {
       "name": "Tubulação de cobre 3/4 ",
-      "code": "13274",
+      "code": "100213255",
       "brand": "Eluma",
       "subject": "Split",
       "model": "Tubo flexível",
@@ -2282,16 +2453,16 @@
       "brand": "Tuboflex",
       "subject": "Split",
       "model": "2 metros",
-      "cost": "3,00",
+      "cost": "4,00",
       "title": "Tubo 1/4, Instalação, Instalaçao, Instalacao"
   },
   {
       "name": "Tubo esponjoso de 3/8",
-      "code": "200105",
+      "code": "120548",
       "brand": "Tuboflex",
       "subject": "Split",
       "model": "2 metros",
-      "cost": "3,00",
+      "cost": "4,00",
       "title": "Tubo 3/8, Instalação, Instalaçao, Instalacao"
   },
   {
@@ -2305,29 +2476,29 @@
   },
   {
       "name": "Tubo esponjoso de 5/8",
-      "code": "200107",
-      "brand": "Tuboflex",
-      "subject": "Split",
-      "model": "2 metros",
-      "cost": "4,00",
-      "title": "Tubo 5/8, Instalação, Instalaçao, Instalacao"
-  },
-  {
-      "name": "Tubo esponjoso de 3/4",
-      "code": "200108",
-      "brand": "Tuboflex",
-      "subject": "Split",
-      "model": "2 metros",
-      "cost": "4,00",
-      "title": "Tubo 3/4, Instalação, Instalaçao, Instalacao"
-  },
-  {
-      "name": "Tubo esponjoso de 1'",
-      "code": "200109",
+      "code": "111191",
       "brand": "Tuboflex",
       "subject": "Split",
       "model": "2 metros",
       "cost": "5,00",
+      "title": "Tubo 5/8, Instalação, Instalaçao, Instalacao"
+  },
+  {
+      "name": "Tubo esponjoso de 3/4",
+      "code": "111342",
+      "brand": "Tuboflex",
+      "subject": "Split",
+      "model": "2 metros",
+      "cost": "6,00",
+      "title": "Tubo 3/4, Instalação, Instalaçao, Instalacao"
+  },
+  {
+      "name": "Tubo esponjoso de 1'",
+      "code": "111195",
+      "brand": "Tuboflex",
+      "subject": "Split",
+      "model": "2 metros",
+      "cost": "6,00",
       "title": "Tubo 1', Instalação, Instalaçao, Instalacao"
   },
   {
@@ -2395,8 +2566,8 @@
   },
   {
       "name": "Cabo PP 2x1,5mm",
-      "code": "11000",
-      "brand": "Cordeiro",
+      "code": "CCP004AM",
+      "brand": "Spazio",
       "subject": "Split",
       "model": "Cabo flexível",
       "cost": "3,50",
@@ -2404,48 +2575,48 @@
   },
   {
       "name": "Cabo PP 3x1,5mm",
-      "code": "11001",
-      "brand": "Cordeiro",
-      "subject": "Instalação, Instalaçao, Instalacao, Split",
-      "model": "Cabo flexível",
-      "cost": "5,00",
-      "title": "Fio 3, Fio 3 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
-  },
-  {
-      "name": "Cabo PP 3x2,5mm",
-      "code": "11002",
-      "brand": "Cordeiro",
+      "code": "CCP009AM",
+      "brand": "Spazio",
       "subject": "Instalação, Instalaçao, Instalacao, Split",
       "model": "Cabo flexível",
       "cost": "6,00",
       "title": "Fio 3, Fio 3 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
   },
   {
-      "name": "Cabo PP 4x1,5mm",
-      "code": "11003",
-      "brand": "Cordeiro",
+      "name": "Cabo PP 3x2,5mm",
+      "code": "CCP0010AM",
+      "brand": "Spazio",
       "subject": "Instalação, Instalaçao, Instalacao, Split",
-      "model": "Cabo flexível, mecanização",
-      "cost": "6,50",
-      "title": "Fio 4, Fio 4 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
+      "model": "Cabo flexível",
+      "cost": "7,00",
+      "title": "Fio 3, Fio 3 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
+  },
+  {
+      "name": "Cabo PP 4x1,5mm",
+      "code": "CCP0014AM",
+      "brand": "Spazio",
+      "subject": "Instalação, Instalaçao, Instalacao, Split",
+      "model": "Cabo flexível",
+      "cost": "7,00",
+      "title": "Fio 4, Fio 4 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico, mecanização, mecanizaçao, mecanizacao"
   },
   {
       "name": "Cabo PP 4x2,5mm",
-      "code": "11004",
-      "brand": "Cordeiro",
+      "code": "CCP0015AM",
+      "brand": "Spazio",
       "subject": "Instalação, Instalaçao, Instalacao, Split",
       "model": "Cabo flexível",
-      "cost": "8,00",
+      "cost": "10,00",
       "title": "Fio 4, Fio 4 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
   },
   {
       "name": "Cabo PP 6x1,5mm",
-      "code": "11005",
-      "brand": "Cordeiro",
-      "subject": "Split, mecanização",
+      "code": "CCP0024AM",
+      "brand": "Spazio",
+      "subject": "Split",
       "model": "Cabo flexível",
-      "cost": "12,00",
-      "title": "Fio 6, Fio 6 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico"
+      "cost": "10,00",
+      "title": "Fio 6, Fio 6 pernas, Cabo Elétrico, Cabo eletrico, Fio Elétrico, Fio eletrico, mecanização, mecanizaçao, mecanizacao"
   },
   {
       "name": "Óleo para Bomba de Vácuo",
@@ -2622,10 +2793,10 @@
       "name": "Icematic II Ver-01",
       "code": "03971",
       "brand": "Fullgauge",
-      "subject": "multimarcas, mecanização",
+      "subject": "multimarcas",
       "model": "",
       "cost": "150,00",
-      "title": "timer, controlador"
+      "title": "timer, controlador, mecanização, mecanizaçao, mecanizacao"
   },
   {
       "name": "Controlador MT-516E",
@@ -3139,6 +3310,159 @@
       "model": "bwc10, bwc11",
       "cost": "215,00",
       "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Módulo Potência 220V BRM37/39/43 (Similar)",
+      "code": "0378",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "brm37, brm39, brm43",
+      "cost": "90,00",
+      "title": "modulo potencia, módulo potência, placa potencia, placa potência"
+  },
+  {
+      "name": "Módulo Potência 220V BRM38/44 (Similar)",
+      "code": "0424",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "brm38, brm44",
+      "cost": "100,00",
+      "title": "modulo potencia, módulo potência, placa potencia, placa potência"
+  },
+  {
+      "name": "Módulo Potência 220V BRM32/33/34/35 CRM37/38/42 (Similar)",
+      "code": "0430",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "brm32, brm33, brm35, brm34, crm37, crm38, crm42",
+      "cost": "110,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Kit Placa BWL09 Bivolt (Similar)",
+      "code": "1043",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl09",
+      "cost": "270,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Kit Placa BWL11 Versao 2 Bivolt (Similar)",
+      "code": "1045",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl11",
+      "cost": "240,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Kit Placa BWC10 Bivolt (Similar)",
+      "code": "1447",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwc10",
+      "cost": "150,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Placa Potência 220V W10446925 (Similar)",
+      "code": "1453",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwc10, bwl09, bwl11",
+      "cost": "100,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Controle Eletrônico BRM40/44/47/48/49 Bivolt (Similar)",
+      "code": "1460",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "brm40, brm44, brm47, brm48, brm49",
+      "cost": "90,00",
+      "title": "placa potencia, placa potência, controle eletronico"
+  },
+  {
+      "name": "Controle Eletrônico CRM50 Bivolt (Similar)",
+      "code": "1469",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "crm50ab, crm50ar",
+      "cost": "90,00",
+      "title": "placa potencia, placa potência, controle eletronico"
+  },
+  {
+      "name": "Kit Placa BWL11 Versao 1/2/3 Bivolt (Similar)",
+      "code": "1500",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl11",
+      "cost": "270,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Placa Interface BWL11 Versao 1/2/3 (Similar)",
+      "code": "1501",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl11",
+      "cost": "190,00",
+      "title": ""
+  },
+  {
+      "name": "Placa Interface BWK11 (Similar)",
+      "code": "1503",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwk11",
+      "cost": "120,00",
+      "title": "placa potencia, placa potência"
+  },
+  {
+      "name": "Painel Decorativo BWC10 (Similar)",
+      "code": "P0898",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwc10",
+      "cost": "18,00",
+      "title": "adesivo decorativo"
+  },
+  {
+      "name": "Painel Decorativo BWL11 (Similar)",
+      "code": "P0965",
+      "brand": "CP Placas",
+      "subject": "multimarcas, similar, consul, brastemp",
+      "model": "bwl11",
+      "cost": "25,00",
+      "title": "adesivo decorativo"
+  },
+  {
+      "name": "Termostato Média Temperatura",
+      "code": "03.0988",
+      "brand": "Fricon",
+      "subject": "Fricon",
+      "model": "",
+      "cost": "120,00",
+      "title": "mecanização, mecanizaçao, mecanizacao"
+  },
+  {
+      "name": "Terminal",
+      "code": "D102787",
+      "brand": "Friovix",
+      "subject": "",
+      "model": "",
+      "cost": "0,50",
+      "title": "mecanização, mecanizaçao, mecanizacao"
+  },
+  {
+      "name": "Botão do Termostato EGM30 EGC35",
+      "code": "9803001885",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "egc35, egm30",
+      "cost": "7,00",
+      "title": "botao termostato, botao bebedouro, botao gelagua, mecanização, mecanizacao, mecanizaçao"
   },
   {
       "name": "Placa Eletrônica LT12F",

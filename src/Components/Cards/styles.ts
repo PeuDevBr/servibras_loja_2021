@@ -53,7 +53,7 @@ export const A = styled.a`
 export const H3 = styled.h3`
   font-size: 1em;
   color: #777;
-  min-height: 3rem;
+  min-height: 3.2rem;
   z-index: 1;
   transition: 0.7s;
 `
@@ -62,7 +62,6 @@ export const P = styled.p`
   font-size: 1em;
   font-weight: 300;
   color: #777;
-  margin-top: 0.25rem;
   z-index: 1;
   transition: 0.7s;
 `
