@@ -945,31 +945,31 @@
       "title": "Mangueira de Saída, mangueira de saida"
   },
   {
-      "name": "Compressor Rotativo 9.000 Btus",
-      "code": "326053935",
-      "brand": "Brastemp/Consul",
-      "subject": "split, condicionador de ar, ar condicionado",
-      "model": "",
-      "cost": "550,00",
-      "title": "motor"
-  },
-  {
-      "name": "Compressor Rotativo 7.000 Btus",
+      "name": "Compressor Rotativo 7.000 Btus R22",
       "code": "326061762",
       "brand": "Brastemp/Consul",
       "subject": "split, condicionador de ar, ar condicionado",
       "model": "",
       "cost": "420,00",
-      "title": "motor"
+      "title": "compressor 7000, compressor 7.000, compressor 7k"
   },
   {
-      "name": "Compressor Rotativo 12.000 Btus",
+      "name": "Compressor Rotativo 9.000 Btus R22",
+      "code": "326053935",
+      "brand": "Brastemp/Consul",
+      "subject": "split, condicionador de ar, ar condicionado",
+      "model": "",
+      "cost": "550,00",
+      "title": "compressor 9000, compressor 9.000, compressor 9k"
+  },
+  {
+      "name": "Compressor Rotativo 12.000 Btus R22",
       "code": "326050102",
       "brand": "Brastemp/Consul",
       "subject": "split, condicionador de ar, ar condicionado",
       "model": "",
       "cost": "600,00",
-      "title": "motor"
+      "title": "compressor 12000, compressor 12.000, compressor 12k"
   },
   {
       "name": "Fusível 8A 220V",
