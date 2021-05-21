@@ -88,11 +88,11 @@ export const Card = styled.div`
   margin: 15px;
 
   &:hover {
-    ${Box} {
-      transform: scale(1.25); //translateY(-50px);
-      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    //${Box} {
+      //transform: scale(1.25); //translateY(-50px);
+      //box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
       //background: linear-gradient(45deg, #accbee, #D7FFFE)
-    }
+    //}
     ${H2} {
       //color: rgba(0, 0, 0, 0.1);
     }
@@ -125,6 +125,7 @@ export const ModalContainer = styled.div`
 
 export const DescriptionContainer = styled.div`
   display: block;
+  margin-top: 60px;
 
   h2{
     margin-bottom: 1rem;

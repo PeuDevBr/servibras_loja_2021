@@ -414,7 +414,7 @@
       "title": "adesivo consul, nome consul"
   },
   {
-      "name": "Correia",
+      "name": "Correia (Lisa)",
       "code": "000360480",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -450,7 +450,7 @@
       "title": ""
   },
   {
-      "name": "Correia Poli V",
+      "name": "Correia Poli V (Dentada)",
       "code": "W10470951",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -472,7 +472,7 @@
       "code": "000223069",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWQ22A, BWR22A, BWR22B",
       "cost": "30,00",
       "title": "pressostato 2 niveis, pressostato 2 nivel"
   },
@@ -481,7 +481,7 @@
       "code": "326005762",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWR22C, BWF22A, BWQ06A, BWQ22B, BWQ22C, ",
       "cost": "35,00",
       "title": "pressostato 3 niveis, pressostato 3 nivel"
   },
@@ -490,7 +490,7 @@
       "code": "326013887",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWH08B, BWQ24B, BWT08A, BWT08C, XWH08A",
       "cost": "35,00",
       "title": "pressostato 3 niveis, pressostato 3 nivel"
   },
@@ -499,7 +499,7 @@
       "code": "326028183",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWC08ABANA,CWC08ABBNA,CWE08ABANA,CWE08ABBNA,CWL08A,CWL08B,CWL08C,CWL10A,CWL10B,CWL75A",
       "cost": "45,00",
       "title": "pressostato 4 niveis, pressostato 4 nivel"
   },
@@ -508,16 +508,16 @@
       "code": "326057395",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWI06B",
       "cost": "25,00",
-      "title": "pressostato 1 niveis, pressostato 1 nivel"
+      "title": "pressostato 1 nivel"
   },
   {
       "name": "Pressostato 4 Níveis (W10581537)",
       "code": "W10343278",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWK12ABANA, CWK12ABBNA, CWK11AB, ",
       "cost": "25,00",
       "title": "pressostato 4 niveis, pressostato 4 nivel"
   },
@@ -526,7 +526,7 @@
       "code": "W10617044",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08B, BWF09A, BWG10A, BWM06A, BWM08A, BWM08AB",
       "cost": "45,00",
       "title": "pressostato 2 niveis, pressostato 2 nivel"
   },
@@ -535,7 +535,7 @@
       "code": "W10619463",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWB08ABANA, CWB08ABBNA, CWB09ABANA, CWB09ABBNA, CWC08ABANA, CWC08ABBNA, CWE08ABANA, CWE08ABBNA, CWE09AB",
       "cost": "50,00",
       "title": "pressostato 4 niveis, pressostato 4 nivel"
   },
@@ -544,7 +544,7 @@
       "code": "W10721910",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWS11ABANA, CWS11ABBNA",
       "cost": "45,00",
       "title": "pressostato 4 niveis, pressostato 4 nivel"
   },
@@ -553,7 +553,7 @@
       "code": "W10737624",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWB09AB, BWL09BBANA, BWL09BBBNA, ",
       "cost": "55,00",
       "title": "pressostato 3 niveis, pressostato 3 nivel"
   },
@@ -562,7 +562,7 @@
       "code": "W11197973",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWH12ABANA, CWH12ABBNA, CWH11BBBNA, CWH11BBANA, CWH11ABBNA, CWH11ABANA, ",
       "cost": "50,00",
       "title": ""
   },
@@ -571,7 +571,7 @@
       "code": "W10581537",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWK12ABANA,CWK12ABBNA,CWC10AB,CWK11AB,CWG11AB,",
       "cost": "50,00",
       "title": "pressostato 4 niveis, pressostato 4 nivel"
   },
@@ -580,16 +580,16 @@
       "code": "326000047",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWB08A, BWB08AB, BWB09AB, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWD15A9ANA, BWD15A9BNA, BWD15ABANA, BWD15ABBNA, BWF22A, BWH15ABANA, BWH15ABBNA, BWJ09ABANA, BWJ09ABBNA, BWK15ABANA, BWK15ABBNA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWM06A, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWN15ATBNA, BWQ06A, BWQ22B, BWQ22C, BWQ22D, BWS09ABANA, BWS09ABBNA, BWS15ABANA, BWS15ABBNA, CWC08ABANA, CWC08ABBNA, CWC22A, CWC22B, CWE06A, CWE06B, CWE09AB, CWE13ABANA, CWE13ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABANA, CWL16ABBNA, CWL75A",
       "cost": "2,50",
-      "title": ""
+      "title": "tirante preto"
   },
   {
-      "name": "Microchave",
+      "name": "Microchave Reed Switch (W11294885)",
       "code": "326014085",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BLE20A, BLE20BBANA, BLE20BBBNA, BLE20CB, BLE20L, BLE20P, BLF06AB, BLF08ABANA, BLF08ABBNA, BLF08ASANA, BLF08ASBNA, PLE20ASANA, PLE20ASBNA, PLE20BS, ",
       "cost": "22,00",
       "title": ""
   },

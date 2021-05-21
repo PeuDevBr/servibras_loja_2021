@@ -165,9 +165,6 @@ export default function Cards({ products, search }) {
                         <h3>{cardModal.brand}</h3>
                         <h2>Código: {cardModal.code}</h2>
                         <h2>R$ {cardModal.cost}</h2>
-                        <p>Modelo:</p>
-                        <p>{cardModal.model}</p>
-                      </DescriptionContainer>
                       <ButtonsContainer>
                         <ModalAcceptButton
                           href={`https://api.whatsapp.com/send?1=pt_BR& phone=558299802-2266&text=Olá! Quero solicitar a peça: ${cardModal. code} - ${cardModal.name} - ${cardModal.cost}`}
@@ -179,6 +176,8 @@ export default function Cards({ products, search }) {
                           Voltar
                         </ModalBackButton>
                       </ButtonsContainer>
+                      </DescriptionContainer>
+                     
                     </div>
                   </ModalContainer>
                 </Modal>
