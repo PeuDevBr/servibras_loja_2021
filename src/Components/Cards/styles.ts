@@ -125,13 +125,19 @@ export const ModalContainer = styled.div`
 
 export const DescriptionContainer = styled.div`
   display: block;
-  margin-top: 80px;
 
   h2{
     margin-bottom: 1rem;
   }
   h3{
     margin-bottom: 1rem;
+    color: #8d99ae;
+  }
+  p {
+    width: 600px;
+    color: #8d99ae;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
   }
 `
 
@@ -144,7 +150,7 @@ export const ModalBackButton = styled.button`
   color: #ffffff;
   font-weight: 700;
   margin-bottom: 0.3rem;
-  margin-top: 0.3rem;
+  margin-top: 0.8rem;
   transition: 0.5s;
   border: none;
   cursor: pointer;
@@ -163,7 +169,7 @@ export const ModalAcceptButton = styled.a`
   color: #ffffff;
   font-weight: 700;
   margin-bottom: 0.3rem;
-  margin-top: 0.3rem;
+  margin-top: 0.8rem;
   transition: 0.5s;
   border: none;
   text-decoration: none;

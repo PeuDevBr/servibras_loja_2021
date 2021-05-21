@@ -42,7 +42,7 @@ export default function Cards({ products, search }) {
         brand: "Brastemp/Consul",
         subject: "Máquina de Lavar, Lavadora, Maquina de lavar",
         model:
-          "BWB11ABBNA,BWL11ABBNA,BWL11AR,BWK11ABBNA,CWG11AB,CWK12ABBNA,CWL10B,CWL75A,CWK11AB,CWC10AB,BWC11AB,BWC09AB,BWC10BB,BWC07A,BWC08A,BWC10A,BWB09AB,BWL09BBBNA,BWB08A,BWB08AB",
+        "BWB11ABBNA, BWL11ABBNA, BWL11AR, BWK11ABBNA, CWG11AB, CWK12ABBNA, CWL10B, CWL75A, CWK11AB, CWC10AB, BWC11AB, BWC09AB, BWC10BB, BWC07A, BWC08A, BWC10A, BWB09AB, BWL09BBBNA, BWB08A, BWB08AB",
         cost: "180,00",
         title: "potencia",
       },
@@ -60,7 +60,7 @@ export default function Cards({ products, search }) {
         code: "100213250",
         brand: "Eluma",
         subject: "Split",
-        model: "Tubo flexível",
+        model: "",
         cost: "100,00 (kg)",
         title:
           "Cano 1/4, Cano de Cobre, Cano de Cobre 1/4, Tubo 1/4, Instalação, Instalaçao, Instalacao",
@@ -79,7 +79,7 @@ export default function Cards({ products, search }) {
         code: "7220060",
         brand: "Alado",
         subject: "multimarcas, similar, consul, brastemp",
-        model: "bwl11",
+        model: "BWL11AB",
         cost: "280,00",
         title: "placa potencia, placa interface, placa potência",
       },
@@ -88,7 +88,7 @@ export default function Cards({ products, search }) {
         code: "1447",
         brand: "CP Placas",
         subject: "multimarcas, similar, consul, brastemp",
-        model: "bwc10",
+        model: "BWC10AB",
         cost: "150,00",
         title: "placa potencia, placa potência",
       },
@@ -97,7 +97,7 @@ export default function Cards({ products, search }) {
         code: "70201326",
         brand: "Electrolux",
         subject: "Máquina de Lavar, Lavadora, Maquina de lavar",
-        model: "LT12f",
+        model: "LT12F",
         cost: "200,00",
         title: "potencia",
       },
@@ -112,16 +112,16 @@ export default function Cards({ products, search }) {
       },
     ];
   } else {
-    for (var slice in products) {
+    for (var part in products) {
       if (
-        products[slice].name.toUpperCase().includes(search) ||
-        products[slice].model.toUpperCase().includes(search) ||
-        products[slice].code.toUpperCase().includes(search) ||
-        products[slice].brand.toUpperCase().includes(search) ||
-        products[slice].subject.toUpperCase().includes(search) ||
-        products[slice].title.toUpperCase().includes(search)
+        products[part].name.toUpperCase().includes(search) ||
+        products[part].model.toUpperCase().includes(search) ||
+        products[part].code.toUpperCase().includes(search) ||
+        products[part].brand.toUpperCase().includes(search) ||
+        products[part].subject.toUpperCase().includes(search) ||
+        products[part].title.toUpperCase().includes(search)
       ) {
-        cardList.push(products[slice]);
+        cardList.push(products[part]);
       }
     }
   }
@@ -165,10 +165,12 @@ export default function Cards({ products, search }) {
                         <h3>{cardModal.brand}</h3>
                         <h2>Código: {cardModal.code}</h2>
                         <h2>R$ {cardModal.cost}</h2>
+                        <p>Modelo:</p>
+                        <p>{cardModal.model}</p>
                       </DescriptionContainer>
                       <ButtonsContainer>
                         <ModalAcceptButton
-                          href={`https://api.whatsapp.com/send?1=pt_BR& phone=558299802-2266&text=Tenho interesse na peça: ${cardModal. code} - ${cardModal.name} - ${cardModal.cost}`}
+                          href={`https://api.whatsapp.com/send?1=pt_BR& phone=558299802-2266&text=Olá! Quero solicitar a peça: ${cardModal. code} - ${cardModal.name} - ${cardModal.cost}`}
                         >
                           Solicitar Peça
                           <img src={`/images/whatsapp.png`} alt="" />
