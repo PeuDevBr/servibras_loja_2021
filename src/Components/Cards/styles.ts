@@ -39,13 +39,13 @@ export const A = styled.a`
   display: inline-block;
   padding: 8px 20px;
   background: #ebf5fc;
-  border-radius: 20px;
+  border-radius: 10px;
   color: #777;
   text-decoration: none;
   font-weight: 700;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   margin-bottom: 0.3rem;
-  margin-top: 0.3rem;
+  margin-top: 0.5rem;
   transition: 0.9s;
   outline: none;
   cursor: pointer;
@@ -110,11 +110,10 @@ export const Card = styled.div`
 
 export const ModalContainer = styled.div`
   display: grid;
-  width: 80vw;
   grid-template-columns: repeat(2, 1fr);
   justify-items: center;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 80px;
 
   img {
     height: 25rem;
@@ -125,7 +124,7 @@ export const ModalContainer = styled.div`
 
 export const DescriptionContainer = styled.div`
   display: block;
-  margin-top: 60px;
+  margin-top: 40px;
 
   h2{
     margin-bottom: 1rem;
@@ -155,6 +154,10 @@ export const ModalBackButton = styled.button`
   transition: 0.5s;
   border: none;
   cursor: pointer;
+
+  &:hover {
+    transform: scale(1.1);
+  }
 `;
 
 export const ButtonsContainer = styled.div`
@@ -183,5 +186,9 @@ export const ModalAcceptButton = styled.a`
     height: 50px;
     width: 50px;
 
+  }
+
+  &:hover {
+    transform: scale(1.1);
   }
 `;

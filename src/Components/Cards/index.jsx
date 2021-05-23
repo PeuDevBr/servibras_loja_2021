@@ -28,9 +28,6 @@ export default function Cards({ products, search }) {
   function handleCloseCardModal() {
     setIsCardModalOpen(false);
   }
-  function Display(element) {
-    console.log(element);
-  }
 
   let cardList = [];
 
@@ -151,41 +148,42 @@ export default function Cards({ products, search }) {
                 >
                   Verificar
                 </A>
-                <Modal
-                  isOpen={isCardModalOpen}
-                  onRequestClose={handleCloseCardModal}
-                >
-                  <ModalContainer>
-                    <div>
-                      <img src={`/images/parts/${cardModal.code}.png`} />
-                    </div>
-                    <div>
-                      <DescriptionContainer>
-                        <h1>{cardModal.name}</h1>
-                        <h3>{cardModal.brand}</h3>
-                        <h2>Código: {cardModal.code}</h2>
-                        <h2>R$ {cardModal.cost}</h2>
-                      <ButtonsContainer>
-                        <ModalAcceptButton
-                          href={`https://api.whatsapp.com/send?1=pt_BR& phone=558299802-2266&text=Olá! Quero solicitar a peça: ${cardModal. code} - ${cardModal.name} - ${cardModal.cost}`}
-                        >
-                          Solicitar Peça
-                          <img src={`/images/whatsapp.png`} alt="" />
-                        </ModalAcceptButton >
-                        <ModalBackButton onClick={handleCloseCardModal}>
-                          Voltar
-                        </ModalBackButton>
-                      </ButtonsContainer>
-                      </DescriptionContainer>
-                     
-                    </div>
-                  </ModalContainer>
-                </Modal>
               </Content>
             </Box>
           </Card>
         );
       })}
+      <Modal
+        isOpen={isCardModalOpen}
+        onRequestClose={handleCloseCardModal}
+        overlayClassName="react-modal-overlay"
+        className="react-modal-content"
+      >
+        <ModalContainer>
+          <div>
+            <img src={`/images/parts/${cardModal.code}.png`} />
+          </div>
+          <div>
+            <DescriptionContainer>
+              <h1>{cardModal.name}</h1>
+              <h3>{cardModal.brand}</h3>
+              <h2>Código: {cardModal.code}</h2>
+              <h2>R$ {cardModal.cost}</h2>
+            <ButtonsContainer>
+              <ModalAcceptButton
+                href={`https://api.whatsapp.com/send?1=pt_BR& phone=558299802-2266&text=Olá! Quero solicitar a peça: ${cardModal. code} - ${cardModal.name} - ${cardModal.cost}`}
+              >
+                Solicitar Peça
+                <img src={`/images/whatsapp.png`} alt="" />
+              </ModalAcceptButton >
+              <ModalBackButton onClick={handleCloseCardModal}>
+                Voltar
+              </ModalBackButton>
+            </ButtonsContainer>
+            </DescriptionContainer>                     
+          </div>
+        </ModalContainer>
+      </Modal>
     </Container>
   );
 }

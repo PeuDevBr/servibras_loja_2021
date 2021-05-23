@@ -598,7 +598,7 @@
       "code": "326019274",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWI06A, CWI21ABANA, CWI21ABBNA, CWI07A, CWI06B, ",
       "cost": "35,00",
       "title": ""
   },
@@ -607,7 +607,7 @@
       "code": "326050583",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWB22A, BWB22B, BWC06A, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWH08B, BWH09A, BWH09B, BWH09BB, BWL07A, BWL09A, BWL09ABANA, BWM06A, BWM08A, BWM08AB, BWQ06A, BWQ07A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR22C, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWX09A, BWX09B, CWC24A, CWL10A, XWH08A, ",
       "cost": "5,00",
       "title": ""
   },
@@ -616,7 +616,7 @@
       "code": "326064355",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWN07A",
       "cost": "30,00",
       "title": "timer tanquinho"
   },
@@ -625,7 +625,7 @@
       "code": "000136565",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BLL22EDB, BLL22MGD, BWR22A, BWR22B, ",
       "cost": "10,00",
       "title": "microchave, micro chave"
   },
@@ -634,7 +634,7 @@
       "code": "000321750",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BLL22MGB",
       "cost": "6,00",
       "title": "microchave, micro chave"
   },
@@ -643,7 +643,7 @@
       "code": "326019620",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWF08B, BWF09A, BWG10A, BWH08B, BWH09A, BWL07A, BWL09A, BWL09ABANA, BWT08C, BWT09A, BWT09AB, BWX09A, CWI05A, CWI06A, CWI21ABANA, CWI21ABBNA, XWH08A, ",
       "cost": "15,00",
       "title": "microchave, micro chave"
   },
@@ -661,7 +661,7 @@
     "code": "W10714366",
     "brand": "Brastemp/Consul",
     "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-    "model": "",
+    "model": "BWP11A9, BWU11AE, BWU11AB, ",
     "cost": "80,00",
     "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
 },
@@ -670,7 +670,7 @@
       "code": "W11245250",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWK12A9BNA, BWK12ABBNA, BWK14ABBNA, BWR12A9BNA, BWR12ABBNA, ",
       "cost": "50,00",
       "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
 },
@@ -679,7 +679,7 @@
       "code": "326060074",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWI05A, CWI06A, CWI06B, CWI07A, CWI21ABANA, CWI21ABBNA, ",
       "cost": "50,00",
       "title": ""
   },
@@ -688,7 +688,7 @@
       "code": "W10329947",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BLL22EDB, BLL22MGB, BLL22MGD, BWC10A, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWH08B, BWH09A, BWH09B, BWH09BB, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWQ06A, BWQ07A, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR22A, BWR22B, BWR22C, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWX09A, BWX09B, XWH08A, ",
       "cost": "50,00",
       "title": ""
   },
@@ -697,7 +697,7 @@
       "code": "W10160090",
       "brand": "Brastemp/Consul",
       "subject": "microondas",
-      "model": "",
+      "model": "BMA30AF, BMF45ABBNA, BMF45ABHNA, BMF45BBBNA, BMF45BBHNA, BMG35AB, BMG45AEANA, BMG45AEBNA, BMG45ARANA, BMG45ARBNA, BMH45AB, BMK35AE, BMK45AEBNA, BMK45AEHNA, BMS35AB, BMS35BB, BMS45ABBNA, BMS45ABHNA, BMS45BBBNA, BMS45BBHNA, BMS45CBANA, BMS45CBBNA, BMS45CRANA, BMS45CRBNA, BMT45ARBNA, BMT45ARHNA, BMT45BRBNA, BMT45BRHNA, BMU45AE, BMX35AR, BMY45AR, CMA30AF, CMN34AB, CMS30AB, CMS45ABANA, CMS45ABBNA, CMS45ARANA, CMS45ARBNA, CMW30AB, CMY30AR, CMY34ARBNA, CMY34ARHNA",
       "cost": "90,00",
       "title": "prato do microondas, prato microondas, prato giratorio"
   },
@@ -706,16 +706,16 @@
       "code": "326064104",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWI06B, CWI07A",
       "cost": "30,00",
-      "title": ""
+      "title": "ARRASTADOR, BOBINA"
   },
   {
       "name": "Trava da Tampa",
       "code": "326066045",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWI07A",
       "cost": "30,00",
       "title": "trava tampa, trava da porta"
   },
@@ -724,7 +724,7 @@
       "code": "W10246430",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWL09BBANA, BWL09BBBNA",
       "cost": "40,00",
       "title": "microchave, micro chave, micro-chave, sensor magnetico, sensor da tampa"
   },
@@ -733,34 +733,34 @@
       "code": "W10315004",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "BWB08A, BWB08AB",
       "cost": "25,00",
-      "title": "reed, switch, microchave, micro chave, micro-chave, sensor magnetico, sensor da tampa"
+      "title": "reed switch, microchave, micro chave, micro-chave, sensor magnetico, sensor da tampa"
   },
   {
       "name": "Teclado Membrana",
       "code": "W10325885",
       "brand": "Brastemp/Consul",
       "subject": "microondas",
-      "model": "",
+      "model": "BMS45ABBNA, BMS45ABHNA, BMS45BBBNA, BMS45BBHNA, ",
       "cost": "85,00",
-      "title": ""
+      "title": "MEMBRANA ELETRONICA, MEMBRANA ELETRÔNICA"
   },
   {
       "name": "Placa Eletrônica",
       "code": "W10331263",
       "brand": "Brastemp/Consul",
       "subject": "microondas",
-      "model": "",
+      "model": "BMS45ABBNA, BMS45BBBNA",
       "cost": "120,00",
-      "title": "placa eletronica"
+      "title": "placa eletronica, W10554278"
   },
   {
       "name": "Sensor Reed Switch",
       "code": "W10343282",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "",
+      "model": "CWC10AB, CWE10ABANA, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG11AB, CWG12ABANA, CWG12ABBNA, CWK11AB, CWK12ABANA, CWK12ABBNA",
       "cost": "50,00",
       "title": "reed, switch, microchave, micro chave, micro-chave, sensor magnetico, sensor da tampa"
   },
@@ -769,7 +769,7 @@
       "code": "W10488004",
       "brand": "Brastemp/Consul",
       "subject": "microondas",
-      "model": "bms26",
+      "model": "BMS26AB",
       "cost": "40,00",
       "title": ""
   },
