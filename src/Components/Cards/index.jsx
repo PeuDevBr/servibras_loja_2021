@@ -34,7 +34,7 @@ export default function Cards({ products, search }) {
   let cardList = [];
 
   if (search === "") {
-    /*cardList = [
+    cardList = [
       {
         name: "Placa Potência 220V",
         code: "W10446925",
@@ -77,7 +77,7 @@ export default function Cards({ products, search }) {
         name: "Kit Placa BWL11 - W10356413 W10301604 326064442 (Similar)",
         code: "7220060",
         brand: "Alado",
-        subject: "multimarcas, similar, consul, brastemp",
+        subject: "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
         model: "BWL11AB",
         cost: "280,00",
         title: "placa potencia, placa interface, placa potência",
@@ -86,7 +86,7 @@ export default function Cards({ products, search }) {
         name: "Kit Placa BWC10 Bivolt (Similar)",
         code: "1447",
         brand: "CP Placas",
-        subject: "multimarcas, similar, consul, brastemp",
+        subject: "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
         model: "BWC10AB",
         cost: "150,00",
         title: "placa potencia, placa potência",
@@ -95,7 +95,7 @@ export default function Cards({ products, search }) {
         name: "Placa Eletrônica LT12F",
         code: "70201326",
         brand: "Electrolux",
-        subject: "Máquina de Lavar, Lavadora, Maquina de lavar",
+        subject: "Máquina de Lavar, Lavadora, Maquina de lavar, ",
         model: "LT12F",
         cost: "200,00",
         title: "potencia",
@@ -109,11 +109,7 @@ export default function Cards({ products, search }) {
         cost: "450,00",
         title: "mecanismo, mecanica, transmissao, mecânica",
       },
-    ];*/
-    return (
-      <>
-      </>
-    )
+    ];
   } else {
     for (var part in products) {
       if (
@@ -127,66 +123,69 @@ export default function Cards({ products, search }) {
         cardList.push(products[part]);
       }
     }
-    return (
-      <Container>
-        {cardList.map((card) => {
-          return (
-            <Card key={card.code}>
-              <Box>
-                <Content>
-                  <P>{card.brand}</P>
-                  <Image src={`/images/parts/${card.code}.png`} />
-  
-                  <H3>{card.name}</H3>
-                  <P>{card.code}</P>
-                  <P>R$ {card.cost}</P>
-                  <A
-                    onClick={() => {
-                      setCardModal(card);
-                      handleOpenCardModal();
-                    }}
-                    className="button"
-                    target="_blank"
-                  >
-                    Verificar
-                  </A>
-                </Content>
-              </Box>
-            </Card>
-          );
-        })}
-        <Modal
-          isOpen={isCardModalOpen}
-          onRequestClose={handleCloseCardModal}
-          overlayClassName="react-modal-overlay"
-          className="react-modal-content"
-        >
-          <ModalContainer>
-            <div>
-              <img src={`/images/parts/${cardModal.code}.png`} />
-            </div>
-            <div>
-              <DescriptionContainer>
-                <h1>{cardModal.name}</h1>
-                <h3>{cardModal.brand}</h3>
-                <h2>Código: {cardModal.code}</h2>
-                <h2>R$ {cardModal.cost}</h2>
-              <ButtonsContainer>
-                <ModalAcceptButton
-                  href={`https://api.whatsapp.com/send?1=pt_BR& phone=558299802-2266&text=Olá! Quero solicitar a peça: ${cardModal. code} - ${cardModal.name} - ${cardModal.cost}`}
+  }
+
+  //href={`https://api.whatsapp.com/send?1=pt_BR&phone=558299802-2266&text=Tenho interesse na peça: ${card.code} - ${card.name}`}
+
+  return (
+    <Container>
+      {cardList.map((card) => {
+        return (
+          <Card key={card.code}>
+            <Box>
+              <Content>
+                <P>{card.brand}</P>
+                <Image src={`/images/parts/${card.code}.png`} />
+
+                <H3>{card.name}</H3>
+                <P>{card.code}</P>
+                <P>R$ {card.cost}</P>
+                <A
+                  onClick={() => {
+                    setCardModal(card);
+                    handleOpenCardModal();
+                  }}
+                  className="button"
+                  target="_blank"
                 >
-                  Solicitar Peça
-                  <img src={`/images/whatsapp.png`} alt="" />
-                </ModalAcceptButton >
-                <ModalBackButton onClick={handleCloseCardModal}>
-                  Voltar
-                </ModalBackButton>
-              </ButtonsContainer>
-              </DescriptionContainer>                     
-            </div>
-          </ModalContainer>
-        </Modal>
-      </Container>
-    );
-  }  //href={`https://api.whatsapp.com/send?1=pt_BR&phone=558299802-2266&text=Tenho interesse na peça: ${card.code} - ${card.name}`  
+                  Verificar
+                </A>
+              </Content>
+            </Box>
+          </Card>
+        );
+      })}
+      <Modal
+        isOpen={isCardModalOpen}
+        onRequestClose={handleCloseCardModal}
+        overlayClassName="react-modal-overlay"
+        className="react-modal-content"
+      >
+        <ModalContainer>
+          <div>
+            <img src={`/images/parts/${cardModal.code}.png`} />
+          </div>
+          <div>
+            <DescriptionContainer>
+              <h1>{cardModal.name}</h1>
+              <h3>{cardModal.brand}</h3>
+              <h2>Código: {cardModal.code}</h2>
+              <h2>R$ {cardModal.cost}</h2>
+            <ButtonsContainer>
+              <ModalAcceptButton
+                href={`https://api.whatsapp.com/send?1=pt_BR& phone=558299802-2266&text=Olá! Quero solicitar a peça: ${cardModal. code} - ${cardModal.name} - ${cardModal.cost}`}
+              >
+                Solicitar Peça
+                <img src={`/images/whatsapp.png`} alt="" />
+              </ModalAcceptButton >
+              <ModalBackButton onClick={handleCloseCardModal}>
+                Voltar
+              </ModalBackButton>
+            </ButtonsContainer>
+            </DescriptionContainer>                     
+          </div>
+        </ModalContainer>
+      </Modal>
+    </Container>
+  );
 }

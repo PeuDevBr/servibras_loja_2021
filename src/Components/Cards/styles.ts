@@ -113,7 +113,6 @@ export const ModalContainer = styled.div`
   grid-template-columns: repeat(2, 1fr);
   justify-items: center;
   justify-content: center;
-  margin-top: 80px;
 
   img {
     height: 25rem;
@@ -124,7 +123,7 @@ export const ModalContainer = styled.div`
 
 export const DescriptionContainer = styled.div`
   display: block;
-  margin-top: 40px;
+  margin-top: 60px;
 
   h2{
     margin-bottom: 1rem;

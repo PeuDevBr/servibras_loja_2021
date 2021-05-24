@@ -6,7 +6,7 @@ export const Container = styled.div`
   top: 0;
   z-index: 99; 
   width:100%;
-  height: 110px;
+  height: 6.8rem;
   display: flex;
   justify-content: center;
 `
@@ -14,16 +14,16 @@ export const Container = styled.div`
 export const Content = styled.div`
   width: 100vw;
   max-width: 1440px;
-  height: 100px; /* What??? */
+  height: 6.25rem; /* What??? */
   margin-top: 0.2rem;
   margin-bottom: -0.5rem;
-  top: 20px;
-  left: 20px;
-  right: 20px;
-  border: 20px;
+  top: 1.25rem;
+  left: 1.25rem;
+  right: 1.25rem;
+  border: 1.25rem;
   background: linear-gradient(45deg, #96e6a1, #ebedee);
-  box-shadow: 0 10px 20px rgba(0,0,0,0.1); 
-  border-radius: 15px;
+  box-shadow: 0 0.625rem 1.25rem rgba(0,0,0,0.1); 
+  border-radius: 0.9375rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -42,8 +42,8 @@ export const Heading = styled.a`
 
 export const SearchContainer = styled.form`
   display: flex;
-  height: 40px;
-  width: 420px;
+  height: 2.5rem;
+  width: 26.25rem;
   align-items: center;
   border-radius: 0.45rem;
   background: #FFF;
@@ -51,10 +51,10 @@ export const SearchContainer = styled.form`
 
 export const SearchInput = styled.input`
   border: none;
-  height: 40px;
+  height: 2.5rem;
   margin-left: 0.5rem;
   background: transparent;
-  width: 320px;
+  width: 20rem;
   outline: none;
   background: #fff;
 
@@ -74,8 +74,8 @@ export const SearchButton = styled.button`
   color: #6c757d;
   font-size: 1rem;
   font-weight: 500;
-  width: 120px;
-  height: 25px;
+  width: 7.5rem;
+  height: 1.6rem;
   margin-right: 1rem;
   border: none;
   border-radius: 0.5rem;
