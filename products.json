@@ -833,7 +833,7 @@
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BLL22EDB, BLL22MGB, BLL22MGD, BWC10A, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWH08B, BWH09A, BWH09B, BWH09BB, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL09BBBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, BWM06A, BWM08A, BWM08AB, BWQ06A, BWQ07A, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR22A, BWR22B, BWR22C, BWT08A, BWT08C, BWT09A, BWT09AB, BWT09B, BWT09BB, BWX09A, BWX09B, XWH08A, ",
-      "cost": "50,00",
+      "cost": "100,00",
       "title": ""
   },
   {
@@ -2716,6 +2716,15 @@
       "model": "50 metros",
       "cost": "45,00",
       "title": "fita militar, fita sequestro, fita tectape"
+  },
+  {
+      "name": "Termostato Dupla Ação",
+      "code": "33166910000",
+      "brand": "Emicol",
+      "subject": "multimarcas",
+      "model": "Dupla Ação",
+      "cost": "65,00",
+      "title": "termostato dupla açao, termostato dupla acao, termostato dupla acão, mecanização, mecanizaçao, mecanizacao"
   },
   {
       "name": "Fita Isolante 20m",
@@ -5144,7 +5153,16 @@
       "brand": "Electrolux",
       "subject": "bebedouro, purificador, gelagua",
       "model": "",
-      "cost": "160,00",
+      "cost": "140,00",
+      "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador"
+  },
+  {
+      "name": "Filtro Purificador",
+      "code": "306100000121",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "",
+      "cost": "220,00",
       "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador"
   },
   {
