@@ -150,7 +150,7 @@ export const ModalBackButton = styled.button`
   font-weight: 700;
   margin-bottom: 0.3rem;
   margin-top: 0.8rem;
-  transition: 0.5s;
+  transition: transform 0.5s;
   border: none;
   cursor: pointer;
 
@@ -173,7 +173,7 @@ export const ModalAcceptButton = styled.a`
   font-weight: 700;
   margin-bottom: 0.3rem;
   margin-top: 0.8rem;
-  transition: 0.5s;
+  transition: transform 0.5s;
   border: none;
   text-decoration: none;
   cursor: pointer;

@@ -1,4 +1,4 @@
-import { useState} from "react";
+import { useEffect, useState} from "react";
 import Modal from "react-modal";
 import {
   A,
@@ -170,6 +170,7 @@ export default function Cards({ products, search }) {
               <h1>{cardModal.name}</h1>
               <h3>{cardModal.brand}</h3>
               <h2>Código: {cardModal.code}</h2>
+              <h3>{cardModal.version}</h3>
               <h2>R$ {cardModal.cost}</h2>
             <ButtonsContainer>
               <ModalAcceptButton
