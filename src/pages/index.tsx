@@ -7,15 +7,14 @@ import { scrollToTop } from "../functions/scrollToTop";
 export default function Home() {
   const [search, setSearch] = useState("");
 
-  function handleSubmit(e) {
-    e.preventDefault();
-    const value = e.target.search.value;
+  function handleSubmit(event) {
+    event.preventDefault();
     scrollToTop();
-    setSearch(value.toUpperCase());    
+    setSearch(event.target.search.value.toUpperCase());    
   }
   return (
     <>
-      <Header setSearch={setSearch} handleSubmit={(e) => handleSubmit(e)}  />
+      <Header setSearch={setSearch} handleSubmit={(event) => handleSubmit(event)}  />
       <Cards products={products} search={search}/>
     </>
   );
