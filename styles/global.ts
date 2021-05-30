@@ -9,6 +9,37 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Roboto', sans-serif;
   }
 
+  .buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+
+    h3 {
+      padding: 0.5rem;
+      font-size: 1.5rem;
+      border: 1px solid;
+      border-radius: 0.5rem;
+    }
+
+    button {
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      transition: 0.5s;
+
+      .closeButton {
+        color: #e01e37;
+      }
+
+      &:hover {
+        transform: scale(1.2);
+      }
+    }
+    
+
+  }
+  
   .react-modal-overlay {
     background: rgba(0, 0, 0, 0.5);
 
@@ -29,7 +60,6 @@ export const GlobalStyle = createGlobalStyle`
     max-width: 1000px;
     background: #fdfffc;
     outline: none;
-    margin-top: 100px;
 
     border-radius: 10px;
 

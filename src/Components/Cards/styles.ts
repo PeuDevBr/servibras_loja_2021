@@ -6,7 +6,7 @@ export const Container = styled.div`
   grid-template-columns: repeat(4, 300px);
   justify-items: center;
   justify-content: center;
-  margin-top: 120px;
+  margin-top: 10px;
 `;
 export const Box = styled.div`
   height: 320px; /* What??? */
@@ -35,20 +35,31 @@ export const H2 = styled.h2`
 `;
 
 export const A = styled.a`
-  position: relative;
-  display: inline-block;
-  padding: 8px 20px;
+padding: 6px 12px;
   background: #ebf5fc;
   border-radius: 10px;
   color: #777;
   text-decoration: none;
+  font-size: 1.2rem;
   font-weight: 700;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   margin-bottom: 0.3rem;
   margin-top: 0.5rem;
-  transition: 0.9s;
+  transition: 0.7s;
   outline: none;
   cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .icon{
+    margin-left: 0.3rem;
+  }
+  
+  &+A{
+    margin-left: 0.5rem;
+  }
 `;
 export const H3 = styled.h3`
   font-size: 1em;
@@ -71,6 +82,12 @@ export const P = styled.p`
 export const Content = styled.div`
   padding: 20px;
   text-align: center;
+
+  .buttonsDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 `;
 export const Image = styled.img`
   height: 8rem;
@@ -86,108 +103,24 @@ export const Card = styled.div`
     5px 5px 5px rgba(0, 0, 0, 0.05), -5px -5px 5px rgba(225, 225, 225, 0.5);
   border-radius: 15px;
   margin: 15px;
+  transition: 0.7s;
 
   &:hover {
-    //${Box} {
-      //transform: scale(1.25); //translateY(-50px);
-      //box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-      //background: linear-gradient(45deg, #accbee, #D7FFFE)
-    //}
-    ${H2} {
-      //color: rgba(0, 0, 0, 0.1);
-    }
     ${A} {
-      background: #96e6a1;
+      background: #52b788;
+      color: #FFF;
+    }    
+  }
+
+  .add {
+      &:hover{
+        transform: scale(1.1);
+      }
     }
-    ${H3} {
-      //color: #FFF;
+
+  .verify {
+    &:hover{
+      transform: scale(1.1);
     }
-    ${P} {
-      //color: #FFF;
-    }
-  }
-`;
-
-export const ModalContainer = styled.div`
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  justify-items: center;
-  justify-content: center;
-
-  img {
-    height: 25rem;
-    width: 25rem;
-  }
-`;
-
-
-export const DescriptionContainer = styled.div`
-  display: block;
-  margin-top: 60px;
-
-  h2{
-    margin-bottom: 1rem;
-  }
-  h3{
-    margin-bottom: 1rem;
-    color: #8d99ae;
-  }
-  p {
-    width: 600px;
-    color: #8d99ae;
-    margin-bottom: 0.5rem;
-    font-size: 0.9rem;
-  }
-`
-
-export const ModalBackButton = styled.button`
-  margin-left: 20px;
-  padding: 12px 20px;
-  background: #e5383b;
-  font-size: 1.5rem;
-  border-radius: 5px;
-  color: #ffffff;
-  font-weight: 700;
-  margin-bottom: 0.3rem;
-  margin-top: 0.8rem;
-  transition: transform 0.5s;
-  border: none;
-  cursor: pointer;
-
-  &:hover {
-    transform: scale(1.1);
-  }
-`;
-
-export const ButtonsContainer = styled.div`
-display: flex;
-`
-
-export const ModalAcceptButton = styled.a`
-  
-  padding: 8px 16px;
-  background: #52b788;
-  font-size: 1.5rem;
-  border-radius: 5px;
-  color: #ffffff;
-  font-weight: 700;
-  margin-bottom: 0.3rem;
-  margin-top: 0.8rem;
-  transition: transform 0.5s;
-  border: none;
-  text-decoration: none;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-
-  img {
-    margin-left: 0.5rem;
-    height: 50px;
-    width: 50px;
-
-  }
-
-  &:hover {
-    transform: scale(1.1);
   }
 `;

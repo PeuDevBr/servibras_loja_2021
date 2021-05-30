@@ -2,7 +2,6 @@ import styled from "styled-components"
 
 export const Container = styled.div`
   background: #fff;
-  position: fixed;
   top: 0;
   z-index: 99; 
   width:100%;
@@ -45,6 +44,7 @@ export const SearchContainer = styled.form`
   height: 2.5rem;
   width: 26.25rem;
   align-items: center;
+  justify-content: space-evenly;
   border-radius: 0.45rem;
   background: #FFF;
 `
@@ -58,7 +58,7 @@ export const SearchInput = styled.input`
   outline: none;
   background: #fff;
 
-  color: #adb5bd;
+  color: #8a817c;
   font-size: 1.0rem;
   font-weight: 500;
 
@@ -70,21 +70,48 @@ export const SearchInput = styled.input`
 `
 
 export const SearchButton = styled.button`
-  background: #fec89a;
+  background:transparent;
   color: #6c757d;
-  font-size: 1rem;
-  font-weight: 500;
-  width: 7.5rem;
+  width: 1.5rem;
   height: 1.6rem;
-  margin-right: 1rem;
   border: none;
-  border-radius: 0.5rem;
   outline: none;
   cursor: pointer;
   transition: 0.7s;
 
   &:hover{
-    background: #f4a261;
+    color: #463f3a;
+    background: #f4f3ee;
     transform: scale(1.15)
+  }
+`
+
+export const MyCartContainer = styled.div`
+  height: 4rem;
+  width: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+
+  button {
+    border: none;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    cursor: pointer;
+    color: #4a5759;
+    transition: 0.7s;
+    outline: none;
+
+    div {
+      margin-right: 0.7rem;
+    }
+
+    &:hover {
+      transform: scale(1.15);
+    }
   }
 `

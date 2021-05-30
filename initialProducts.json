@@ -6,7 +6,8 @@
     "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
     "model":
     "BWB11ABBNA, BWL11ABBNA, BWL11AR, BWK11ABBNA, CWG11AB, CWK12ABBNA, CWL10B, CWL75A, CWK11AB, CWC10AB, BWC11AB, BWC09AB, BWC10BB, BWC07A, BWC08A, BWC10A, BWB09AB, BWL09BBBNA, BWB08A, BWB08AB",
-    "cost": "180,00",
+    "amount": "180",
+    "quantity": 0,
     "title": "potencia"
   },
   {
@@ -15,16 +16,18 @@
     "brand": "Embraco",
     "subject": "Freezer",
     "model": "FFI 12HBX",
-    "cost": "540,00",
+    "amount": "100",
+    "quantity": 0,
     "title": "Motor, Motor 1/3, , Motor 1/3+, Motor 1/3 +, motor freezer"
   },
   {
-    "name": "Tubulação de cobre 1/4 ",
+    "name": "Tubulação de cobre 1/4 (Kg)",
     "code": "100213250",
     "brand": "Eluma",
     "subject": "Split",
     "model": "",
-    "cost": "100,00 (kg)",
+    "amount": "100",
+    "quantity": 0,
     "title":
       "Cano 1/4, Cano de Cobre, Cano de Cobre 1/4, Tubo 1/4, Instalação, Instalaçao, Instalacao"
   },
@@ -34,7 +37,8 @@
     "brand": "Brastemp/Consul",
     "subject": "split, condicionador de ar, ar condicionado",
     "model": "",
-    "cost": "550,00",
+    "amount": "550",
+    "quantity": 0,
     "title": "motor"
   },
   {
@@ -43,7 +47,8 @@
     "brand": "Alado",
     "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
     "model": "BWL11AB",
-    "cost": "280,00",
+    "amount": "280",
+    "quantity": 0,
     "title": "placa potencia, placa interface, placa potência"
   },
   {
@@ -52,7 +57,8 @@
     "brand": "CP Placas",
     "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
     "model": "BWC10AB",
-    "cost": "150,00",
+    "amount": "150",
+    "quantity": 0,
     "title": "placa potencia, placa potência"
   },
   {
@@ -61,7 +67,8 @@
     "brand": "Electrolux",
     "subject": "Máquina de Lavar, Lavadora, Maquina de lavar, ",
     "model": "LT12F",
-    "cost": "200,00",
+    "amount": "200",
+    "quantity": 0,
     "title": "potencia"
   },
   {
@@ -70,7 +77,8 @@
     "brand": "Electrolux",
     "subject": "lavadora, máquina de lavar, maquina de lavar",
     "model": "",
-    "cost": "450,00",
+    "amount": "450",
+    "quantity": 0,
     "title": "mecanismo, mecanica, transmissao, mecânica"
   }
 ]
