@@ -9,6 +9,13 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Roboto', sans-serif;
   }
 
+  html {
+    /* a cada 1rem será consideradi 10px */
+    //font-size: 62.5%;
+    background: #dee2e6;
+  }
+
+
   .buttonContainer {
     display: flex;
     justify-content: space-between;

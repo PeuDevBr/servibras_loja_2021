@@ -1,126 +1,148 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  display: grid;
-  width: 100vw;
-  grid-template-columns: repeat(4, 300px);
-  justify-items: center;
-  justify-content: center;
-  margin-top: 10px;
-`;
-export const Box = styled.div`
-  height: 320px; /* What??? */
-
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  right: 20px;
-  border: 20px;
-  background: linear-gradient(45deg, #ebedee, #accbee);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-  border-radius: 15px;
+  width:99%;
   display: flex;
   justify-content: center;
-  align-items: center;
-  transition: 0.7s;
-`;
-export const H2 = styled.h2`
-  position: absolute;
-  top: 2px;
-  right: 30px;
-  font-size: 3.6rem;
-  color: rgba(0, 0, 0, 0.02);
-  transition: 0.7s;
-  pointer-events: none;
-`;
-
-export const A = styled.a`
-padding: 6px 12px;
-  background: #ebf5fc;
-  border-radius: 10px;
-  color: #777;
-  text-decoration: none;
-  font-size: 1.2rem;
-  font-weight: 700;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-  margin-bottom: 0.3rem;
-  margin-top: 0.5rem;
-  transition: 0.7s;
-  outline: none;
-  cursor: pointer;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  .icon{
-    margin-left: 0.3rem;
-  }
   
-  &+A{
-    margin-left: 0.5rem;
-  }
-`;
-export const H3 = styled.h3`
-  font-size: 1em;
-  color: #777;
-  min-height: 3.2rem;
-  z-index: 1;
-  transition: 0.7s;
-`;
+    .gridContainer {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      width: 99vw;
+      max-width: 1440px;
 
-export const P = styled.p`
-  font-size: 1em;
-  font-weight: 300;
-  color: #777;
-  margin-top: 0.25rem;
-  z-index: 1;
-
-  transition: 0.7s;
-`;
-
-export const Content = styled.div`
-  padding: 20px;
-  text-align: center;
-
-  .buttonsDiv {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-`;
-export const Image = styled.img`
-  height: 8rem;
-  width: 8rem;
-`;
-
-export const Card = styled.div`
-  position: relative;
-  width: 260px;
-  height: 360px;
-  box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.05),
-    inset -5px -5px 5px rgba(225, 225, 225, 0.5),
-    5px 5px 5px rgba(0, 0, 0, 0.05), -5px -5px 5px rgba(225, 225, 225, 0.5);
-  border-radius: 15px;
-  margin: 15px;
-  transition: 0.7s;
-
-  &:hover {
-    ${A} {
-      background: #52b788;
-      color: #FFF;
-    }    
-  }
-
-  .add {
-      &:hover{
-        transform: scale(1.1);
-      }
+      justify-content: center;
     }
 
-  .verify {
-    &:hover{
-      transform: scale(1.1);
+    .productContainer {
+      height: 370px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+        
+    .productContent {
+       width: 240px;
+      height: 340px;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 1.2rem;
+      padding-top: 0.5rem;
+      padding-bottom: 1.5rem;
+    }
+
+    .code {
+      font-size: 0.8rem;
+    }
+
+    .name {
+      min-height: 4rem;
+      font-size: 1rem;
+      padding: 0.2rem;
+      text-align: center;
+    }
+
+    .logo {
+      font-size: 0.7rem;
+      font-weight: 500;
+    }
+
+    img {
+      height: 6rem;
+      width: 6rem;
+    }
+
+    .price {
+      color: #5a5a5a;
+      font-size: 2rem;
+    }
+
+    .cardButton {
+      font-weight: 500;
+      border: none;
+      height: 2rem;
+      width: 6rem;
+      background: transparent;
+      border: solid 1.2px #000;
+      border-radius: 1rem;
+
+      & + button {
+        margin-left: 0.5rem;
+      }
+    }
+  
+  @media all and (max-width: 510px) {
+    .gridContainer {
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    }
+    .productContainer {
+      height: 280px;
+      width: 160px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+        
+    .productContent {
+      width: 170px;
+      height: 260px;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 1.2rem;
+      padding-top: 0.5rem;
+      padding-bottom: 1.5rem;
+    }
+
+    .name {
+      font-size: 0.8rem;
+      min-height: 3.5rem;
+      padding: 0.2rem;
+      text-align: center;
+    }
+
+    .code {
+      font-size: 0.7rem;
+      margin-top: 0.5rem;
+    }
+
+    .logo {
+      font-weight: 500;
+    }
+
+    img {
+      height: 3.7rem;
+      width: 3.7rem;
+    }
+
+    .price {
+      color: #5a5a5a;
+      font-size: 1.5rem;
+      margin-bottom: 0.3rem;
+    }
+
+    section {
+      display: flex;
+      flex-direction: column;
+
+      .cardButton {
+        font-weight: 500;
+        border: none;
+        height: 1.5rem;
+        width: 5rem;
+        background: transparent;
+        border: solid 1.2px #000;
+        border-radius: 1rem;
+        font-size: 0.7rem;
+        & + button {
+          margin-left: 0;
+          margin-top: 0.5rem;
+        }
+      }
     }
   }
 `;

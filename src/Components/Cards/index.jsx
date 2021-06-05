@@ -1,4 +1,4 @@
-import { useState} from "react";
+import { useState } from "react";
 import { FaCartPlus } from 'react-icons/fa';
 import initialProducts from "../../../initialProducts.json";
 import { useProducts } from "../../hooks/ProductsContext";
@@ -41,27 +41,28 @@ export default function Cards({ search , setCart, cart}) {
       }
     }
   }
-  //href={`https://api.whatsapp.com/send?1=pt_BR&phone=558299802-2266&text=Tenho interesse na peça: ${card.code} - ${card.name}`}
 
   return (
-    <>
-      <Container>
-        {cardList.map((card) => {
+    <Container>
+      <div className="gridContainer">
+      {cardList.map((card) => {
           return (
-            <Card key={card.code}>
-              <Box>
-                <Content>
-                  <P>{card.brand}</P>
-                  <Image 
-                    src={`/images/parts/${card.code}.png`}
-                    alt={card.name}
-                  />
 
-                  <H3>{card.name}</H3>
-                  <P>{card.code}</P>
-                  <P>{formatPrice(card.amount)}</P>
-                  <div className="buttonsDiv">
-                  <A
+            <div key={card.code} className="productContainer">
+              <div className="productContent">
+    
+                <span className="logo">{card.brand}</span>
+                <img 
+                  className="image"
+                  src={`/images/parts/${card.code}.png`}
+                  alt={card.name}
+                />
+                <h2 className="name">{card.name.toUpperCase()}</h2>
+                <h2 className="code">{card.code}</h2>
+                <h1 className="price">R$ {card.amount}</h1>
+                <section>
+                  <button 
+                    className="cardButton"
                     onClick={() =>{
 
                       const productAlreadyInCart = cart.find(product => product.code === card.code)
@@ -82,29 +83,27 @@ export default function Cards({ search , setCart, cart}) {
                         Message("Quantidade alterada no Carrinho", "info")
                       }
                     }}
-                    className="add"
-                    target="_blank"
                   >
-                    Add
-                    <FaCartPlus className="icon" size={16}  />
-                  </A>
-                  <A
+                    ADICIONAR
+                  </button>
+                  <button 
+                    className="cardButton"
                     onClick={() => {
                       setCardModal(card);
                       handleOpenCardModal();
                     }}
-                    className="verify"
-                    target="_blank"
                   >
-                    Verificar
-                  </A>
-                  </div>
-                </Content>
-              </Box>
-            </Card>
-          );
-        })}
-        <CardModal 
+                    VERIFICAR
+                  </button>
+                </section>
+    
+              </div>
+          </div>
+      );
+    })}      
+
+      </div>
+      <CardModal 
           isCardModalOpen={isCardModalOpen}
           cardModal={cardModal}
           handleCloseCardModal={handleCloseCardModal}
@@ -113,7 +112,6 @@ export default function Cards({ search , setCart, cart}) {
           search={search}
         />
         <ToastContainer/>
-      </Container>
-    </>
+    </Container>
   );
 }

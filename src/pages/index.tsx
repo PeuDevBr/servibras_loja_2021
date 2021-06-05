@@ -1,9 +1,8 @@
 import Cards from "../Components/Cards";
-import { Header } from "../Components/Header";
+import { HeaderGrid } from "../Components/HeaderGrid";
 import products from "../../products.json";
 import { useState } from "react";
 import { scrollToTop } from "../util/scrollToTop";
-
 import { createServer, Model } from "miragejs";
 import { CartModal } from "../Components/CartModal";
 import { ProductsProvider } from "../hooks/ProductsContext";
@@ -57,19 +56,19 @@ export default function Home() {
   }
   return (
     <ProductsProvider>
-      <Header
-        setSearch={setSearch}
-        handleSubmit={(event) => handleSubmit(event)}
-        handleOpenCartModal={handleOpenCartModal}
-        cart={cart}
-      />
-      <Cards search={search} setCart={setCart} cart={cart} />
-      <CartModal
-        isCardModalOpen={isCartModalOpen}
-        cart={cart}
-        setCart={setCart}
-        handleCloseCardModal={handleCloseCartModal}
-      />
+        <HeaderGrid
+           setSearch={setSearch}
+           handleSubmit={(event) => handleSubmit(event)}
+           handleOpenCartModal={handleOpenCartModal}
+           cart={cart}
+        />
+        <Cards search={search} setCart={setCart} cart={cart} />
+        <CartModal
+          isCardModalOpen={isCartModalOpen}
+          cart={cart}
+          setCart={setCart}
+          handleCloseCardModal={handleCloseCartModal}
+        />
     </ProductsProvider>
   );
 }

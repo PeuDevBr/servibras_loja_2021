@@ -4,6 +4,107 @@ export const ModalContainer = styled.div`
   max-height: 450px;
   overflow-y: auto; 
 
+  .content {
+
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+    margin: 0.5rem;
+    padding: 0.25rem;
+
+  .firstDiv {
+    display: flex;
+    flex: 1;
+    height: 4rem;
+    justify-content: space-around;
+    align-items: center;
+  
+
+    img {
+      height: 4rem;
+      width: 4rem;
+    }
+
+    .code {
+      width: 7rem;
+    }
+
+    .description {
+      width: 15rem;
+    }
+  }
+
+  .secondDiv {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    .value {
+      width: 5rem;
+    }
+
+    .changeAmountButtons {
+      display: flex;
+      align-items: center;
+      
+      .amount {
+        margin: 0.5rem;
+      }
+
+      button {
+        font-size: 1.25rem;
+        width: 1.5rem;
+      }
+
+    }
+
+    .trashButton {
+      color: #e01e37;
+      border: none;
+      background: transparent;
+      transition: transform 0.3s;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+
+      &:hover {
+        transform: scale(1.25);
+      }
+    }
+
+    .incrementButton {
+      border: none;
+      background: transparent;
+      transition: transform 0.3s;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+
+      &:hover {
+        transform: scale(1.25);
+        color: #3e8914;
+      }
+    }
+
+    .DecrementButton {
+      border: none;
+      background: transparent;
+      transition: transform 0.3s;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+
+      &:hover {
+        transform: scale(1.25);
+        color: #fc2f00;
+      }
+
+    }
+  }
+}
+
   .sendDiv {
     margin-left: 20px;
     display: flex;
@@ -44,87 +145,31 @@ export const ModalContainer = styled.div`
       align-items: center;
     }
   }
-`;
 
-export const Content = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 4.2rem;
-  border: 1px solid gray;
-  margin: 0.5rem;
-  padding: 0.25rem;
+  @media all and (max-width: 555px) {
+    .content{
+      flex-wrap: wrap;
+      font-size: 0.8rem;
 
-  img {
-    height: 4rem;
-    width: 4rem;
-  }
+      .firstDiv {
+        margin-left: -0.5rem;
 
-  button {
-    font-size: 1.25rem;
-    width: 1.5rem;
-  }
+        img {
+          height: 2rem;
+          width: 2rem;
+          margin-right: 0.5rem;
+        }
+      }
 
-  .code {
-    width: 7rem;
-  }
+      .code {
+        margin-left: -0.5rem;
+      }
 
-  .description {
-    width: 15rem;
-  }
-
-  .value {
-    width: 5rem;
-  }
-
-  div {
-    display: flex;
-    align-items: center;
-    
-    p {
-      margin: 0.5rem;
-    }
-  }
-
-  .trashButton {
-    color: #e01e37;
-    border: none;
-    background: transparent;
-    transition: transform 0.3s;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-
-    &:hover {
-      transform: scale(1.25);
-    }
-  }
-
-  .incrementButton {
-    border: none;
-    background: transparent;
-    transition: transform 0.3s;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-
-    &:hover {
-      transform: scale(1.25);
-      color: #3e8914;
-    }
-  }
-
-  .DecrementButton {
-    border: none;
-    background: transparent;
-    transition: transform 0.3s;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-
-    &:hover {
-      transform: scale(1.25);
-      color: #fc2f00;
+      .description {
+       margin-left: -1.1rem;
+       max-width: 8rem;
+      }
+      
     }
   }
 `;

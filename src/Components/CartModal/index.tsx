@@ -3,7 +3,7 @@ import { FaWindowClose } from 'react-icons/fa';
 import { RiWhatsappFill } from 'react-icons/ri';
 import { AiOutlineMinusCircle, AiOutlinePlusCircle, AiFillCloseCircle } from 'react-icons/ai';
 import { formatPrice } from "../../util/format";
-import { ModalContainer, Content } from "./styles";
+import { ModalContainer } from "./styles";
 
 Modal.setAppElement("body");
 
@@ -82,54 +82,60 @@ export function CartModal({
       <ModalContainer>
         {cartFormatted.map((product) => {
           return (
-            <Content key={product.code}>
-              <img
-                src={`/images/parts/${product.code}.png`}
-                alt={product.name}
-              />
-              <p className="code">{product.code} </p>
-              <p className="description">{product.name} </p>
-              <p className="value">{product.priceFormatted}</p>
-              <div>
+            <div className="content" key={product.code}>
+
+              <div className="firstDiv">
+                <img
+                  src={`/images/parts/${product.code}.png`}
+                  alt={product.name}
+                />
+                <p className="code">{product.code} </p>
+                <p className="description">{product.name} </p>
+              </div>
+
+              <div className="secondDiv">
+                <p className="value">{product.priceFormatted}</p>
+                <div className="changeAmountButtons">
+                  <button
+                    className="DecrementButton"
+                    type="button"
+                    disabled={product.quantity <= 1}
+                    onClick={() => {
+                      const DecrementArguments = {
+                        productCode: product.code,
+                        newQuantity: product.quantity - 1,
+                      };
+                      updateProductQuantity(DecrementArguments)
+                    }}
+                  >
+                    <AiOutlineMinusCircle size={24}/>
+                  </button>
+                  <p className="amount">{product.quantity}</p>
+                  <button
+                    className="incrementButton"
+                    onClick={() => {
+                      const IncrementArguments = {
+                        productCode: product.code,
+                        newQuantity: product.quantity + 1,
+                      };
+                      updateProductQuantity(IncrementArguments)
+                    }}
+                  >
+                    <AiOutlinePlusCircle size={24}/>
+                  </button>
+                </div>
+                <p className="value">{product.subTotal}</p>
                 <button
-                  className="DecrementButton"
+                  className="trashButton"
                   type="button"
-                  disabled={product.quantity <= 1}
                   onClick={() => {
-                    const DecrementArguments = {
-                      productCode: product.code,
-                      newQuantity: product.quantity - 1,
-                    };
-                    updateProductQuantity(DecrementArguments)
+                    removeProduct(product.code);
                   }}
                 >
-                  <AiOutlineMinusCircle size={24}/>
-                </button>
-                <p>{product.quantity}</p>
-                <button
-                  className="incrementButton"
-                  onClick={() => {
-                    const IncrementArguments = {
-                      productCode: product.code,
-                      newQuantity: product.quantity + 1,
-                    };
-                    updateProductQuantity(IncrementArguments)
-                  }}
-                >
-                  <AiOutlinePlusCircle size={24}/>
+                  <AiFillCloseCircle size={24}/>
                 </button>
               </div>
-              <p className="value">{product.subTotal}</p>
-              <button
-                className="trashButton"
-                type="button"
-                onClick={() => {
-                  removeProduct(product.code);
-                }}
-              >
-                <AiFillCloseCircle size={24}/>
-              </button>
-            </Content>
+            </div>
           );
         })}
         <div className="sendDiv">

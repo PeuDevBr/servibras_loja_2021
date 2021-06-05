@@ -21,45 +21,51 @@ export function CardModal({isCardModalOpen, cardModal, handleCloseCardModal, set
           <img src={`/images/parts/${cardModal.code}.png`} />
         </div>
         <div>
-          <DescriptionContainer>
-            <h1>{cardModal.name}</h1>
+          <div className="descriptionContainer">
             <h3>{cardModal.brand}</h3>
-            <h2>Código: {cardModal.code}</h2>
+            <h1 className="name">
+              {cardModal.name}
+            </h1>            
+            <h2 className="code">
+              Código: {cardModal.code}
+            </h2>
             <h3>{cardModal.version}</h3>
-            <h2>{formatPrice(cardModal.amount)}</h2>
-          <ButtonsContainer>
-            <ModalAcceptButton
-              onClick={() =>{
+            <h2 className="value">
+              R$ {cardModal.amount}
+            </h2>
+            <div className="buttonsContainer">
+              <div className="modalAcceptButton"
+                onClick={() =>{
 
-                const productAlreadyInCart = cart.find(product => product.code === cardModal.code)
+                  const productAlreadyInCart = cart.find(product => product.code === cardModal.code)
 
-                if(!productAlreadyInCart) {
-                  setCart([...cart, {...cardModal, quantity: 1}])
-                  Message("Peça adicionada ao Carrinho", "success")
-                }
+                  if(!productAlreadyInCart) {
+                    setCart([...cart, {...cardModal, quantity: 1}])
+                    Message("Peça adicionada ao Carrinho", "success")
+                  }
 
-                if(productAlreadyInCart) {
+                  if(productAlreadyInCart) {
 
-                  const updateCart = cart.map(cartItem => cartItem.code === cardModal.code ? {
-                    ...cartItem,
-                    quantity: Number(cartItem.quantity) +1
-                  } : cartItem)
+                    const updateCart = cart.map(cartItem => cartItem.code === cardModal.code ? {
+                      ...cartItem,
+                      quantity: Number(cartItem.quantity) +1
+                    } : cartItem)
 
-                  setCart(updateCart)
-                  Message("Quantidade alterada no Carrinho", "info")
-                }
+                    setCart(updateCart)
+                    Message("Quantidade alterada no Carrinho", "info")
+                  }
 
-                handleCloseCardModal()
-              }}
-            >
-              Adicionar
-              <FaCartPlus className="icon" size={28} color="#FFF" />
-            </ModalAcceptButton >
-            <ModalBackButton onClick={handleCloseCardModal}>
-              Voltar
-            </ModalBackButton>
-          </ButtonsContainer>
-          </DescriptionContainer>                     
+                  handleCloseCardModal()
+                }}
+              >
+                Adicionar
+                <FaCartPlus className="icon" size={28} color="#FFF" />
+              </div >
+              <div className="modalBackButton" onClick={handleCloseCardModal}>
+                Voltar
+              </div>
+            </div>
+          </div>                     
         </div>
       </ModalContainer>
       <ToastContainer/>
