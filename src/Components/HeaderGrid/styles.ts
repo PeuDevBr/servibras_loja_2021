@@ -136,7 +136,7 @@ export const Container = styled.div`
         min-width: 100%;
         
         input {
-          font-size: 0.8rem;
+          font-size: 1rem;
         }
       }
     }

@@ -149,27 +149,33 @@ export const ModalContainer = styled.div`
   @media all and (max-width: 555px) {
     .content{
       flex-wrap: wrap;
-      font-size: 0.8rem;
+      font-size: 1rem;
 
       .firstDiv {
-        margin-left: -0.5rem;
+        height: 5rem;
 
         img {
-          height: 2rem;
-          width: 2rem;
+          height: 3rem;
+          width: 3rem;
           margin-right: 0.5rem;
+        }
+
+        .code {
+          flex: 1;
+          margin-right: 1rem;
+        }
+
+        .description {
+          margin-left: 0.5rem;
+          max-width: 10rem;
         }
       }
 
-      .code {
-        margin-left: -0.5rem;
+      .secondDiv {
+        height: 4rem;
+        font-size: 1.2rem;
       }
-
-      .description {
-       margin-left: -1.1rem;
-       max-width: 8rem;
-      }
-      
+     
     }
 
     .sendDiv {
