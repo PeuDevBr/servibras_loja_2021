@@ -171,5 +171,14 @@ export const ModalContainer = styled.div`
       }
       
     }
+
+    .sendDiv {
+      justify-content: start;
+      margin: auto;
+
+      button {
+        margin-right: 2rem;
+      }
+    }
   }
 `;
