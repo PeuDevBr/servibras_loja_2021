@@ -159,17 +159,19 @@ export const ModalContainer = styled.div`
         img {
           height: 3rem;
           width: 3rem;
-          margin-right: 0.2rem;
+          margin-right: 0.7rem;
         }
 
         .code {
           flex: 1;
-          margin-right: 1.2rem;
+          margin-left: -1.3rem;
+          order: 1;
+          text-align: end;
           
         }
 
         .description {
-          margin-left: -0.5rem;
+          margin-left: -0rem;
           max-width: 9rem;
         }
       }

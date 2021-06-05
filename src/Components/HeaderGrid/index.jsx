@@ -34,10 +34,16 @@ export function HeaderGrid({ handleSubmit, setSearch, handleOpenCartModal, cart 
         <div className="cart">  
           <button onClick={handleOpenCartModal}>   
             <div>
-            {cartSize >= 1 
-              ? <FaShoppingCart className="icon" size={40} color="#d65d15"/> 
-              : <FaShoppingCart className="icon" size={40} />}
-            <span className="amount">{cartSize}</span>
+              {cartSize >= 1 
+                ? <>
+                    <FaShoppingCart className="icon" size={40} color="#d65d15"/> 
+                    {
+                      cartSize <= 9 
+                      ? <span className="amount">0{cartSize}</span> 
+                      : <span className="amount">{cartSize}</span>
+                    }
+                  </>
+                : <FaShoppingCart className="icon" size={40} />}
             </div>  
           </button> 
         </div>

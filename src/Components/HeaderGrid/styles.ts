@@ -75,7 +75,7 @@ export const Container = styled.div`
         color: #fff;
         font-size: 1rem;
         font-weight: 500;
-        margin-left: -1.3rem;
+        margin-left: -1.6rem;
         margin-top: -0.4rem;
       }
     }
