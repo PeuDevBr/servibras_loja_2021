@@ -5,16 +5,13 @@ export const Container = styled.div`
   height: 100px;
   display: flex;
   justify-content: center;
-
-  top: 1.25rem;
-  left: 1.25rem;
-  right: 1.25rem;
-  border: 1.25rem;
+  position:sticky;
+  top: 0;
   background: linear-gradient(45deg, #96e6a1, #ebedee);
   box-shadow: 0 0.625rem 1.25rem rgba(0,0,0,0.1); 
-  border-radius: 0.9375rem;
 
   .container {
+    position: relative;
     margin: 1rem;
     width: 100vw;
     max-width: 1440px;
@@ -77,6 +74,10 @@ export const Container = styled.div`
         font-weight: 500;
         margin-left: -1.6rem;
         margin-top: -0.4rem;
+      }
+
+      #null {
+        color: #000;
       }
     }
   }  

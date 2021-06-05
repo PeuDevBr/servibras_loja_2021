@@ -16,11 +16,6 @@ export function CartModal({
 }) {
   const cartSize = cart.length;
 
-  const message = {
-    1: "W10446925 - PLACA POTENCIA - 180,00",
-    2: "70201326 - PLACA ELETRONICA - 200,00"
-  }  
-
   const cartFormatted = cart.map((product) => ({
     ...product,
     priceFormatted: formatPrice(product.amount),
@@ -143,8 +138,14 @@ export function CartModal({
           <button 
             type="button"
             onClick={() => {
-              var texto = `
-                Olá, quero solicitar as seguintes peças:
+              let title = "Olá, quero solicitar a seguinte peça: "
+
+              if(cartSize > 1) {
+                title = "Olá, quero solicitar as seguintes peças: "
+              }
+
+              let texto = `
+                ${title}
                 ${cartFormatted.map((product) => {
                   return " \n\ " + product.code +" - " + product.name +" - " + product.priceFormatted +" - " + product.quantity + " unid." +" - " + product.subTotal + " \n\ "
             })} 

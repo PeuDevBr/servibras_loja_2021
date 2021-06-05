@@ -20,7 +20,7 @@ export function HeaderGrid({ handleSubmit, setSearch, handleOpenCartModal, cart 
         </div>
 
         <div className="search" >
-          <form onSubmit={handleSubmit}>
+          <form onSubmit={handleSubmit} autoComplete="off">
             <input
               placeholder=" Pesquise por nome, marca, produto..."
               name="search"
@@ -36,14 +36,18 @@ export function HeaderGrid({ handleSubmit, setSearch, handleOpenCartModal, cart 
             <div>
               {cartSize >= 1 
                 ? <>
-                    <FaShoppingCart className="icon" size={40} color="#d65d15"/> 
+                    <FaShoppingCart className="icon" size={40}/> 
                     {
                       cartSize <= 9 
                       ? <span className="amount">0{cartSize}</span> 
                       : <span className="amount">{cartSize}</span>
                     }
                   </>
-                : <FaShoppingCart className="icon" size={40} />}
+                : <>
+                    <FaShoppingCart className="icon" size={40}/>
+                    <span className="amount" id="null">0{cartSize}</span>
+                  </>
+              }
             </div>  
           </button> 
         </div>
