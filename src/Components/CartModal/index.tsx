@@ -4,6 +4,7 @@ import { RiWhatsappFill } from 'react-icons/ri';
 import { AiOutlineMinusCircle, AiOutlinePlusCircle, AiFillCloseCircle } from 'react-icons/ai';
 import { formatPrice } from "../../util/format";
 import { ModalContainer } from "./styles";
+import { Message } from "../Message";
 
 Modal.setAppElement("body");
 
@@ -108,7 +109,7 @@ export function CartModal({
                       updateProductQuantity(DecrementArguments)
                     }}
                   >
-                    <AiOutlineMinusCircle size={24}/>
+                    <AiOutlineMinusCircle size={34}/>
                   </button>
                   <p className="amount">{product.quantity}</p>
                   <button
@@ -121,7 +122,7 @@ export function CartModal({
                       updateProductQuantity(IncrementArguments)
                     }}
                   >
-                    <AiOutlinePlusCircle size={24}/>
+                    <AiOutlinePlusCircle size={34}/>
                   </button>
                 </div>
                 <p className="value">{product.subTotal}</p>
@@ -132,7 +133,7 @@ export function CartModal({
                     removeProduct(product.code);
                   }}
                 >
-                  <AiFillCloseCircle size={24}/>
+                  <AiFillCloseCircle size={30}/>
                 </button>
               </div>
             </div>
@@ -151,6 +152,8 @@ export function CartModal({
               if(cartSize > 0) {
                 texto = window.encodeURIComponent(texto);
                 window.open("https://api.whatsapp.com/send?phone=" + "558299802-2266" + "&text=" + texto, "_blank");
+              } else {
+                Message("Carrinho vazio.", "warn")
               }
             }}
           >

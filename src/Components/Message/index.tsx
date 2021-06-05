@@ -4,23 +4,23 @@ import 'react-toastify/dist/ReactToastify.css';
 export function Message(message, type) {
   switch (type) {
     case 'info':
-      toast.info(message, {autoClose: 3000, position: "top-left"});
+      toast.info(message, {autoClose: 2000, position: "bottom-left"});
       break;
     
     case 'success':
-      toast.success(message, {autoClose: 3000 , position: "top-left"});
+      toast.success(message, {autoClose: 2000 , position: "bottom-left"});
       break;
 
     case 'error':
-      toast.error(message, {autoClose: 3000 , position: "top-left"});
+      toast.error(message, {autoClose: 2000 , position: "bottom-left"});
       break;
 
     case 'warn':
-      toast.warn(message, {autoClose: 3000 , position: "top-left"});
+      toast.warn(message, {autoClose: 2000 , position: "bottom-left"});
       break;
   
     default:
-      toast.dark(message, {autoClose: 3000 , position: "top-left"});
+      toast.dark(message, {autoClose: 2000 , position: "bottom-left"});
       break;
   }
 }

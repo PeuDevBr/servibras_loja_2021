@@ -59,7 +59,7 @@ export function CardModal({isCardModalOpen, cardModal, handleCloseCardModal, set
                 }}
               >
                 Adicionar
-                <FaCartPlus className="icon" size={28} color="#FFF" />
+                {/*<FaCartPlus className="icon" size={28} color="#FFF" />*/}
               </div >
               <div className="modalBackButton" onClick={handleCloseCardModal}>
                 Voltar

@@ -41,7 +41,7 @@ export const ModalContainer = styled.div`
     padding: 12px 20px;
     background: #e5383b;
     font-size: 1.5rem;
-    border-radius: 5px;
+    border-radius: 1rem;
     color: #ffffff;
     font-weight: 700;
     margin-bottom: 0.3rem;
@@ -63,7 +63,7 @@ export const ModalContainer = styled.div`
     padding: 8px 16px;
     background: #52b788;
     font-size: 1.5rem;
-    border-radius: 5px;
+    border-radius: 1rem;
     color: #ffffff;
     font-weight: 700;
     margin-bottom: 0.3rem;

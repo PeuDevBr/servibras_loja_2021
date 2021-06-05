@@ -51,11 +51,12 @@ export const ModalContainer = styled.div`
       
       .amount {
         margin: 0.5rem;
+        font-size: 1.25rem;
       }
 
       button {
         font-size: 1.25rem;
-        width: 1.5rem;
+        width: 3rem;
       }
 
     }
@@ -95,6 +96,7 @@ export const ModalContainer = styled.div`
       cursor: pointer;
       display: flex;
       align-items: center;
+      margin-right: -1.0rem;
 
       &:hover {
         transform: scale(1.25);
@@ -149,7 +151,7 @@ export const ModalContainer = styled.div`
   @media all and (max-width: 555px) {
     .content{
       flex-wrap: wrap;
-      font-size: 1rem;
+      font-size: 0.9rem;
 
       .firstDiv {
         height: 5rem;
@@ -157,23 +159,24 @@ export const ModalContainer = styled.div`
         img {
           height: 3rem;
           width: 3rem;
-          margin-right: 0.5rem;
+          margin-right: 0.2rem;
         }
 
         .code {
           flex: 1;
-          margin-right: 1rem;
+          margin-right: 1.2rem;
+          
         }
 
         .description {
-          margin-left: 0.5rem;
-          max-width: 10rem;
+          margin-left: -0.5rem;
+          max-width: 9rem;
         }
       }
 
       .secondDiv {
         height: 4rem;
-        font-size: 1.2rem;
+        font-size: 1.0rem;
       }
      
     }
@@ -183,7 +186,7 @@ export const ModalContainer = styled.div`
       margin: auto;
 
       button {
-        margin-right: 2rem;
+        margin-right: 0.5rem;
       }
     }
   }

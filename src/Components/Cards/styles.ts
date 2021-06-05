@@ -63,14 +63,19 @@ export const Container = styled.div`
     .cardButton {
       font-weight: 500;
       border: none;
-      height: 2rem;
+      height: 2.5rem;
       width: 6rem;
-      background: transparent;
-      border: solid 1.2px #000;
+      background: #ffc700;
+      color: #000;
       border-radius: 1rem;
 
       & + button {
         margin-left: 0.5rem;
+      }
+
+      &:hover {
+        color: #fff;
+        background: #43cc6d;
       }
     }
   
@@ -80,7 +85,7 @@ export const Container = styled.div`
     }
     .productContainer {
       height: 280px;
-      width: 160px;
+      width: 170px;
       margin-left: auto;
       margin-right: auto;
     }
@@ -132,15 +137,21 @@ export const Container = styled.div`
       .cardButton {
         font-weight: 500;
         border: none;
-        height: 1.5rem;
-        width: 5rem;
-        background: transparent;
-        border: solid 1.2px #000;
+        height: 1.8rem;
+        width: 6rem;
+        background: #ffc700;
+        color: #000;
         border-radius: 1rem;
         font-size: 0.7rem;
+
         & + button {
           margin-left: 0;
           margin-top: 0.5rem;
+        }
+
+        &:hover {
+          color: #fff;
+          background: #43cc6d;
         }
       }
     }
