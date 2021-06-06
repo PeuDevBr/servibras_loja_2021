@@ -116,7 +116,7 @@ export const ModalContainer = styled.div`
 
     button {
       border: none;
-      background: #52b788;
+      background: #43cc6d;
       color: #FFF;
       height: 40px;
       width: 200px;

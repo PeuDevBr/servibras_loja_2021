@@ -39,7 +39,7 @@ export const ModalContainer = styled.div`
   .modalBackButton{
     margin-left: 20px;
     padding: 12px 20px;
-    background: #e5383b;
+    background: #e01e37;
     font-size: 1.5rem;
     border-radius: 1rem;
     color: #ffffff;
@@ -61,7 +61,7 @@ export const ModalContainer = styled.div`
 
   .modalAcceptButton {
     padding: 8px 16px;
-    background: #52b788;
+    background: #43cc6d;
     font-size: 1.5rem;
     border-radius: 1rem;
     color: #ffffff;

@@ -80,5 +80,27 @@
     "amount": "450",
     "quantity": 0,
     "title": "mecanismo, mecanica, transmissao, mecânica"
+  },
+  {
+      "name": "Chave phillips 3/16 x 6\"",
+      "code": "3072236600",
+      "brand": "Vonder",
+      "subject": "multimarcas, ferramentas",
+      "model": "",
+      "version": "",
+      "amount": "8",
+      "quantaty": 0,
+      "title": "chave filipes, chave philipes, chave estrela"
+  },
+  {
+      "name": "Chave Biela 13mm",
+      "code": "3092301513",
+      "brand": "Gedore",
+      "subject": "multimarcas, ferramentas",
+      "model": "",
+      "version": "",
+      "amount": "30",
+      "quantaty": 0,
+      "title": ""
   }
 ]

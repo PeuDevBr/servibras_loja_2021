@@ -1,13 +1,10 @@
 import { useState } from "react";
-import { FaCartPlus } from 'react-icons/fa';
 import initialProducts from "../../../initialProducts.json";
 import { useProducts } from "../../hooks/ProductsContext";
-import { formatPrice } from "../../util/format";
 import { CardModal } from "../CardModal"
 import { Message } from "../Message";
 import { ToastContainer } from 'react-toastify';
-import {A, P, Container, Card, Box, Content, H3, Image } from "./styles";
-
+import { Container } from "./styles";
 
 export default function Cards({ search , setCart, cart}) {
   const [isCardModalOpen, setIsCardModalOpen] = useState(false);
@@ -82,7 +79,8 @@ export default function Cards({ search , setCart, cart}) {
                         setCart(updateCart)
                         Message("Quantidade alterada no Carrinho", "info")
                       }
-                    }}
+                    }
+                  }
                   >
                     ADICIONAR
                   </button>
