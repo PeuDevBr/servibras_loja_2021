@@ -51,7 +51,7 @@ export const ModalContainer = styled.div`
     cursor: pointer;
 
     &:hover {
-      transform: scale(1.1);
+      background: #99001c;
     }
   }
 
@@ -61,10 +61,10 @@ export const ModalContainer = styled.div`
 
   .modalAcceptButton {
     padding: 8px 16px;
-    background: #43cc6d;
+    background: #00b945;
     font-size: 1.5rem;
     border-radius: 1rem;
-    color: #ffffff;
+    color: #fff;
     font-weight: 700;
     margin-bottom: 0.3rem;
     margin-top: 0.8rem;
@@ -75,12 +75,8 @@ export const ModalContainer = styled.div`
     display: flex;
     align-items: center;
 
-    .icon {
-      margin-left: 0.5rem;
-    }
-
     &:hover {
-      transform: scale(1.1);
+      background: #00792d;
     }
   }
 

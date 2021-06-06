@@ -1,7 +1,7 @@
 import Cards from "../Components/Cards";
 import { HeaderGrid } from "../Components/HeaderGrid";
 import products from "../../products.json";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { scrollToTop } from "../util/scrollToTop";
 import { createServer, Model } from "miragejs";
 import { CartModal } from "../Components/CartModal";
@@ -34,9 +34,10 @@ createServer({
 });
 
 export default function Home() {
+  
+  
   const [search, setSearch] = useState("");
   const [cart, setCart] = useState([]);
-
   const [isCartModalOpen, setIsCartModalOpen] = useState(false);
 
   function handleOpenCartModal() {

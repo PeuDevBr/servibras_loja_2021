@@ -1,12 +1,16 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import initialProducts from "../../../initialProducts.json";
 import { useProducts } from "../../hooks/ProductsContext";
 import { CardModal } from "../CardModal"
 import { Message } from "../Message";
 import { ToastContainer } from 'react-toastify';
 import { Container } from "./styles";
+import {setCookie, parseCookies} from "nookies";
 
 export default function Cards({ search , setCart, cart}) {
+  
+
+
   const [isCardModalOpen, setIsCardModalOpen] = useState(false);
   const [cardModal, setCardModal] = useState({});
 
@@ -38,7 +42,7 @@ export default function Cards({ search , setCart, cart}) {
       }
     }
   }
-
+  
   return (
     <Container>
       <div className="gridContainer">
@@ -60,13 +64,14 @@ export default function Cards({ search , setCart, cart}) {
                 <section>
                   <button 
                     className="cardButton"
+                    id="add"
                     onClick={() =>{
 
                       const productAlreadyInCart = cart.find(product => product.code === card.code)
       
                       if(!productAlreadyInCart) {
                         setCart([...cart, {...card, quantity: 1}])
-                        Message("Peça adicionada ao Carrinho", "success")
+                        Message("Peça adicionada ao Carrinho", "success")                       
                       }
       
                       if(productAlreadyInCart) {
@@ -79,6 +84,12 @@ export default function Cards({ search , setCart, cart}) {
                         setCart(updateCart)
                         Message("Quantidade alterada no Carrinho", "info")
                       }
+
+                      setCookie(undefined, "loja_user_cart", JSON.stringify(cart), {
+                        maxAge: 60 * 60 * 24, // 24 horas
+                      })
+                    
+                      console.log(parseCookies())
                     }
                   }
                   >
@@ -86,6 +97,7 @@ export default function Cards({ search , setCart, cart}) {
                   </button>
                   <button 
                     className="cardButton"
+                    id="verify"
                     onClick={() => {
                       setCardModal(card);
                       handleOpenCardModal();

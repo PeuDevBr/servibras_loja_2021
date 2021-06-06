@@ -2,10 +2,10 @@ import styled from "styled-components";
 
 export const ModalContainer = styled.div`
   max-height: 450px;
-  overflow-y: auto; 
+  overflow-y: scroll; 
+  overflow-x: hidden;
 
   .content {
-
     display: flex;
     align-items: center;
     border: 1px solid gray;
@@ -149,6 +149,7 @@ export const ModalContainer = styled.div`
   }
 
   @media all and (max-width: 555px) {
+  
     .content{
       flex-wrap: wrap;
       font-size: 0.9rem;
@@ -163,7 +164,6 @@ export const ModalContainer = styled.div`
         }
 
         .code {
-          flex: 1;
           margin-left: -1.3rem;
           order: 1;
           text-align: end;
@@ -171,13 +171,14 @@ export const ModalContainer = styled.div`
         }
 
         .description {
+          flex: 1;
           margin-left: -0rem;
-          max-width: 9rem;
+          max-width: 10rem;
         }
       }
 
       .secondDiv {
-        height: 4rem;
+        height: 2rem;
         font-size: 1.0rem;
       }
      

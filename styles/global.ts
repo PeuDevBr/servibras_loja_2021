@@ -13,7 +13,7 @@ export const GlobalStyle = createGlobalStyle`
   html {
     /* a cada 1rem será consideradi 10px */
     //font-size: 62.5%;
-    background: #dee2e6;
+    //background: #dee2e6;
   }
 
 

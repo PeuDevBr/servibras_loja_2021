@@ -22,14 +22,15 @@ export const Container = styled.div`
     }
         
     .productContent {
-       width: 240px;
+      width: 240px;
       height: 340px;
       background: #fff;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: space-between;
-      border-radius: 1.2rem;
+      border: solid 1px #e9ecef;
+      border-radius: 0.3rem;
       padding-top: 0.5rem;
       padding-bottom: 1.5rem;
     }
@@ -65,17 +66,30 @@ export const Container = styled.div`
       border: none;
       height: 2.5rem;
       width: 6rem;
-      background: #ffc700;
-      color: #000;
-      border-radius: 1rem;
+      border-radius: 0.5rem;
 
       & + button {
         margin-left: 0.5rem;
       }
+    }
+
+    #add {
+      background: #00b945;
+      color: #fff;
 
       &:hover {
         color: #fff;
-        background: #43cc6d;
+        background: #00792d;
+      }
+    }
+
+    #verify {
+      background: #00a5b9;
+      color: #fff;
+
+      &:hover {
+        color: #fff;
+        background: #006a77;
       }
     }
   
@@ -93,14 +107,6 @@ export const Container = styled.div`
     .productContent {
       width: 170px;
       height: 260px;
-      background: #fff;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: space-between;
-      border-radius: 1.2rem;
-      padding-top: 0.5rem;
-      padding-bottom: 1.5rem;
     }
 
     .name {
@@ -139,19 +145,30 @@ export const Container = styled.div`
         border: none;
         height: 1.8rem;
         width: 6rem;
-        background: #ffc700;
-        color: #000;
-        border-radius: 1rem;
+        border-radius: 0.5rem;
         font-size: 0.7rem;
 
         & + button {
           margin-left: 0;
           margin-top: 0.5rem;
         }
+      }
+
+      #add {
+        background: #00b945;
+        color: #fff;
 
         &:hover {
-          color: #fff;
-          background: #43cc6d;
+          background: #00792d;
+        }
+      }
+
+      #verify {
+        background: #00a5b9;
+        color: #fff;
+
+        &:hover {
+          background: #006a77;
         }
       }
     }
