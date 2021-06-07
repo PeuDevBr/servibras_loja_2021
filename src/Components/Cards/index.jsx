@@ -8,28 +8,6 @@ import { Container } from "./styles";
 import {setCookie, parseCookies} from "nookies";
 
 export default function Cards({ search , setCart, cart}) {
-
-  const data = {name : "Peu"}
-
-  setCookie(undefined, "cart_code", JSON.stringify(data), {
-    maxAge: 60 * 60 * 24, // 24 horas
-  })
-
-  const dataString = (parseCookies().cart_code)
-
-  console.log(typeof(dataString))
-  console.log(dataString)
-
-  //const newData = JSON.parse(newData)
-
-  
-
-
-
-  
-  //setCookie(undefined, "cart_code", JSON.stringify({nome : "Flávio"}), {
-    //maxAge: 60 * 60 * 24, // 24 horas
-  //})
   
   const [isCardModalOpen, setIsCardModalOpen] = useState(false);
   const [cardModal, setCardModal] = useState({});
@@ -104,19 +82,7 @@ export default function Cards({ search , setCart, cart}) {
       
                         setCart(updateCart)
                         Message("Quantidade alterada no carrinho!", "info")
-
-                        //setCookie(undefined, "cart_code", JSON.stringify({
-                          //code: card.code,
-                          //quantaty: JSON.parse(parseCookies().cart_code).quantaty + 1
-                        //}), {
-                          //maxAge: 60 * 60 * 24, // 24 horas
-                        //})  
-
-                      }         
-
-                      //console.log(JSON.parse(parseCookies().cart_code))
-                      //console.log(JSON.parse(parseCookies().cart_code).quantaty)
-                      console.log(compras)
+                      }        
                     }
                   }
                   >
