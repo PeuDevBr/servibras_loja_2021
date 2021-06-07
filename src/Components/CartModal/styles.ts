@@ -116,7 +116,7 @@ export const ModalContainer = styled.div`
 
     button {
       border: none;
-      background: #43cc6d;
+      background: #00b945;
       color: #FFF;
       height: 40px;
       width: 200px;
@@ -134,7 +134,7 @@ export const ModalContainer = styled.div`
       }
 
       &:hover {
-        background: #36815e;
+        background: #00792d;
       }
     }
 

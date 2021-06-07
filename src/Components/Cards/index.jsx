@@ -8,9 +8,29 @@ import { Container } from "./styles";
 import {setCookie, parseCookies} from "nookies";
 
 export default function Cards({ search , setCart, cart}) {
+
+  const data = {name : "Peu"}
+
+  setCookie(undefined, "cart_code", JSON.stringify(data), {
+    maxAge: 60 * 60 * 24, // 24 horas
+  })
+
+  const dataString = (parseCookies().cart_code)
+
+  console.log(typeof(dataString))
+  console.log(dataString)
+
+  //const newData = JSON.parse(newData)
+
   
 
 
+
+  
+  //setCookie(undefined, "cart_code", JSON.stringify({nome : "Flávio"}), {
+    //maxAge: 60 * 60 * 24, // 24 horas
+  //})
+  
   const [isCardModalOpen, setIsCardModalOpen] = useState(false);
   const [cardModal, setCardModal] = useState({});
 
@@ -42,7 +62,8 @@ export default function Cards({ search , setCart, cart}) {
       }
     }
   }
-  
+
+      
   return (
     <Container>
       <div className="gridContainer">
@@ -71,25 +92,31 @@ export default function Cards({ search , setCart, cart}) {
       
                       if(!productAlreadyInCart) {
                         setCart([...cart, {...card, quantity: 1}])
-                        Message("Peça adicionada ao Carrinho", "success")                       
+                        Message("Peça adicionada ao Carrinho", "success") 
                       }
       
                       if(productAlreadyInCart) {
-      
+                        
                         const updateCart = cart.map(cartItem => cartItem.code === card.code ? {
                           ...cartItem,
                           quantity: Number(cartItem.quantity) +1
                         } : cartItem)
       
                         setCart(updateCart)
-                        Message("Quantidade alterada no Carrinho", "info")
-                      }
+                        Message("Quantidade alterada no carrinho!", "info")
 
-                      setCookie(undefined, "loja_user_cart", JSON.stringify(cart), {
-                        maxAge: 60 * 60 * 24, // 24 horas
-                      })
-                    
-                      console.log(parseCookies())
+                        //setCookie(undefined, "cart_code", JSON.stringify({
+                          //code: card.code,
+                          //quantaty: JSON.parse(parseCookies().cart_code).quantaty + 1
+                        //}), {
+                          //maxAge: 60 * 60 * 24, // 24 horas
+                        //})  
+
+                      }         
+
+                      //console.log(JSON.parse(parseCookies().cart_code))
+                      //console.log(JSON.parse(parseCookies().cart_code).quantaty)
+                      console.log(compras)
                     }
                   }
                   >

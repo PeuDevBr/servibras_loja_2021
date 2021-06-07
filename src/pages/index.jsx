@@ -40,6 +40,41 @@ export default function Home() {
   const [cart, setCart] = useState([]);
   const [isCartModalOpen, setIsCartModalOpen] = useState(false);
 
+
+  /* ----------------------------------------- */
+
+  function Storage(){
+
+    const productAlreadyInCart = cart.find(product => product.code === card.code)
+
+    if(!productAlreadyInCart) {
+      setCart([...cart, {...card, quantity: 1}])
+      Message("Peça adicionada ao Carrinho", "success")  
+      setCookie(undefined, "loja_user_cart_code", card.code, {
+        maxAge: 60 * 60 * 24, // 24 horas
+      }) 
+      setCookie(undefined, "loja_user_cart_amount", 1, {
+        maxAge: 60 * 60 * 24, // 24 horas
+      })                      
+    }
+
+    if(productAlreadyInCart) {
+
+      const updateCart = cart.map(cartItem => cartItem.code === card.code ? {
+        ...cartItem,
+        quantity: Number(cartItem.quantity) +1
+      } : cartItem)
+
+      setCart(updateCart)
+      Message("Quantidade alterada no Carrinho", "info")
+    }                     
+  
+    console.log(parseCookies())
+  }
+
+
+  /* ----------------------------------------- */
+
   function handleOpenCartModal() {
     setIsCartModalOpen(true);
   }

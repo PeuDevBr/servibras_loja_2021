@@ -29,7 +29,7 @@ export const Container = styled.div`
       flex-direction: column;
       align-items: center;
       justify-content: space-between;
-      border: solid 1px #e9ecef;
+      border: solid 1px #adb5bd;
       border-radius: 0.3rem;
       padding-top: 0.5rem;
       padding-bottom: 1.5rem;
