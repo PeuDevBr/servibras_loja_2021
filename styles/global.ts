@@ -27,7 +27,7 @@ export const GlobalStyle = createGlobalStyle`
       padding: 0.5rem;
       font-size: 1.5rem;
       border: 1px solid;
-      border-radius: 0.5rem;
+      border-radius: 0.3rem;
     }
 
     button {

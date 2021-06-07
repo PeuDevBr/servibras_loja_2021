@@ -147,7 +147,7 @@ export const Container = styled.div`
         border: none;
         height: 1.8rem;
         width: 6rem;
-        border-radius: 0.5rem;
+        border-radius: 0.3rem;
         font-size: 0.7rem;
 
         & + button {
