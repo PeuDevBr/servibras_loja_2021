@@ -180,7 +180,23 @@ export const ModalContainer = styled.div`
 
       .secondDiv {
         height: 2rem;
-        font-size: 1.0rem;
+        font-size: 0.9rem;
+
+        .changeAmountButtons {
+          margin-left: -0.6rem;
+
+          .amount {
+            font-size: 1.2rem;
+          }
+        }
+
+        .value {
+          margin-left: -0.3rem;
+        }
+
+        .trashButton {
+          margin-right: -0.4rem;
+        }
       }
      
     }
@@ -191,6 +207,71 @@ export const ModalContainer = styled.div`
 
       button {
         margin-right: 0.5rem;
+        font-size: 1rem;
+      }
+
+      h4 {
+        font-size: 1.15rem;
+      }
+    }
+  }
+
+  @media all and (max-width: 365px) {
+    .content{
+      flex-wrap: wrap;
+      font-size: 0.9rem;
+
+      .firstDiv {
+
+        img {
+          margin-right: 0.5rem;
+        }
+
+        .code {
+          margin-left: -2.5rem;
+          
+        }
+
+        .description {
+          margin-left: -0.5rem;
+          max-width: 9rem;
+        }
+      }
+
+      .secondDiv {
+        height: 2rem;
+        font-size: 0.9rem;
+
+        .changeAmountButtons {
+          margin-left: -0.6rem;
+
+          .amount {
+            font-size: 1.2rem;
+          }
+        }
+
+        .value {
+          margin-left: -0.3rem;
+        }
+
+        .trashButton {
+          margin-right: -0.4rem;
+        }
+      }
+     
+    }
+
+    .sendDiv {
+      justify-content: start;
+      margin: auto;
+
+      button {
+        margin-right: 0.5rem;
+        font-size: 1rem;
+      }
+
+      h4 {
+        font-size: 1.15rem;
       }
     }
   }
