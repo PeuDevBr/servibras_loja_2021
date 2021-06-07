@@ -31,7 +31,7 @@ export const Container = styled.div`
       color: #fff;
       font-size: 2rem;
       border: 2px solid #fff;
-      border-radius: 1rem;
+      border-radius: 0.3rem;
       padding: 0.3rem 1rem;
     }
 
@@ -44,7 +44,8 @@ export const Container = styled.div`
         justify-content: center;
         align-items: center;
         background: #fff;
-        border-radius: 1rem;
+        border: solid 1px #adb5bd;
+        border-radius: 0.3rem;
 
         input {
           width: 80%;
@@ -57,6 +58,11 @@ export const Container = styled.div`
           width: 15%;
           border: none;
           background: transparent;
+          margin-top: 0.2rem;
+          &:hover {
+            color: red;
+            cursor: pointer;
+          }
         }
       }
     }

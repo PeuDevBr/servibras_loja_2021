@@ -66,7 +66,7 @@ export const Container = styled.div`
       border: none;
       height: 2.5rem;
       width: 6rem;
-      border-radius: 0.5rem;
+      border-radius: 0.3rem;
 
       & + button {
         margin-left: 0.5rem;
@@ -80,6 +80,7 @@ export const Container = styled.div`
       &:hover {
         color: #fff;
         background: #00792d;
+        cursor: pointer;
       }
     }
 
@@ -90,6 +91,7 @@ export const Container = styled.div`
       &:hover {
         color: #fff;
         background: #006a77;
+        cursor: pointer;
       }
     }
   

@@ -8,7 +8,8 @@ export const ModalContainer = styled.div`
   .content {
     display: flex;
     align-items: center;
-    border: 1px solid gray;
+    border: solid 1px #adb5bd;
+    border-radius: 0.3rem;
     margin: 0.5rem;
     padding: 0.25rem;
 
@@ -120,7 +121,7 @@ export const ModalContainer = styled.div`
       color: #FFF;
       height: 40px;
       width: 200px;
-      border-radius: 0%.5rem;
+      border-radius: 0.3rem;
       display: flex;
       justify-content: center;
       align-items: center;
