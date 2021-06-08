@@ -1,11 +1,12 @@
 import Cards from "../Components/Cards";
 import { HeaderGrid } from "../Components/HeaderGrid";
 import products from "../../products.json";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { scrollToTop } from "../util/scrollToTop";
 import { createServer, Model } from "miragejs";
 import { CartModal } from "../Components/CartModal";
 import { ProductsProvider } from "../hooks/ProductsContext";
+import Head from 'next/head'
 
 createServer({
   models: {
@@ -92,19 +93,22 @@ export default function Home() {
   }
   return (
     <ProductsProvider>
-        <HeaderGrid
-           setSearch={setSearch}
-           handleSubmit={(event) => handleSubmit(event)}
-           handleOpenCartModal={handleOpenCartModal}
-           cart={cart}
-        />
-        <Cards search={search} setCart={setCart} cart={cart} />
-        <CartModal
-          isCardModalOpen={isCartModalOpen}
-          cart={cart}
-          setCart={setCart}
-          handleCloseCardModal={handleCloseCartModal}
-        />
+      <Head>
+        <title>Início | Loja Servibras</title>
+      </Head>
+      <HeaderGrid
+        setSearch={setSearch}
+        handleSubmit={(event) => handleSubmit(event)}
+        handleOpenCartModal={handleOpenCartModal}
+        cart={cart}
+      />
+      <Cards search={search} setCart={setCart} cart={cart} />
+      <CartModal
+        isCardModalOpen={isCartModalOpen}
+        cart={cart}
+        setCart={setCart}
+        handleCloseCardModal={handleCloseCartModal}
+      />
     </ProductsProvider>
   );
 }
