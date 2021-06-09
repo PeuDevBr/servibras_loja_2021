@@ -649,6 +649,17 @@
       "title": "controle eletronico, controle eletrônico"
   },
   {
+      "name": "Placa Controle ATHENA - TARANTINO",
+      "code": "W11123830",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRE57ABANA, BRE57AKANA, BRE57ABBNA, BRE57AKBNA",
+      "version": "",
+      "amount": "230",
+      "quantaty": 0,
+      "title": "controle eletronico, controle eletrônico"
+  },
+  {
       "name": "Placa Controle Athena Bivolt",
       "code": "W10678922",
       "brand": "Brastemp/Consul",
@@ -3273,7 +3284,7 @@
       "subject": "Split",
       "model": "Tubo flexível",
       "version": "",
-      "amount": "100",
+      "amount": "115",
       "quantaty": 0,
       "title": "Cano 3/16, Cano de Cobre, Cano de Cobre 3/16, Tubo 3/16, Instalação, Instalaçao, Instalacao"
   },
@@ -3284,7 +3295,7 @@
       "subject": "Split",
       "model": "Tubo flexível",
       "version": "",
-      "amount": "100",
+      "amount": "115",
       "quantaty": 0,
       "title": "Cano 1/4, Cano de Cobre, Cano de Cobre 1/4, Tubo 1/4, Instalação, Instalaçao, Instalacao"
   },
@@ -3295,7 +3306,7 @@
       "subject": "Split",
       "model": "Tubo flexível",
       "version": "",
-      "amount": "100",
+      "amount": "115",
       "quantaty": 0,
       "title": "Cano 5/16, Cano de Cobre, Cano de Cobre 5/16, Tubo 5/16, Instalação, Instalaçao, Instalacao"
   },
@@ -3306,7 +3317,7 @@
       "subject": "Split",
       "model": "Tubo flexível",
       "version": "",
-      "amount": "100",
+      "amount": "115",
       "quantaty": 0,
       "title": "Cano 3/8, Cano de Cobre, Cano de Cobre 3/8, Tubo 3/8, Instalação, Instalaçao, Instalacao"
   },
@@ -3317,7 +3328,7 @@
       "subject": "Split",
       "model": "Tubo flexível",
       "version": "",
-      "amount": "100",
+      "amount": "115",
       "quantaty": 0,
       "title": "Cano 1/2, Cano de Cobre, Cano de Cobre 1/2, Tubo 1/2, Instalação, Instalaçao, Instalacao"
   },
@@ -3328,7 +3339,7 @@
       "subject": "Split",
       "model": "Tubo flexível",
       "version": "",
-      "amount": "100",
+      "amount": "115",
       "quantaty": 0,
       "title": "Cano 5/8, Cano de Cobre, Cano de Cobre 5/8, Tubo 5/8, Instalação, Instalaçao, Instalacao"
   },
@@ -3339,7 +3350,7 @@
       "subject": "Split",
       "model": "Tubo flexível",
       "version": "",
-      "amount": "100",
+      "amount": "115",
       "quantaty": 0,
       "title": "Cano 3/4, Cano de Cobre, Cano de Cobre 3/4, Tubo 3/4, Instalação, Instalaçao, Instalacao"
   },
@@ -4516,7 +4527,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LAC11",
       "version": "",
-      "amount": "180",
+      "amount": "200",
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
   },
@@ -4868,7 +4879,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LB12Q/LBT12/LS12Q/LS14A/LSW12/LSW15/LT10B/LT11F/LT12B/LT12F/LT12Q/LT13B/LTC10/LTC12/LTR10/LTR12/LTS12/",
       "version": "",
-      "amount": "55",
+      "amount": "80",
       "quantaty": 0,
       "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
   },
@@ -4983,6 +4994,17 @@
       "title": "borracha da geladeira"
   },
   {
+      "name": "TAMPA EVAPORADOR EPS",
+      "code": "67401412",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "version": "",
+      "amount": "40",
+      "quantaty": 0,
+      "title": "isopor, capa traseira, isolação, isolação"
+  },
+  {
       "name": "Chave Seletora",
       "code": "256039000042",
       "brand": "Electrolux",
@@ -5033,7 +5055,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LAC09/LB12Q/LBT12/LES11/LF80/LS12Q/LT08E/LT09B/LT09E",
       "version": "",
-      "amount": "70",
+      "amount": "80",
       "quantaty": 0,
       "title": "atuador freio"
   },
@@ -5077,7 +5099,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LT09B/LT10B/LTD09/LTD11/LTP10/",
       "version": "",
-      "amount": "22",
+      "amount": "75",
       "quantaty": 0,
       "title": "pressostato 4 niveis"
   },
@@ -5154,7 +5176,7 @@
       "subject": "geladeira, refrigerador",
       "model": "DF46/DF49/",
       "version": "",
-      "amount": "250",
+      "amount": "280",
       "quantaty": 0,
       "title": "kit df49, kit placa df49, kit placa ventilador"
   },
@@ -5253,7 +5275,7 @@
       "subject": "geladeira, refrigerador",
       "model": "DF80/DF80X/DFW51/DW51X/DWN51/DWX51/",
       "version": "",
-      "amount": "200",
+      "amount": "230",
       "quantaty": 0,
       "title": "placa potencia, controle eletrônico, controle eletronico"
   } ,
@@ -5410,7 +5432,18 @@
       "amount": "150",
       "quantaty": 0,
       "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
-  } ,
+  },
+  {
+      "name": "Resistência Evaporador 220V",
+      "code": "64502676",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "version": "",
+      "amount": "120",
+      "quantaty": 0,
+      "title": "resistência degelo, resistencia degelo, resistencia congelador, resistencia freezer, resistência congelador, resistência freezer, resistencia evaporador"
+  },
   {
       "name": "Resistência Evaporador 220V",
       "code": "64502746",
@@ -5781,7 +5814,7 @@
       "subject": "coifa, depurador, sugar",
       "model": "",
       "version": "",
-      "amount": "200",
+      "amount": "230",
       "quantaty": 0,
       "title": "kt coifa, kit duparador, kit sugar, instalação coifa, instalação depurador"
   },
