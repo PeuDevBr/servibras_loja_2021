@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 
-const InstallPWA = () => {
+const Install = () => {
   const [supportsPWA, setSupportsPWA] = useState(false);
   const [promptInstall, setPromptInstall] = useState(null);
 
@@ -40,4 +40,4 @@ const InstallPWA = () => {
   );
 };
 
-export default InstallPWA;
+export default Install;
