@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
+export default function install() {
 
-const Install = () => {
   const [supportsPWA, setSupportsPWA] = useState(false);
   const [promptInstall, setPromptInstall] = useState(null);
 
@@ -27,7 +27,9 @@ const Install = () => {
   if (!supportsPWA) {
     return null;
   }
+ 
   return (
+
     <button
       className="link-button"
       id="setup_button"
@@ -37,7 +39,6 @@ const Install = () => {
     >
       Install
     </button>
+    
   );
-};
-
-export default Install;
+}
