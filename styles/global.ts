@@ -72,4 +72,10 @@ export const GlobalStyle = createGlobalStyle`
     border-radius: 10px;
 
   }
+
+  .add-button-install{
+    position: absolute;
+    top: 1px;
+    left: 1px;
+  }
 `;
