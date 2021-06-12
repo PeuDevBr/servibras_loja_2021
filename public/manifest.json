@@ -1,10 +1,10 @@
 {
-  "name": "Loja Servibras \n by Flávio Renato ",
+  "name": "Loja Servibras \nby Aramaker",
   "short_name": "Servibras",
   "icons": [
     {
-      "src": "/service.png",
-      "sizes": "175x175",
+      "src": "/icon.png",
+      "sizes": "561x562",
       "type": "image/png"
     },
 

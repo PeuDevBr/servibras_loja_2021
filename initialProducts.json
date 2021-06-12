@@ -102,5 +102,27 @@
       "amount": "30",
       "quantaty": 0,
       "title": ""
+  },
+  {
+      "name": "Filtro Carvão Ativado",
+      "code": "5490000558",
+      "brand": "Esmaltec",
+      "subject": "bebedouro, gelagua, PURIFICADOR",
+      "model": "ACQUA7",
+      "version": "",
+      "amount": "100",
+      "quantaty": 0,
+      "title": "FILTRO PURIFICADOR, FILTRO CARVAO, FILTRO DO PURIFICADOR, FILTRO ACQUA7"
+  }, 
+  {
+      "name": "Torneira Plástica Prata",
+      "code": "7620000066",
+      "brand": "Esmaltec",
+      "subject": "bebedouro, gelagua",
+      "model": "EGC35B",
+      "version": "",
+      "amount": "15",
+      "quantaty": 0,
+      "title": "torneira bebedouro"
   }
 ]
