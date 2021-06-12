@@ -30,7 +30,7 @@ export function CartModal({
     }, 0)
   );
 
-  const removeProduct = (productCode: string) => {
+  const removeProduct = (productCode) => {
     const productExists = cart.some(
       (cartProduct) => cartProduct.code === productCode
     );
@@ -86,7 +86,7 @@ export function CartModal({
                   alt={product.name}
                 />
                 <p className="code">{product.code} </p>
-                <p className="description">{product.name} </p>
+                <p className="description">{product.name.toUpperCase()} </p>
               </div>
 
               <div className="secondDiv">

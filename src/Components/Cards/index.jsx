@@ -69,7 +69,7 @@ export default function Cards({ search , setCart, cart}) {
                       const productAlreadyInCart = cart.find(product => product.code === card.code)
       
                       if(!productAlreadyInCart) {
-                        setCart([...cart, {...card, quantity: 1}])
+                        setCart([...cart, {...card, quantity: 1, name: name.toUpperCase()}])
                         Message("Peça adicionada ao Carrinho", "success") 
                       }
       
