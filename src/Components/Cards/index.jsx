@@ -57,7 +57,7 @@ export default function Cards({ search , setCart, cart}) {
                   src={`/images/parts/${card.code}.png`}
                   alt={card.name}
                 />
-                <h2 className="name">{card.name}</h2>
+                <h2 className="name">{card.name.toUpperCase()}</h2>
                 <h2 className="code">{card.code}</h2>
                 <h1 className="price">R$ {card.amount}</h1>
                 <section>

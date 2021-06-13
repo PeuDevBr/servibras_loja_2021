@@ -20,12 +20,12 @@ export default function install() {
   const onClick = evt => {
     evt.preventDefault();
     if (!promptInstall) {
-      return;
+      //return;
     }
     promptInstall.prompt();
   };
   if (!supportsPWA) {
-    return null;
+    //return null;
   }
  
   return (
