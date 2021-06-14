@@ -567,7 +567,7 @@
       "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWC10AB",
       "version": "",
-      "amount": "200",
+      "amount": "215",
       "quantaty": 0,
       "title": "placa potencia, placa potência"
   },
@@ -4851,17 +4851,6 @@
       "title": "mecanização, mecanizaçao, mecanizacao"
   },
   {
-      "name": "Botão do Termostato EGM30 EGC35",
-      "code": "9803001885",
-      "brand": "Esmaltec",
-      "subject": "bebedouro",
-      "model": "egc35, egm30",
-      "version": "",
-      "amount": "7",
-      "quantaty": 0,
-      "title": "botao termostato, botao bebedouro, botao gelagua, mecanização, mecanizacao, mecanizaçao"
-  },
-  {
       "name": "Placa Eletrônica LT12F",
       "code": "70201326",
       "brand": "Electrolux",
@@ -5319,7 +5308,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LTD11, LTD15, LTD13",
       "version": "",
-      "amount": "45",
+      "amount": "60",
       "quantaty": 0,
       "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
   },
@@ -7458,6 +7447,17 @@
       "title": "pe, pé, dobradiça da porta, dobradiça porta, dobradica porta, dobradica da porta"
   },
   {
+      "name": "Botão do Termostato EGM30 EGC35",
+      "code": "9803001885",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "egc35, egm30",
+      "version": "",
+      "amount": "7",
+      "quantaty": 0,
+      "title": "botao termostato, botao bebedouro, botao gelagua, mecanização, mecanizacao, mecanizaçao"
+  },
+  {
       "name": "Torneira Plástica Bege",
       "code": "7620000043",
       "brand": "Esmaltec",
@@ -7630,6 +7630,215 @@
       "model": "",
       "version": "",
       "amount": "22",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Junta Lokring Alumínio 5/16 x 1/4",
+      "code": "6490000008",
+      "brand": "Esmaltec",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "version": "",
+      "amount": "60",
+      "quantaty": 0,
+      "title": "uniao 5/16, união 5/16"
+  },
+  {
+      "name": "Junta Lokring Alumínio 6,35 x 7MM",
+      "code": "6490000422",
+      "brand": "Esmaltec",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "version": "",
+      "amount": "60",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Cuba Abaulada EGC35",
+      "code": "9850000637",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGC35A, EGC35B",
+      "version": "",
+      "amount": "28",
+      "quantaty": 0,
+      "title": "recipiente bebedouro, recipiente egc35"
+  },
+  {
+      "name": "Isolamento Lateral EGM30",
+      "code": "5445000488",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGM30",
+      "version": "",
+      "amount": "20",
+      "quantaty": 0,
+      "title": "isopor lateral, isopor da cuba, isolamento da cuba"
+  },
+  {
+      "name": "Isolamento Lateral EGC35",
+      "code": "5445000490",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGC35",
+      "version": "",
+      "amount": "28",
+      "quantaty": 0,
+      "title": "isopor lateral, isopor da cuba, isolamento da cuba"
+  },
+  {
+      "name": "Cuba Abaulada EGM30",
+      "code": "9850002657",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGC35A, EGM30",
+      "version": "",
+      "amount": "25",
+      "quantaty": 0,
+      "title": "recipiente bebedouro, recipiente egc35"
+  },
+  {
+      "name": "Acoplamento Eixo Oco",
+      "code": "9850000830",
+      "brand": "Esmaltec",
+      "subject": "máquina de lavar, maquina de lavar, lavadoura de roupas",
+      "model": "EW60",
+      "version": "",
+      "amount": "15",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Trava Eixo Oco",
+      "code": "9850000831",
+      "brand": "Esmaltec",
+      "subject": "máquina de lavar, maquina de lavar, lavadoura de roupas",
+      "model": "EW60",
+      "version": "",
+      "amount": "20",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Polia do Motor",
+      "code": "9850000857",
+      "brand": "Esmaltec",
+      "subject": "máquina de lavar, maquina de lavar, lavadoura de roupas",
+      "model": "EW60",
+      "version": "",
+      "amount": "20",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Mangueira de Silicone EGM30",
+      "code": "5450000084",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGM30",
+      "version": "",
+      "amount": "10",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Mangueira de Silicone EGC35",
+      "code": "5450000200",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGC35",
+      "version": "",
+      "amount": "15",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Termostato Bebedouro",
+      "code": "6220000006",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGM30, EGC35",
+      "version": "",
+      "amount": "60",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Conjunto Portinha Freezer ROCs",
+      "code": "9875010024",
+      "brand": "Esmaltec",
+      "subject": "refrigerador, geladeira",
+      "model": "",
+      "version": "",
+      "amount": "70",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Termostato Geladeira",
+      "code": "6220000337",
+      "brand": "Esmaltec",
+      "subject": "geladeira, refrigerador",
+      "model": "ROC30, ROC35",
+      "version": "",
+      "amount": "85",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Termostato Geladeira",
+      "code": "6220000338",
+      "brand": "Esmaltec",
+      "subject": "geladeira, refrigerador",
+      "model": "RCD34, RCD38",
+      "version": "",
+      "amount": "80",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Resistência Refrigerador",
+      "code": "6245000066",
+      "brand": "Esmaltec",
+      "subject": "geladeira, refrigerador",
+      "model": "",
+      "version": "",
+      "amount": "30",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Perfurador Easy Open",
+      "code": "9850002395",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGM30, EGC35",
+      "version": "",
+      "amount": "10",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Termostato Freezer EFH",
+      "code": "6220000358",
+      "brand": "Esmaltec",
+      "subject": "freezer",
+      "model": "",
+      "version": "",
+      "amount": "60",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Separador Integrado EGC35",
+      "code": "9850000498",
+      "brand": "Esmaltec",
+      "subject": "bebedouro",
+      "model": "EGC35",
+      "version": "",
+      "amount": "20",
       "quantaty": 0,
       "title": ""
   },
