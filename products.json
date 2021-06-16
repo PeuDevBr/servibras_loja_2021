@@ -1243,6 +1243,17 @@
       "title": "Valvula Dupla 220V"
   },
   {
+      "name": "Válvula 3 Vias 220V",
+      "code": "W10467328",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "BWG11ARBNA, BWG11ABBNA",
+      "version": "",
+      "amount": "100",
+      "quantaty": 0,
+      "title": "Valvula 3 vias 220V, valvula tripla"
+  },
+  {
       "name": "Válvula Simples 220V",
       "code": "326004753",
       "brand": "Brastemp/Consul",
@@ -1366,6 +1377,17 @@
   {
       "name": "Capacitor 15µF 220V",
       "code": "W10527820",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "CWH12ABBNA, CWL75A, CWC22B, BWB22B, BWB22A, BWF08A, BWH09A, BWF08B, BWF09A, BWF24A, BWH08B, BWM06A, BWQ06A, BWM08AB, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, E06A, E06B, C24A, L08A, L08B, XWH08A, C22A, BWC06A, L10A, L08C, BWL07A, BWL09A, BWC10A, BWG10A, BWC07A, BWL11AR, BWF22A, BWQ24A, BLL22EDB, BLL22MGB, BLL22MGD, BWQ22A, BWR22A, BWR22B, BWR22C, BWQ22B, BWH09BB, BWT09BB, BWX09B, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, E15ABBNA, L16ABBNA, B08ABBNA, B09ABBNA, BWH11AB, BWG11ABBNA, BWG11ARBNA, BWG12AB, BWH12ABBNA, BWQ12ABBNA, BWU11AE, C08ABBNA, BWT12ABBNA, BWU11AB, E08ABBNA, E09AB, E10ABBNA, E11ABBNA, G12ABBNA, K12ABBNA, BWJ11ABBNA, BWB08AB, BWB09AB, BWJ09ABBNA, BWS09ABBNA, BWS11ABBNA, E13ABBNA, BWD15A9BNA, BWD15ABBNA, S11ABBNA, H14ABBNA, BWK11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK14ABBNA, BWK12ABBNA, K11AB, BWC09AB, BWC11AB",
+      "version": "",
+      "amount": "18",
+      "quantaty": 0,
+      "title": ""
+  },
+  {
+      "name": "Capacitor 15µF 220V (Novo)",
+      "code": "W10819784",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "CWH12ABBNA, CWL75A, CWC22B, BWB22B, BWB22A, BWF08A, BWH09A, BWF08B, BWF09A, BWF24A, BWH08B, BWM06A, BWQ06A, BWM08AB, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, E06A, E06B, C24A, L08A, L08B, XWH08A, C22A, BWC06A, L10A, L08C, BWL07A, BWL09A, BWC10A, BWG10A, BWC07A, BWL11AR, BWF22A, BWQ24A, BLL22EDB, BLL22MGB, BLL22MGD, BWQ22A, BWR22A, BWR22B, BWR22C, BWQ22B, BWH09BB, BWT09BB, BWX09B, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, E15ABBNA, L16ABBNA, B08ABBNA, B09ABBNA, BWH11AB, BWG11ABBNA, BWG11ARBNA, BWG12AB, BWH12ABBNA, BWQ12ABBNA, BWU11AE, C08ABBNA, BWT12ABBNA, BWU11AB, E08ABBNA, E09AB, E10ABBNA, E11ABBNA, G12ABBNA, K12ABBNA, BWJ11ABBNA, BWB08AB, BWB09AB, BWJ09ABBNA, BWS09ABBNA, BWS11ABBNA, E13ABBNA, BWD15A9BNA, BWD15ABBNA, S11ABBNA, H14ABBNA, BWK11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK14ABBNA, BWK12ABBNA, K11AB, BWC09AB, BWC11AB",
@@ -1513,7 +1535,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, BWT12ABBNA, BWU11AB, BWK11ABANA, BWK11ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, CWE13ABANA, CWE13ABBNA, CWS12ABANA, CWS12ABBNA, BWD15ABANA, BWD15A9ANA, BWD15A9BNA, BWD15ABBNA, BPJ38ABBNA, BPJ38AEBNA, BPJ38ABANA, BPJ38AEANA, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, ",
       "version": "",
-      "amount": "50",
+      "amount": "60",
       "quantaty": 0,
       "title": ""
   },
@@ -1596,12 +1618,12 @@
   },
   {
       "name": "Agitador 8 Blades",
-      "code": "W10669206",
+      "code": "W10882241",
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "CWL10B, CWL75A, BWC10BB, BWC06A, CWL10A, CWL08C, BWC10A, BWG10A, BWL09ABANA, BWL07A, BWL09A, BWC07A, CWE06B, BWH08B, BWT08C, XWH08A, BWM08A, BWM08AB, BWK11ABANA, BWK11ABBNA, BWG11ABANA, BWH11AB, BWG11ABBNA, BWU11AB, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWL11ABANA, BWL11ABBNA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWK11AB, CWE10ABANA, CWE10ABBNA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC11AB, BWC09AB, CWC10AB, BWT09A, BWT09B, BWH09A, BWL09BBANA, BWL09BBBNA, BWT09BB, BWT09AB, BWX09A, ",
       "version": "",
-      "amount": "70",
+      "amount": "85",
       "quantaty": 0,
       "title": ""
   },
@@ -1634,9 +1656,20 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWH09B, BWT09B, BWH09BB, BWT09BB, BWX09B, CWC22B, BWC06A, CWL10A, CWL08C, BWF22A, BWQ24A, BWF09A, BWL09ABANA, BWL07A, BWL09A, BWQ22B, BWM08A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWL11AR, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWC10BB, CWL10B, CWL75A, BWT09A, BWH09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, BWC10A, BWG10A, BWC07A, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, BWC11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, CWC08ABBNA, BWT12ABBNA, BWU11AB, CWC08ABANA, CWE08ABBNA, CWE10ABANA, CWE08ABANA, CWE09AB, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWK11ABANA, BWK11ABBNA, BWB08A, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWH14ABBNA, CWH14ABANA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB",
       "version": "",
-      "amount": "15",
+      "amount": "16",
       "quantaty": 0,
-      "title": ""
+      "title": "retentor consul, retentor brastemp"
+  },
+  {
+      "name": "Retentor do Tanque (Novo)",
+      "code": "W10791633",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "BWH09B, BWT09B, BWH09BB, BWT09BB, BWX09B, CWC22B, BWC06A, CWL10A, CWL08C, BWF22A, BWQ24A, BWF09A, BWL09ABANA, BWL07A, BWL09A, BWQ22B, BWM08A, BWB22B, BWB22A, BWF08A, BWF24A, BWM06A, BWL11AR, BWM08AB, CWE06A, CWE06B, CWC24A, CWL08A, CWL08B, BWC10BB, CWL10B, CWL75A, BWT09A, BWH09A, BWF08B, BWH08B, BWQ06A, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, BWC10A, BWG10A, BWC07A, BWH15ABBNA, BWH15ABANA, BWK15ABANA, BWK15ABBNA, BWN15ATBNA, BWN15AKANA, BWN15AKBNA, BWN15ATANA, BWS15ABANA, BWS15ABBNA, CWE15ABANA, CWE15ABBNA, CWL16ABBNA, CWL16ABANA, BWC11AB, BWG11ABANA, BWH11AB, BWG11ABBNA, BWG11ARANA, BWG11ARBNA, BWG12AB, BWH12ABANA, BWH12ABBNA, BWP11A9, BWQ12ABANA, BWQ12ABBNA, BWT12ABANA, BWU11AE, CWC08ABBNA, BWT12ABBNA, BWU11AB, CWC08ABANA, CWE08ABBNA, CWE10ABANA, CWE08ABANA, CWE09AB, CWE10ABBNA, CWE11ABANA, CWE11ABBNA, CWG12ABANA, CWG12ABBNA, CWK12ABANA, CWK12ABBNA, BWK11ABANA, BWK11ABBNA, BWB08A, BWJ11ABANA, BWJ11ABBNA, BWB08AB, BWB09AB, BWL11ABANA, BWJ09ABANA, BWJ09ABBNA, BWL11ABBNA, BWS09ABBNA, BWS09ABANA, BWS11ABANA, BWS11ABBNA, CWG11AB, CWH14ABBNA, CWH14ABANA, BWB11ABANA, BWB11ABBNA, BWC08A, BWC09AB, BWL09BBANA, BWL09BBBNA, CWC10AB, CWK11AB",
+      "version": "",
+      "amount": "16",
+      "quantaty": 0,
+      "title": "retentor consul, retentor brastemp"
   },
   {
       "name": "Rolamento 6006-2RS",
@@ -1866,6 +1899,17 @@
       "model": "BRE43A, BRE49BB, BRE49BE, BRE49BR, BRE49CE, BRE50NBBNA, BRE50NDBNA, BRE50NEBNA, BRE50NJBNA, BRE50NPBNA, BRE50NRBNA, BRE51NB, BRE51ND, BRE51NG, BRE51NM, BRE51NP, BRE51NR, BRE51NX, BRE80ABBNA, BRE80AKBNA, BRE80ARBNA, BRG43A, BRG43B, BRG44A, BRG44B, BRJ49BB, BRK50NBBNA, BRK50ND, BRK50NG, BRK50NKBNA, BRK50NM, BRK50NP, BRK50NRBNA, BRM32ABBNA, BRM33BBBNA, BRM33BCBNA, BRM33CBBNA, BRM33CCBNA, BRM34ABBNA, BRM34ACBNA, BRM34B, BRM35AB, BRM35BB, BRM35BR, BRM36D, BRM36EB, BRM36EG, BRM36ER, BRM36EV, BRM36EZ, BRM37A, BRM37B, BRM38A, BRM38B, BRM40D, BRM40EB, BRM40ES, BRM41AB, BRM41BB, BRM43A, BRM43B, BRM43P, BRM43X, BRM44ABBNA, BRM44ACBNA, BRM44B, BRM44D, BRM44EB, BRM44ER, BRM44L, BRM44P, BRM44Q, BRM44X, BRM44Y, BRM44Z, BRM47AB, BRM47AR, BRM47BBBNA, BRM47BR, BRM47GB, BRM47GK, BRM48D, BRM48DX, BRM48NBBNA, BRM48NKBNA, BRM48NRBNA, BRM49BB, BRM49BR, BRM49E, BRM49GB, BRM49GK, BRM50NBBNA, BRM50NKBNA, BRM50NMBNA, BRM50NRBNA, BRM50NX, BRN43A, BRN43B, BRN44A, BRN44B, BRN44X, BRN80AKBNA, BRO80AEBNA, BRO80AKBNA, BRO81ARBNA, BRQ47BB, BRR49BE, BRR49BR, BRT38AE, BRT38AV, BRT38AY, BRU49BB, BRU49BR, BRU49BX, BRU49WB, BRU49YB, BRV44B, BRV80AKBNA, BRV80ARBNA, BRW50NB, BRW50NDV, BRW50NGV, BRW50NK, BRW50NMV, BRW50NR, BRX45FBBNA, BRX48D, BRX48DX, BRX49BX, BRX50AR, BRX50BR, BRX50CR, BRY48DB, BRY48DR, BRY49BB, BRY49BR, BRZ49BB, BRZ49BR, BVE28A, BVE28B, BVE28C, BVE28D, BVE28FB, BVE28FR, BVE28L, BVE28Y, BVG22B, BVG23A, BVG24A, BVG24B, BVG24C, BVG24D, BVG24FB, BVG24GBBNA, BVG26C, BVG26P, BVG27A, BVG27P, BVG28A, BVG28B, BVG28CBBNA, BVG28P, BVG28Q, BVG28R, BVR28FB, BVR28GBBNA, BVR28GRBNA, CRM30D, CRM32ABBNA, CRM32ACBNA, CRM32B, CRM33BBBNA, CRM33DB, CRM33DR, CRM34FB, CRM35AB, CRM35BB, CRM37A, CRM38A, CRM38BB, CRM42C, CRM44D, CRM45ABBNA, CRM45AR, CRM46A, CRM47FB, CRM49AB, CRM50AB, CRM50AR,GRO80AB,KRM43A,KRM44A,KRM44B,KVG26C,KVG27A,KVG28B,KVG28C,LRM40D,LRM48D,PRM40D,PRM48D,PVE28D,XRX48D,XVE28D,",
       "version": "",
       "amount": "85",
+      "quantaty": 0,
+      "title": "ventilador geladeira, ventilador de galadeira"
+  },
+  {
+      "name": "Motor Ventilador 220V",
+      "code": "W10553787",
+      "brand": "Brastemp/Consul",
+      "subject": "Refrigerador, geladeira",
+      "model": "BRE50NBBNA, BRE50NDBNA, BRE50NEBNA, BRE50NJBNA, BRE50NKBNA, BRE50NPBNA, BRE50NRBNA, BRE50NX2NA, BRE51NB, BRE51ND, BRE51NG, BRE51NK, BRE51NM, BRE51NP, BRE51NR, BRE51NX, BRK50NBBNA, BRK50NRBNA, BRM47GB, BRM47GK, BRM48NBBNA, BRM48NRBNA, BRM49GB, BRM49GK, BRM50NBBNA, BRM50NRBNA, BRW50NB, BRW50NR, BVG24GBBNA, BVG24HBBNA, BVR28GBBNA, BVR28GRBNA, BVR28HBBNA, BVR28HRBNA, BVR28MBBNA, BVR28MKBNA, CRM45BBBNA, CRM51ABBNA, CRM51AKBNA, CRM51ZB, CRM52ABBNA, CRM52AKBNA, CRM54BBBNA, CRM54BKBNA, CRM55ABBNA, CRM55AKBNA",
+      "version": "",
+      "amount": "200",
       "quantaty": 0,
       "title": "ventilador geladeira, ventilador de galadeira"
   },
@@ -2200,7 +2244,7 @@
       "title": "suporte do prato, suporte prato"
   },
   {
-      "name": "FILTRO SECADOR METALICO",
+      "name": "Filtro Secador Metálico",
       "code": "W10699240",
       "brand": "Brastemp/Consul",
       "subject": "refrigerador, freezer",
@@ -2954,7 +2998,7 @@
       "subject": "Microondas",
       "model": "BMA30AF, BMG35AB, BMG45AEBNA, BMG45ARBNA, BMH45AB, BMS35AB, BMS35BB, BMS45BBBNA, BMS45CBBNA, BMS45CRBNA, BMT45ARBNA, BMT45BRBNA, BMU45AE, BMX35AR, BMX40AR, BMY45AR, CMA30AF, CMK38ABANA, CMS45ABBNA, CMS45ARBNA, CMV38AB, CMW30AB",
       "version": "",
-      "amount": "50",
+      "amount": "80",
       "quantaty": 0,
       "title": ""
   },
@@ -3592,7 +3636,18 @@
       "subject": "geladeira, refrigerador",
       "model": "BRM44D, BRM44EB, BRM44ER, BRM47AB, BRM47AR, BRM47BBANA, BRM47BBBNA, BRM47BR, BRM48NBANA, BRM48NBBNA, BRM48NRANA, BRM48NRBNA, BRQ47BB, CRM44D, CRM45ABANA, CRM45ABBNA, CRM45AR, CRM47FB, ",
       "version": "",
-      "amount": "70",
+      "amount": "45",
+      "quantaty": 0,
+      "title": "capa isopor geladeira"
+  },
+  {
+      "name": "Capa Intermediária do Evaporador",
+      "code": "326051022",
+      "brand": "Brastemp/Consul",
+      "subject": "geladeira, refrigerador",
+      "model": "BRE48D, BRE49BB, BRE49BE, BRE49BR, BRE49CE, BRE50NBANA, BRE50NBBNA, BRE50NEANA, BRE50NEBNA, BRE50NX1NA, BRE50NX2NA, BRE51NB, BRE51ND, BRE51NG, BRE51NM, BRE51NP, BRE51NR, BRE51NX, XRE48D",
+      "version": "",
+      "amount": "80",
       "quantaty": 0,
       "title": "capa isopor geladeira"
   },
@@ -3874,6 +3929,17 @@
   {
       "name": "Termostato Dupla Ação",
       "code": "181726",
+      "brand": "Emicol",
+      "subject": "multimarcas",
+      "model": "Dupla Ação",
+      "version": "",
+      "amount": "65",
+      "quantaty": 0,
+      "title": "termostato dupla açao, termostato dupla acao, termostato dupla acão, mecanização, mecanizaçao, mecanizacao"
+  },
+  {
+      "name": "Termostato Dupla Ação",
+      "code": "100249085",
       "brand": "Emicol",
       "subject": "multimarcas",
       "model": "Dupla Ação",
@@ -4456,7 +4522,7 @@
   },
   {
       "name": "Válvula Schrader de 1/4",
-      "code": "18822",
+      "code": "188822",
       "brand": "Dugold",
       "subject": "multimarcas",
       "model": "",
@@ -5211,7 +5277,18 @@
       "version": "",
       "amount": "40",
       "quantaty": 0,
-      "title": "niveis, nivel, nível"
+      "title": "Pressostato 4 niveis, Pressostato 4 nivel, Pressostato 4 nível"
+  },
+  {
+      "name": "Pressostato 5 Níveis ",
+      "code": "A99063101",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LAC12",
+      "version": "",
+      "amount": "40",
+      "quantaty": 0,
+      "title": "Pressostato 5 niveis, Pressostato 5 nivel, Pressostato 5 nível"
   },
   {
       "name": "Unidade Interface",
@@ -5372,7 +5449,7 @@
       "code": "A99084602A",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "LAC13, LAC11, LAC16",
+      "model": "LAC13, LAC11, LAC16, LAC12",
       "version": "",
       "amount": "60",
       "quantaty": 0,
@@ -6334,6 +6411,17 @@
       "amount": "50",
       "quantaty": 0,
       "title": ""
+  },
+  {
+      "name": "Prato de Microondas",
+      "code": "69999755",
+      "brand": "Electrolux",
+      "subject": "microondas",
+      "model": "",
+      "version": "",
+      "amount": "60",
+      "quantaty": 0,
+      "title": "prato giratorio, prato giratório, prato micoondas"
   },
   {
       "name": "Fusível Cerâmica 10A 220V",
@@ -7486,7 +7574,7 @@
       "subject": "bebedouro, gelagua",
       "model": "EGC35B",
       "version": "",
-      "amount": "15",
+      "amount": "18",
       "quantaty": 0,
       "title": "torneira bebedouro"
   },
@@ -7541,7 +7629,7 @@
       "subject": "bebedouro, gelagua, PURIFICADOR",
       "model": "ACQUA7",
       "version": "",
-      "amount": "100",
+      "amount": "110",
       "quantaty": 0,
       "title": "FILTRO PURIFICADOR, FILTRO CARVAO, FILTRO DO PURIFICADOR, FILTRO ACQUA7"
   },
@@ -7552,7 +7640,7 @@
       "subject": "REFRIGERADOR, GELADEIRA",
       "model": "RCD34, RC38",
       "version": "",
-      "amount": "25",
+      "amount": "20",
       "quantaty": 0,
       "title": "DOBRADIÇA DA PORTA, DOBRADIÇA PORTA, DOBRADICA DA PORTA, DOBRADICA PORTA"
   },
@@ -7563,7 +7651,7 @@
       "subject": "bebedouro, gelagua",
       "model": "EGC35B",
       "version": "",
-      "amount": "70",
+      "amount": "60",
       "quantaty": 0,
       "title": ""
   },
