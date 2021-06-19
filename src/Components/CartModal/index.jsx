@@ -152,7 +152,7 @@ export function CartModal({
             Total: ${total}`
               if(cartSize > 0) {
                 texto = window.encodeURIComponent(texto);
-                window.open("https://api.whatsapp.com/send?phone=" + "558299802-2266" + "&text=" + texto, "_blank");
+                window.open("https://api.whatsapp.com/send?phone=" + "558299953-6836" + "&text=" + texto, "_blank");
               } else {
                 Message("Carrinho vazio.", "warn")
               }
