@@ -124,5 +124,27 @@
       "amount": "15",
       "quantaty": 0,
       "title": "torneira bebedouro"
+  },
+  {
+      "name": "Kit Relé e Protetor Térmico Compressor de Geladeira",
+      "code": "100222026",
+      "brand": "Dulgold",
+      "subject": "multimarcas",
+      "model": "",
+      "version": "",
+      "amount": "35",
+      "quantaty": 0,
+      "title": "rele geladeira, rele compressor, relé geladeira, protetor térmico, protetor termico"
+  },
+  {
+      "name": "Gás R22 900g",
+      "code": "100209975",
+      "brand": "Dugold",
+      "subject": "multimarcas",
+      "model": "",
+      "version": "",
+      "amount": "100",
+      "quantaty": 0,
+      "title": "gas r22, gas 22"
   }
 ]
