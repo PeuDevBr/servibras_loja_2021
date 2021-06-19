@@ -1,11 +1,10 @@
 import { useEffect, useState } from "react";
-import initialProducts from "../../../products.json";
+import initialProducts from "../../../initialProducts.json";
 import { useProducts } from "../../hooks/ProductsContext";
 import { CardModal } from "../CardModal"
 import { Message } from "../Message";
 import { ToastContainer } from 'react-toastify';
 import { Container } from "./styles";
-import { shuffle } from "../../util/shuffle";
 import {setCookie, parseCookies} from "nookies";
 
 export default function Cards({ search , setCart, cart}) {
@@ -28,7 +27,7 @@ export default function Cards({ search , setCart, cart}) {
   let cardList = [];
 
   if (search === "") {
-    cardList = shuffle()
+    cardList = initialProducts
   } else {
     for (var part in products) {
       if (
