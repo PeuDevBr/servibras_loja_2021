@@ -600,7 +600,7 @@
       "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWL11AB",
       "version": "",
-      "amount": "190",
+      "amount": "200",
       "quantaty": 0,
       "title": ""
   },
@@ -611,7 +611,7 @@
       "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWK11AB",
       "version": "",
-      "amount": "120",
+      "amount": "215",
       "quantaty": 0,
       "title": "placa potencia, placa potência"
   },
@@ -4610,7 +4610,7 @@
   },
   {
       "name": "Capilar 0.31",
-      "code": "115314",
+      "code": "100222066",
       "brand": "Dugold",
       "subject": "multimarcas",
       "model": "",
