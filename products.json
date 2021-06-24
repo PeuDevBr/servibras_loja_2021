@@ -4203,12 +4203,12 @@
   },
   {
       "name": "Termoatuador",
-      "code": "M156039",
+      "code": "100252130",
       "brand": "Dugold",
       "subject": "multimarcas",
       "model": "LT50/LT60/LTC07/LTD06/LTE06/",
       "version": "",
-      "amount": "35",
+      "amount": "50",
       "quantaty": 0,
       "title": ""
   },
@@ -5749,6 +5749,17 @@
       "model": "DCW49/DF43/DF46/DF48/DF48X/DF49/DFW48/DFW49/DFW50/DW48X/",
       "version": "",
       "amount": "120",
+      "quantaty": 0,
+      "title": "placa interface, painel eletronico, placa display"
+  },
+  {
+      "name": "Paca Interface",
+      "code": "64502354",
+      "brand": "Electrolux",
+      "subject": "geladeira, refrigerador",
+      "model": "DF51/DF51X/DF52/DF52X/DFN52/DFW52/DW52X/IF51/IF51X/",
+      "version": "",
+      "amount": "180",
       "quantaty": 0,
       "title": "placa interface, painel eletronico, placa display"
   },
