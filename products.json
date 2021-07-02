@@ -501,7 +501,7 @@
       "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWB11ABANA, BWB11ABBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, ",
       "version": "",
-      "amount": "280",
+      "amount": "300",
       "quantaty": 0,
       "title": ""
   },
@@ -1337,7 +1337,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "CWH12ABBNA, BWC10BB, BWM08A, BWT09A, BWC07A, BWF08A, BWF08B, BWF09A, BWQ22D, BWQ24B, BWT08A, BWT08C, BWT09AB, BWX09A, XWH08A, BWM08AB, BWB22B, BWB22A, BWF24A, BWG10A, BWH08B, BWH09A, BWM06A, BWQ06A, BWQ07A, BWQ22C, CWE06A, CWE06B, BWC10A, BWC06A, BWL07A, BWL09A, CWL08C, CWC24A, CWL08A, CWL08B, CWL10A, CWL10B, CWL75A, BWQ22B, BWQ24A, BWF22A, BWL11AR, BWH09B, BWT09B, BWH09BB, BWX09B, BWT09BB, CWC22B, CWC22A, BWH15ABBNA, BWS15ABBNA, BWK15ABBNA, BWN15AKBNA, CWE15ABBNA, CWL16ABBNA, CWE10ABBNA, CWE11ABBNA, CWG12ABBNA, CWK12ABBNA, BWB08A, CWG11AB, BWB09AB, BWB08AB, BWS09ABBNA, BWJ11ABBNA, BWL11ABBNA, BWS11ABBNA, BWJ09ABBNA, BWP11A9, CWB08ABBNA, CWC08ABBNA, CWE08ABBNA, CWE09AB, CWH11BBBNA, CWH11ABBNA, CWB09ABBNA, BWG11ABBNA, BWG12AB, BWH11AB, BWG11ARBNA, BWH12ABBNA, BWQ12ABBNA, BWU11AB, BWT12ABBNA, BWU11AE, BWK11ABBNA, CWK11AB, CWC10AB, BWL09BBBNA, BWC09AB, BWC08A, BWR12A9BNA, BWB11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK12ABBNA, BWC11AB,",
       "version": "",
-      "amount": "65",
+      "amount": "70",
       "quantaty": 0,
       "title": ""
   },
@@ -3793,17 +3793,6 @@
       "amount": "4",
       "quantaty": 0,
       "title": "Tubo 3/8, Instalação, Instalaçao, Instalacao"
-  },
-  {
-      "name": "Tubo esponjoso de 1/2",
-      "code": "200106",
-      "brand": "Dugold",
-      "subject": "Split, condicionador de ar, ar condicionado",
-      "model": "2 metros",
-      "version": "",
-      "amount": "4",
-      "quantaty": 0,
-      "title": "Tubo 1/2, Instalação, Instalaçao, Instalacao"
   },
   {
       "name": "Tubo esponjoso de 5/8",
