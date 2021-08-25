@@ -418,6 +418,39 @@
       "title": "potencia, placa potencia"
   },
   {
+      "name": "Cj Placa Potência 220V (VS 00)",
+      "code": "W10855670",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "CWL16ABBNA",
+      "version": "",
+      "amount": "430",
+      "quantaty": 0,
+      "title": "potencia, placa potencia"
+  },
+  {
+      "name": "Cj Placa Potência 220V (VS 10;20;30)",
+      "code": "W10915380",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "CWL16ABBNA",
+      "version": "",
+      "amount": "540",
+      "quantaty": 0,
+      "title": "potencia, placa potencia"
+  },
+  {
+      "name": "Cj Placa Potência 220V (VS 40)",
+      "code": "W11160582",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "CWL16ABBNA",
+      "version": "",
+      "amount": "530",
+      "quantaty": 0,
+      "title": "potencia, placa potencia"
+  },
+  {
     "name": "Placa Potência 220V",
     "code": "W11479508",
     "brand": "Brastemp/Consul",
