@@ -958,6 +958,17 @@
   },
   {
       "name": "Controle Eletrônico 220V",
+      "code": "W10887228",
+      "brand": "Brastemp/Consul",
+      "subject": "Refrigerador, geladeira,",
+      "model": "BRV80AKANA, BRO80AEANA, BRO80AKANA, BRO80ABANA, BRO80AEBNA, BRO80ABBNA, BRO80AKBNA, BRV80AKBNA, GRO80AB",
+      "version": "",
+      "amount": "600",
+      "quantaty": 0,
+      "title": "controle eletronico, placa eletronica, placa geladeira"
+  },
+  {
+      "name": "Controle Eletrônico 220V",
       "code": "326061422",
       "brand": "Brastemp/Consul",
       "subject": "Refrigerador, geladeira,",
