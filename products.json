@@ -418,6 +418,17 @@
       "title": "potencia, placa potencia"
   },
   {
+    "name": "Placa Potência 220V",
+    "code": "W11479508",
+    "brand": "Brastemp/Consul",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "CWB08ABBNA, CWB09ABBNA, CWH11BBBNA",
+    "version": "",
+    "amount": "300",
+    "quantaty": 0,
+    "title": "potencia, placa potencia"
+},
+  {
       "name": "Kit Placa BWG10 Bivolt - 326046011 326053963 (Similar)",
       "code": "7220013",
       "brand": "Alado",
