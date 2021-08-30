@@ -5005,6 +5005,17 @@
       "title": "potencia"
   },
   {
+      "name": "Placa Eletrônica LT09E",
+      "code": "A12897205",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT09E",
+      "version": "",
+      "amount": "170",
+      "quantaty": 0,
+      "title": "potencia"
+  },
+  {
       "name": "Placa Eletrônica LT60",
       "code": "64800651",
       "brand": "Electrolux",
