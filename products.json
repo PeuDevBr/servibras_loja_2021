@@ -401,7 +401,7 @@
       "brand": "Brastemp/Consul",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWH12ABBNA, BWT12ABBNA",
-      "version": "",
+      "version": "W10798571",
       "amount": "350",
       "quantaty": 0,
       "title": "potencia, placa potencia"
@@ -2965,7 +2965,18 @@
       "subject": "refrigerador, geladeira",
       "model": "BRD47DB, BRD49DB, BRD50AB, BRE49BB, BRE50NBANA, BRE50NBBNA, BRE50NDANA, BRE50NDBNA, BRE50NKANA, BRE50NKBNA, BRE50NPANA, BRE50NPBNA, BRE50NRANA, BRE50NRBNA, BRE51NB, BRE51ND, BRE51NG, BRE51NK, BRE51NM, BRE51NR, BRE80ABANA, BRE80ABBNA, BRJ49BB, BRK50NBANA, BRK50NBBNA, BRK50NKANA, BRK50NKBNA, BRK50NM, BRK50NP, BRM47BBANA, BRM47BBBNA, BRM47GB, BRM47GK, BRM48NBANA, BRM48NBBNA, BRM48NKANA, BRM48NKBNA, BRM49BB, BRM49B, BRM49GB, BRM49GK, BRM50NBANA, BRM50NBBNA, BRM50NKANA, BRM50NKBNA, BRQ47BB, BRU49BB, BRU49BX, BRU49WB, BRU49YB, BRW50NB, BRW50NBVNA, BRW50NK, BRX49BX, BRX50B, BRY49BB, BRZ49BB, BRZ49B, CRM45BBANA, CRM45BBBNA, CRM51ABANA, CRM51ABBNA, CRM51AKANA, CRM51AKBNA, CRM51ZB, CRM52ABANA, CRM52ABBNA, CRM52AKANA, CRM52AKBNA, CRM54BBANA, CRM54BBBNA, CRM55ABANA, CRM55ABBNA, CRM55AKANA, CRM55AKBNA",
       "version": "",
-      "amount": "30",
+      "amount": "35",
+      "quantaty": 0,
+      "title": "interruptor da porta, interruptor da lâmpada, interruptor da lampada"
+  },
+  {
+      "name": "Interruptor Duplo Cinza",
+      "code": "W10471976",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRE49BR, BRE50NRANA, BRE50NRBNA, BRE51NR, BRE80AKANA, BRE80AKBNA, BRE80ARANA, BRE80ARBNA, BRK50NRANA, BRK50NRBNA, BRM47BR, BRM48NRANA, BRM48NRBNA, BRM50NRANA, BRM50NRBNA, BRR49BE, BRR49BR, BRU49BR, BRV80AKBNA, BRV80ARANA, BRV80ARBNA, BRW50NR, BRW50NRV, BRX50AR, BRX50CR, BRY49BR, BRZ49BR",
+      "version": "",
+      "amount": "50",
       "quantaty": 0,
       "title": "interruptor da porta, interruptor da lâmpada, interruptor da lampada"
   },
