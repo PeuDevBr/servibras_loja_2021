@@ -5005,7 +5005,7 @@
       "title": "mecanização, mecanizaçao, mecanizacao"
   },
   {
-      "name": "Placa Eletrônica LT12F",
+      "name": "Placa Eletrônica LT12F Versão Obsoleta",
       "code": "70201326",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5024,7 +5024,7 @@
     "version": "",
     "amount": "220",
     "quantaty": 0,
-    "title": "placa potencia, placa eletronica, placa electrolux"
+    "title": "placa potencia, placa eletronica, placa electrolux, 70201326"
   },
   {
       "name": "Placa Eletrônica LT09E",
@@ -5313,7 +5313,7 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Placa Eletrônica LTC07",
+      "name": "Placa Eletrônica LTC07 Versão Obsoleta",
       "code": "70200562",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5323,6 +5323,17 @@
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
   },
+  {
+      "name": "Placa Eletrônica LTC07 Nova Versão",
+      "code": "A99021902",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTC07",
+      "version": "",
+      "amount": "170",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70200562"
+  }
   {
       "name": "Placa Eletrônica LT11F",
       "code": "70201675",
