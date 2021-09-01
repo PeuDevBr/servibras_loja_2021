@@ -5049,7 +5049,7 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Placa Eletrônica LBU15",
+      "name": "Placa Eletrônica LBU15 Versão Obsoleta",
       "code": "70200963",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5058,6 +5058,17 @@
       "amount": "230",
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LBU15 Nova Versão",
+      "code": "A99035151",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LBU15",
+      "version": "",
+      "amount": "220",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70200963"
   },
   {
       "name": "Placa Eletrônica LT12Q",
