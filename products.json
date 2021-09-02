@@ -5346,7 +5346,7 @@
       "title": "potencia, eletronico, potência, 70200562"
   },
   {
-      "name": "Placa Eletrônica LT11F",
+      "name": "Placa Eletrônica LT11F Versão Obsoleta",
       "code": "70201675",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5355,6 +5355,17 @@
       "amount": "220",
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT11F Nova Versão",
+      "code": "A99035155",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT11F",
+      "version": "",
+      "amount": "220",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70201675"
   },
   {
       "name": "Placa Eletrônica LT15F",
@@ -5379,7 +5390,7 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Placa Eletrônica LTD15",
+      "name": "Placa Eletrônica LTD15 Versão Obsoleta",
       "code": "70203330",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5388,6 +5399,17 @@
       "amount": "200",
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTD15 Nova Versão",
+      "code": "A99035167",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTD15",
+      "version": "",
+      "amount": "200",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70203330"
   },
   {
       "name": "Placa Eletrônica LT10B",
