@@ -3427,7 +3427,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "BRK50NBANA, BRK50NBBNA, BRK50ND, BRK50NG, BRK50NKANA, BRK50NKBNA, BRK50NM, BRK50NP, BRK50NRANA, BRK50NRBNA, BRM47GB, BRM47GK, BRM48NBANA, BRM48NBBNA, BRM48NKANA, BRM48NKBNA, BRM48NRANA, BRM48NRBNA, BRM49GB, BRM49GK, BRM50NBANA, BRM50NBBNA, BRM50NKANA, BRM50NKBNA, BRM50NMANA, BRM50NMBNA, BRM50NRANA, BRM50NRBNA, BRM50NX, BRW50NB, BRW50NDV, BRW50NGV, BRW50NK, BRW50NMV, BRW50NPVNA, BRW50NR, CRM45BBANA, CRM45BBBNA, CRM51ABANA, CRM51ABBNA, CRM51AKANA, CRM51AKBNA, CRM51ZB, CRM52ABANA, CRM52ABBNA, CRM52AKANA, CRM52AKBNA, CRM54BBANA, CRM54BBBNA, CRM54BKANA, CRM54BKBNA, CRM55ABANA, CRM55ABBNA, CRM55AKANA, CRM55AKBNA",
       "version": "",
-      "amount": "80",
+      "amount": "60",
       "quantaty": 0,
       "title": "isopor, isopor evaporador, evaporador"
   },
@@ -6578,6 +6578,17 @@
       "title": "mecanismo, mecanica, transmissao, mecânica"
   },
   {
+      "name": "Embreagem da Trasmissão",
+      "code": "A99806501",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "LA15F/LAC12/LAC13/LBU15/LBU16/LDD16/LEC12/LES13/LM13Q/LP12Q/LPR13/LPR14/LT12B/LT12F/LT12Q/LT13B/LT15F/LTA13/LTA15/LTC15/LTD13/LTD15/LTD16/LTE12/LTM15/LTM16/LTP12/LTP15/LTP16/LTR15/LWI13/",
+      "version": "",
+      "amount": "60",
+      "quantaty": 0,
+      "title": "mecanismo, mecanica, transmissao, mecânica, embreagem, 70201828"
+  },
+  {
       "name": "Capacitor 0,85µF 220V",
       "code": "64188869",
       "brand": "Electrolux",
@@ -7269,6 +7280,17 @@
       "amount": "140",
       "quantaty": 0,
       "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador"
+  },
+  {
+      "name": "Filtro Purificador PAPPCA40",
+      "code": "A11954301",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "",
+      "version": "",
+      "amount": "140",
+      "quantaty": 0,
+      "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador, 15663200A01261"
   },
   {
       "name": "Filtro Purificador",
