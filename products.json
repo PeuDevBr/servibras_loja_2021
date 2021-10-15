@@ -1346,9 +1346,20 @@
     "code": "W10714366",
     "brand": "Brastemp/Consul",
     "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-    "model": "BWH11AB, BWG12AB, CWE15ABBNA, CWL16ABBNA, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, ",
+    "model": "BWH11AB, BWG12AB, CWE15ABBNA, CWL16ABBNA, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, BWH12ABBNA, BWT12ABBNA, BWQ12ABBNA",
     "version": "",
     "amount": "80",
+    "quantaty": 0,
+    "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
+  },
+  {
+    "name": "Dispenser com Válvula 220V",
+    "code": "W11023707",
+    "brand": "Brastemp/Consul",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "BWH12ABBNA, BWT12ABBNA, BWQ12ABBNA",
+    "version": "",
+    "amount": "240",
     "quantaty": 0,
     "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
   },
