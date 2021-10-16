@@ -6,10 +6,10 @@ import { BiSearchAlt2 } from 'react-icons/bi'
 export function HeaderGrid({ handleSubmit, setSearch, handleOpenCartModal, cart }) {
   const cartSize = cart.length;
 
-  function resetSearch() {
+  /* function resetSearch() {
     setSearch("");
     scrollToTop();
-  }
+  } */
 
   return (
     <Container>      

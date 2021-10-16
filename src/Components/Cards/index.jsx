@@ -9,8 +9,6 @@ import {setCookie, parseCookies} from "nookies";
 
 export default function Cards({ search , setCart, cart}) {
 
-  
-  
   const [isCardModalOpen, setIsCardModalOpen] = useState(false);
   const [cardModal, setCardModal] = useState({});
 

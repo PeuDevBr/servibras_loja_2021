@@ -2,6 +2,7 @@
   {
     "name": "Placa Potência 220V",
     "code": "W10446925",
+    "newCode": "W10446925",
     "brand": "Brastemp/Consul",
     "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
     "model":
@@ -42,14 +43,15 @@
     "title": "motor"
   },
   {
-    "name": "Kit Placa BWL11 - W10356413 W10301604 326064442 (Similar)",
-    "code": "7220060",
-    "brand": "Alado",
-    "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
-    "model": "BWL11AB",
-    "amount": "280",
-    "quantity": 0,
-    "title": "placa potencia, placa interface, placa potência"
+      "name": "Kit Placa BWL11 - W10356413 (Similar)",
+      "code": "7220202",
+      "brand": "Alado",
+      "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "BWB11ABANA, BWB11ABBNA, BWL11ABANA, BWL11ABBNA, BWL11AR, ",
+      "version": "",
+      "amount": "300",
+      "quantaty": 0,
+      "title": ""
   },
   {
     "name": "Kit Placa BWC10 Bivolt (Similar)",

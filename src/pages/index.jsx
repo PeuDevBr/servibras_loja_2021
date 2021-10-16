@@ -44,7 +44,7 @@ export default function Home() {
 
   /* ----------------------------------------- */
 
-  function Storage(){
+  /* function Storage(){
 
     const productAlreadyInCart = cart.find(product => product.code === card.code)
 
@@ -72,7 +72,7 @@ export default function Home() {
   
     console.log(parseCookies())
   }
-
+ */
 
   /* ----------------------------------------- */
 
