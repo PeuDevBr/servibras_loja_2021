@@ -402,9 +402,9 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWH12ABBNA, BWT12ABBNA",
       "version": "",
-      "amount": "350",
+      "amount": "330",
       "quantaty": 0,
-      "title": "potencia, placa potencia"
+      "title": "potencia, placa potencia, W10798571"
   },
   {
       "name": "Cj Placa Potência e Interface 220V",
@@ -417,6 +417,61 @@
       "quantaty": 0,
       "title": "potencia, placa potencia"
   },
+  {
+      "name": "Cj Placa Potência 220V (VS 00)",
+      "code": "W10855670",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "CWL16ABBNA",
+      "version": "",
+      "amount": "430",
+      "quantaty": 0,
+      "title": "potencia, placa potencia"
+  },
+  {
+      "name": "Cj Placa Potência 220V (VS 10;20;30)",
+      "code": "W10915380",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "CWL16ABBNA",
+      "version": "",
+      "amount": "540",
+      "quantaty": 0,
+      "title": "potencia, placa potencia"
+  },
+  {
+      "name": "Cj Placa Potência 220V (VS 40)",
+      "code": "W11160582",
+      "brand": "Brastemp/Consul",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "CWL16ABBNA",
+      "version": "",
+      "amount": "530",
+      "quantaty": 0,
+      "title": "potencia, placa potencia"
+  },
+  {
+    "name": "Placa Potência 220V",
+    "code": "W11479508",
+    "brand": "Brastemp/Consul",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "CWB08ABBNA, CWB09ABBNA, CWH11BBBNA",
+    "version": "",
+    "amount": "300",
+    "quantaty": 0,
+    "title": "potencia, placa potencia"
+},
+{
+    "name": "Placa Potência c/ Tampa Metálica 220v",
+    "code": "W11415305",
+    "brand": "Brastemp/Consul",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "BWK14ABBNA",
+    "version": "",
+    "amount": "540",
+    "quantaty": 0,
+    "title": "potencia, placa potencia"
+},
   {
       "name": "Kit Placa BWG10 Bivolt - 326046011 326053963 (Similar)",
       "code": "7220013",
@@ -441,12 +496,12 @@
   },
   {
       "name": "Placa Interface BWL11 - W10356413 W10301604 (Similar)",
-      "code": "7220058",
+      "code": "7220026",
       "brand": "Alado",
       "subject": "multimarcas, similar, consul, brastemp, Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "BWL11AB",
       "version": "",
-      "amount": "215",
+      "amount": "220",
       "quantaty": 0,
       "title": "W10356413, W10301604, 326064442"
   },
@@ -936,6 +991,17 @@
   },
   {
       "name": "Controle Eletrônico 220V",
+      "code": "W10887228",
+      "brand": "Brastemp/Consul",
+      "subject": "Refrigerador, geladeira,",
+      "model": "BRV80AKANA, BRO80AEANA, BRO80AKANA, BRO80ABANA, BRO80AEBNA, BRO80ABBNA, BRO80AKBNA, BRV80AKBNA, GRO80AB",
+      "version": "",
+      "amount": "600",
+      "quantaty": 0,
+      "title": "controle eletronico, placa eletronica, placa geladeira"
+  },
+  {
+      "name": "Controle Eletrônico 220V",
       "code": "326061422",
       "brand": "Brastemp/Consul",
       "subject": "Refrigerador, geladeira,",
@@ -1227,7 +1293,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "CWL75A, CWL10B, CWL10A, CWL08C, CWL08B, CWL08A, CWC24A, BWS11ABBNA, BWL11AR, BWL11ABBNA, BWL09A, BWL07A, BWK11ABBNA, BWJ11ABBNA, BWC11AB, BWC10BB, BWC10A, BWC06A, BWB11ABBNA",
       "version": "",
-      "amount": "38",
+      "amount": "40",
       "quantaty": 0,
       "title": "Valvula Dupla 220V"
   },
@@ -1280,9 +1346,20 @@
     "code": "W10714366",
     "brand": "Brastemp/Consul",
     "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-    "model": "BWH11AB, BWG12AB, CWE15ABBNA, CWL16ABBNA, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, ",
+    "model": "BWH11AB, BWG12AB, CWE15ABBNA, CWL16ABBNA, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, BWH12ABBNA, BWT12ABBNA, BWQ12ABBNA",
     "version": "",
     "amount": "80",
+    "quantaty": 0,
+    "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
+  },
+  {
+    "name": "Dispenser com Válvula 220V",
+    "code": "W11023707",
+    "brand": "Brastemp/Consul",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "BWH12ABBNA, BWT12ABBNA, BWQ12ABBNA",
+    "version": "",
+    "amount": "240",
     "quantaty": 0,
     "title": "valvula de entrada, valvula dupla, valvula 2 vias, válvula de entrada, válvula 2 vias"
   },
@@ -1371,17 +1448,6 @@
       "model": "BLC19A, BLC19B, BLC19P, BLE20A, BLE20BBANA, BLE20CB, BLE20L, BLE20P, BLF06AB, BLF08ABANA, BLF08ASANA, BLL22EDB, BLL22MGB, BLL22MGD, BVM19SDB, BVM19SEA, BWB08AB, BWB09AB, BWB11ABANA, BWB22A, BWB22B, BWC06A, BWC07A, BWC08A, BWC09AB, BWC10A, BWC10BB, BWC11AB, BWD15A9ANA, BWD15ABANA, BWF08A, BWF08B, BWF09A, BWF22A, BWF24A, BWG10A, BWG11ABANA, BWG11ARANA, BWG12AB, BWH08B, BWH09A, BWH09BB, BWH11AB, BWH12ABANA, BWH15ABANA, BWJ09ABANA, BWJ11ABANA, BWK11ABANA, BWK12A9ANA, BWK12ABANA, BWK14ABANA, BWK15ABANA, BWL07A, BWL09A, BWL09ABANA, BWL09BBANA, BWL11ABANA, BWL11AR, BWM06A, BWM08AB, BWN15AKANA, BWN15ATANA, BWP11A9, BWQ06A, BWQ07A, BWQ12ABANA, BWQ22A, BWQ22B, BWQ22C, BWQ22D, BWQ24A, BWQ24B, BWR12A9ANA, BWR12ABANA, BWR22A, BWR22B, BWR22C, BWS09ABANA, BWS11ABANA, BWS15ABANA, BWT08A, BWT08C, BWT09AB, BWT09BB, BWT12ABANA, BWU11AB, BWU11AE, BWX09A, BWX09B, CWB08ABANA, CWB09ABANA, CWC08ABANA, CWC10AB, CWC22A, CWC22B, CWC24A, CWE06A, CWE06B, CWE08ABANA, CWE09AB, CWE10ABANA, CWE11ABANA, CWE13ABANA, CWE15ABANA, CWG11AB, CWG12ABANA, CWH11ABANA, CWH11BBANA, CWH12ABANA, CWH14ABANA, CWI05A, CWI06A, CWI21ABANA, CWK11AB, CWK12ABANA, CWL08A, CWL08B, CWL08C, CWL10A, CWL10B, CWL16ABANA, CWL75A, CWS11ABANA, CWS12ABANA, PLE20ASANA, PLE20BS, XWH08A, ",
       "version": "",
       "amount": "50",
-      "quantaty": 0,
-      "title": ""
-  },
-  {
-      "name": "Capacitor 15µF 220V",
-      "code": "W10527820",
-      "brand": "Brastemp/Consul",
-      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
-      "model": "CWH12ABBNA, CWL75A, CWC22B, BWB22B, BWB22A, BWF08A, BWH09A, BWF08B, BWF09A, BWF24A, BWH08B, BWM06A, BWQ06A, BWM08AB, BWQ07A, BWQ22D, BWQ24B, BWQ22C, BWT08A, BWT08C, BWT09AB, BWX09A, E06A, E06B, C24A, L08A, L08B, XWH08A, C22A, BWC06A, L10A, L08C, BWL07A, BWL09A, BWC10A, BWG10A, BWC07A, BWL11AR, BWF22A, BWQ24A, BLL22EDB, BLL22MGB, BLL22MGD, BWQ22A, BWR22A, BWR22B, BWR22C, BWQ22B, BWH09BB, BWT09BB, BWX09B, BWH15ABBNA, BWK15ABBNA, BWN15ATBNA, BWN15AKBNA, BWS15ABBNA, E15ABBNA, L16ABBNA, B08ABBNA, B09ABBNA, BWH11AB, BWG11ABBNA, BWG11ARBNA, BWG12AB, BWH12ABBNA, BWQ12ABBNA, BWU11AE, C08ABBNA, BWT12ABBNA, BWU11AB, E08ABBNA, E09AB, E10ABBNA, E11ABBNA, G12ABBNA, K12ABBNA, BWJ11ABBNA, BWB08AB, BWB09AB, BWJ09ABBNA, BWS09ABBNA, BWS11ABBNA, E13ABBNA, BWD15A9BNA, BWD15ABBNA, S11ABBNA, H14ABBNA, BWK11ABBNA, BWR12ABBNA, BWK12A9BNA, BWK14ABBNA, BWK12ABBNA, K11AB, BWC09AB, BWC11AB",
-      "version": "",
-      "amount": "18",
       "quantaty": 0,
       "title": ""
   },
@@ -2899,7 +2965,18 @@
       "subject": "refrigerador, geladeira",
       "model": "BRD47DB, BRD49DB, BRD50AB, BRE49BB, BRE50NBANA, BRE50NBBNA, BRE50NDANA, BRE50NDBNA, BRE50NKANA, BRE50NKBNA, BRE50NPANA, BRE50NPBNA, BRE50NRANA, BRE50NRBNA, BRE51NB, BRE51ND, BRE51NG, BRE51NK, BRE51NM, BRE51NR, BRE80ABANA, BRE80ABBNA, BRJ49BB, BRK50NBANA, BRK50NBBNA, BRK50NKANA, BRK50NKBNA, BRK50NM, BRK50NP, BRM47BBANA, BRM47BBBNA, BRM47GB, BRM47GK, BRM48NBANA, BRM48NBBNA, BRM48NKANA, BRM48NKBNA, BRM49BB, BRM49B, BRM49GB, BRM49GK, BRM50NBANA, BRM50NBBNA, BRM50NKANA, BRM50NKBNA, BRQ47BB, BRU49BB, BRU49BX, BRU49WB, BRU49YB, BRW50NB, BRW50NBVNA, BRW50NK, BRX49BX, BRX50B, BRY49BB, BRZ49BB, BRZ49B, CRM45BBANA, CRM45BBBNA, CRM51ABANA, CRM51ABBNA, CRM51AKANA, CRM51AKBNA, CRM51ZB, CRM52ABANA, CRM52ABBNA, CRM52AKANA, CRM52AKBNA, CRM54BBANA, CRM54BBBNA, CRM55ABANA, CRM55ABBNA, CRM55AKANA, CRM55AKBNA",
       "version": "",
-      "amount": "30",
+      "amount": "35",
+      "quantaty": 0,
+      "title": "interruptor da porta, interruptor da lâmpada, interruptor da lampada"
+  },
+  {
+      "name": "Interruptor Duplo Cinza",
+      "code": "W10471976",
+      "brand": "Brastemp/Consul",
+      "subject": "refrigerador, geladeira",
+      "model": "BRE49BR, BRE50NRANA, BRE50NRBNA, BRE51NR, BRE80AKANA, BRE80AKBNA, BRE80ARANA, BRE80ARBNA, BRK50NRANA, BRK50NRBNA, BRM47BR, BRM48NRANA, BRM48NRBNA, BRM50NRANA, BRM50NRBNA, BRR49BE, BRR49BR, BRU49BR, BRV80AKBNA, BRV80ARANA, BRV80ARBNA, BRW50NR, BRW50NRV, BRX50AR, BRX50CR, BRY49BR, BRZ49BR",
+      "version": "",
+      "amount": "50",
       "quantaty": 0,
       "title": "interruptor da porta, interruptor da lâmpada, interruptor da lampada"
   },
@@ -3109,6 +3186,17 @@
       "model": "BRB39ABBNA, CRB36ABBNA, CRB36ZBBNA, CRB39ABBNA, CRB39AC, CRB39AKBNA, CRG36ABBNA, ",
       "version": "",
       "amount": "80",
+      "quantaty": 0,
+      "title": "resistencia"
+  },
+  {
+      "name": "Resistência Degelo 220V",
+      "code": "W10741592",
+      "brand": "Brastemp/Consul",
+      "subject": "Refrigerador, geladeira,",
+      "model": "BRE57ABBNA, BRE57AKBNA, BRE58ABBNA, BRE58AKBNA, BRE59ABBNA, BRE59AEBNA, BRE59AKBNA, BRM39EBBNA, BRM39EKBNA, BRM42EBBNA, BRM42EKBNA, BRM44HBBNA, BRM44HKBNA, BRM45HBBNA, BRM45HKBNA, BRM53HBBNA, BRM53HKBNA, BRM54HBBNA, BRM54HKBNA, BRM56ABBNA, BRM56AKBNA, BRM56ZB, BRM56ZK, BRM57ABBNA, BRM57AKBNA, BRM58ABBNA, BRM58AKBNA, BRM59ABBNA, BRM59AKBNA, BRY59AEBNA, BRY59AKBNA, BRY59BEBNA, BRY59BKBNA, CRM33EB, CRM33ER, CRM37EB,  ",
+      "version": "",
+      "amount": "100",
       "quantaty": 0,
       "title": "resistencia"
   },
@@ -3350,7 +3438,7 @@
       "subject": "Refrigerador, geladeira,",
       "model": "BRK50NBANA, BRK50NBBNA, BRK50ND, BRK50NG, BRK50NKANA, BRK50NKBNA, BRK50NM, BRK50NP, BRK50NRANA, BRK50NRBNA, BRM47GB, BRM47GK, BRM48NBANA, BRM48NBBNA, BRM48NKANA, BRM48NKBNA, BRM48NRANA, BRM48NRBNA, BRM49GB, BRM49GK, BRM50NBANA, BRM50NBBNA, BRM50NKANA, BRM50NKBNA, BRM50NMANA, BRM50NMBNA, BRM50NRANA, BRM50NRBNA, BRM50NX, BRW50NB, BRW50NDV, BRW50NGV, BRW50NK, BRW50NMV, BRW50NPVNA, BRW50NR, CRM45BBANA, CRM45BBBNA, CRM51ABANA, CRM51ABBNA, CRM51AKANA, CRM51AKBNA, CRM51ZB, CRM52ABANA, CRM52ABBNA, CRM52AKANA, CRM52AKBNA, CRM54BBANA, CRM54BBBNA, CRM54BKANA, CRM54BKBNA, CRM55ABANA, CRM55ABBNA, CRM55AKANA, CRM55AKBNA",
       "version": "",
-      "amount": "80",
+      "amount": "60",
       "quantaty": 0,
       "title": "isopor, isopor evaporador, evaporador"
   },
@@ -3537,7 +3625,7 @@
       "subject": "split, condicionador de ar, ar condicionado",
       "model": "BBF07AB, BBF09AB, BBF12AB, BBF18AB, BBF22AB, BBR07AB, BBR09AB, BBR12AB, BBR18AB, BBR22AB, CB109AB, CB109OB, CB112AB, CB112OB, CB309AB, CB309OB, CB312AB, CB312OB, CBA09AB, CBA09OB, CBA12AB, CBA12OB, CBC09AB, CBC09OB, CBC12AB, CBC12OB, CBE07ABBNA, CBE09ABBNA, CBE09AFBNA, CBE12ABBNA, CBE12AFBNA, CBE18ABBNA, CBE18AFBNA, CBE22ABBNA, CBE22AFBNA, CBF07MB, CBF07OB, CBF09MB, CBF09OB, CBF12MB, CBF12OB, CBF30OB, CBN09O, CBR07OB, CBR09OB, CBR12OB, CBR30OB, CBU07AB, CBU07CBBNA, CBU07DBBNA, CBU07OB, CBU09AB, CBU09CBBNA, CBU09DB, CBU09OB, CBU12AB, CBU12OB, CBU18AB, CBU18OB, CBU22AB, CBU22OB, CBV07AB, CBV07OB, CBV09AB, CBV09CBBNA, CBV09DBBNA, CBV09OB, CBV12AB, CBV12OB, CBV18AB, CBV18OB, CBV22AB, CBV22OB, CBW07ABBNA, CBW09ABBNA, CBW09AFBNA, CBW12ABBNA, CBW12AFBNA, CBW18ABBNA, CBW18AFBNA, CBW22ABBNA, CBW22AFBNA",
       "version": "",
-      "amount": "40",
+      "amount": "50",
       "quantaty": 0,
       "title": "mangueira dreno"
   },
@@ -4533,7 +4621,7 @@
   },
   {
       "name": "Válvula Schrader de 1/4",
-      "code": "188822",
+      "code": "188829",
       "brand": "Dugold",
       "subject": "multimarcas, condicionador de ar, ar condicionado",
       "model": "",
@@ -4928,13 +5016,35 @@
       "title": "mecanização, mecanizaçao, mecanizacao"
   },
   {
-      "name": "Placa Eletrônica LT12F",
+      "name": "Placa Eletrônica LT12F Versão Obsoleta",
       "code": "70201326",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LT12f",
       "version": "",
       "amount": "200",
+      "quantaty": 0,
+      "title": "potencia"
+  }, 
+  {
+    "name": "Placa Eletrônica LT12F Nova Versão",
+    "code": "A99035153",
+    "brand": "Electrolux",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "LT12f",
+    "version": "",
+    "amount": "220",
+    "quantaty": 0,
+    "title": "placa potencia, placa eletronica, placa electrolux, 70201326"
+  },
+  {
+      "name": "Placa Eletrônica LT09E",
+      "code": "A12897205",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT09E",
+      "version": "",
+      "amount": "170",
       "quantaty": 0,
       "title": "potencia"
   },
@@ -4950,7 +5060,7 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Placa Eletrônica LBU15",
+      "name": "Placa Eletrônica LBU15 Versão Obsoleta",
       "code": "70200963",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -4959,6 +5069,17 @@
       "amount": "230",
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LBU15 Nova Versão",
+      "code": "A99035151",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LBU15",
+      "version": "",
+      "amount": "220",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70200963"
   },
   {
       "name": "Placa Eletrônica LT12Q",
@@ -4993,6 +5114,17 @@
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
   },
+  {
+    "name": "Placa Eletrônica LES09",
+    "code": "A12897206",
+    "brand": "Electrolux",
+    "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+    "model": "LES09",
+    "version": "",
+    "amount": "200",
+    "quantaty": 0,
+    "title": "potencia, eletronico, potência"
+},
   {
       "name": "Placa Eletrônica LTD06",
       "code": "70202985",
@@ -5203,7 +5335,7 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Placa Eletrônica LTC07",
+      "name": "Placa Eletrônica LTC07 Versão Obsoleta",
       "code": "70200562",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5214,7 +5346,18 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Placa Eletrônica LT11F",
+      "name": "Placa Eletrônica LTC07 Nova Versão",
+      "code": "A99021902",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTC07",
+      "version": "",
+      "amount": "170",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70200562"
+  },
+  {
+      "name": "Placa Eletrônica LT11F Versão Obsoleta",
       "code": "70201675",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5223,6 +5366,17 @@
       "amount": "220",
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LT11F Nova Versão",
+      "code": "A99035155",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LT11F",
+      "version": "",
+      "amount": "220",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70201675"
   },
   {
       "name": "Placa Eletrônica LT15F",
@@ -5247,7 +5401,7 @@
       "title": "potencia, eletronico, potência"
   },
   {
-      "name": "Placa Eletrônica LTD15",
+      "name": "Placa Eletrônica LTD15 Versão Obsoleta",
       "code": "70203330",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
@@ -5256,6 +5410,17 @@
       "amount": "200",
       "quantaty": 0,
       "title": "potencia, eletronico, potência"
+  },
+  {
+      "name": "Placa Eletrônica LTD15 Nova Versão",
+      "code": "A99035167",
+      "brand": "Electrolux",
+      "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
+      "model": "LTD15",
+      "version": "",
+      "amount": "200",
+      "quantaty": 0,
+      "title": "potencia, eletronico, potência, 70203330"
   },
   {
       "name": "Placa Eletrônica LT10B",
@@ -5396,7 +5561,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LTD11, LTD15, LTD13",
       "version": "",
-      "amount": "60",
+      "amount": "45",
       "quantaty": 0,
       "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
   },
@@ -5445,13 +5610,13 @@
       "title": "valvula dupla, valvula de entrada, válvula de entrada, vlavula entrada"
   },
   {
-      "name": "Eletrobomba de Drenagem 220V",
-      "code": "64503057",
+      "name": "Eletrobomba de Drenagem 220V (64503057) ",
+      "code": "A11986701",
       "brand": "Electrolux",
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LAC13/LPR13/LWI13/LPR14/LT10B/LT12Q/LTA13/LES09/LT13B/LTD15/LT09E/LAC09/LAC11/LES13/LTP16/LTD16/LBU16/LT15F/LT12F/LTD11/LP12Q/LTE12/LTP12/LTP15/LTD09/LTE09/LTC07/LBU15/LEC12/LT11F/LTM15/LTP10/LUC10/LTD13/LT12B/LT08E/LM13Q/LAC12/LAC16/LAP16/LAI17/LTC10/LTE08/LT09B",
       "version": "",
-      "amount": "60",
+      "amount": "50",
       "quantaty": 0,
       "title": "bomba drenagem, bomba de drenagem"
   },
@@ -5682,7 +5847,7 @@
       "subject": "geladeira, refrigerador",
       "model": "DF36A/DF36X/DF42/DF42X/DFN42/DFX42/DW42X/RFE38/RFE39/TF42/TF42S/",
       "version": "",
-      "amount": "85",
+      "amount": "100",
       "quantaty": 0,
       "title": "placa display"
   },
@@ -5792,7 +5957,7 @@
       "subject": "geladeira, refrigerador",
       "model": "DF47/DF49A/DF49X/DF50/DF50X/DFN49/DFN50/DFW50/DFX49/DFX50/DW50X/DWX50/",
       "version": "",
-      "amount": "130",
+      "amount": "140",
       "quantaty": 0,
       "title": "placa potencia, controle eletrônico, controle eletronico"
   } ,
@@ -5935,7 +6100,7 @@
       "subject": "Máquina de Lavar, Lavadora, Maquina de lavar",
       "model": "LAC13/LES13/LTD15/LT13B/LAC09/LPE16/LAC16/LES15/LTD09/LTD11/LT12F/LT15F/LT10B/LT12B/LTD13/LAC11/LAC12",
       "version": "",
-      "amount": "80",
+      "amount": "90",
       "quantaty": 0,
       "title": "placa display"
   },
@@ -6422,6 +6587,17 @@
       "amount": "450",
       "quantaty": 0,
       "title": "mecanismo, mecanica, transmissao, mecânica"
+  },
+  {
+      "name": "Embreagem da Trasmissão",
+      "code": "A99806501",
+      "brand": "Electrolux",
+      "subject": "lavadora, máquina de lavar, maquina de lavar",
+      "model": "LA15F/LAC12/LAC13/LBU15/LBU16/LDD16/LEC12/LES13/LM13Q/LP12Q/LPR13/LPR14/LT12B/LT12F/LT12Q/LT13B/LT15F/LTA13/LTA15/LTC15/LTD13/LTD15/LTD16/LTE12/LTM15/LTM16/LTP12/LTP15/LTP16/LTR15/LWI13/",
+      "version": "",
+      "amount": "60",
+      "quantaty": 0,
+      "title": "mecanismo, mecanica, transmissao, mecânica, embreagem, 70201828"
   },
   {
       "name": "Capacitor 0,85µF 220V",
@@ -7115,6 +7291,17 @@
       "amount": "140",
       "quantaty": 0,
       "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador"
+  },
+  {
+      "name": "Filtro Purificador PAPPCA40",
+      "code": "A11954301",
+      "brand": "Electrolux",
+      "subject": "bebedouro, purificador, gelagua",
+      "model": "",
+      "version": "",
+      "amount": "140",
+      "quantaty": 0,
+      "title": "refil purificador, refil do purificador, refil para purificador, filtro do purificador, filtro para purificador, 15663200A01261"
   },
   {
       "name": "Filtro Purificador",
